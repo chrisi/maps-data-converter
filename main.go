@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"maps-data-converter/model"
 	"math"
+	"sort"
 )
 
 const MapFeet = 3359580.0 // 3358699.5 // Falcon const
@@ -94,8 +95,6 @@ func main() {
 
 		detail := model.Details{
 			Name: abRecord.Name,
-			Lat:  "",
-			Long: "",
 			Elev: "",
 			Rwy:  BuildRunwayInfo(abRecord.Runways),
 		}
@@ -114,6 +113,7 @@ func main() {
 		}
 
 		sta := model.Station{
+			OcdIdx:  abRecord.OcdIdx,
 			Name:    abKey,
 			Country: "KTO",
 			Type:    "Airbase",
@@ -124,6 +124,10 @@ func main() {
 
 		records = append(records, sta)
 	}
+
+	sort.Slice(records, func(i, j int) bool {
+		return records[i].Name < records[j].Name
+	})
 
 	err = writeRecordsJSON("stations.json", records)
 	if err != nil {

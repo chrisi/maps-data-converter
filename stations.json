@@ -1,1425 +1,6 @@
 [
   {
-    "name": "TONGHUA",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1455,
-    "posy": 375,
-    "details": {
-      "name": "Tonghua Sanyuanpu Airport (ZYTN)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "04/22",
-      "tcn": "093",
-      "atis": "133.050",
-      "ops": "",
-      "gnd": "228.525",
-      "twr": "229.000",
-      "appdep": "229.050"
-    }
-  },
-  {
-    "name": "SHENYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 652,
-    "posy": 538,
-    "details": {
-      "name": "Shenyang Yuhong Airport (ZYSQ)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03/21",
-      "tcn": "089",
-      "atis": "132.000",
-      "ops": "",
-      "gnd": "228.100",
-      "twr": "228.200",
-      "appdep": "228.250"
-    }
-  },
-  {
-    "name": "IWAMI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 3621,
-    "posy": 3711,
-    "details": {
-      "name": "Iwami Airport (RJOW)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "10/28",
-      "tcn": "057",
-      "atis": "127.200",
-      "ops": "256.000",
-      "gnd": "236.800",
-      "twr": "225.625",
-      "appdep": "279.200"
-    }
-  },
-  {
-    "name": "HWANGSUWON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2268,
-    "posy": 1079,
-    "details": {
-      "name": "Hwangsuwon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "123.550",
-      "ops": "360.000",
-      "gnd": "312.600",
-      "twr": "368.500",
-      "appdep": "344.300"
-    }
-  },
-  {
-    "name": "SEOSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1686,
-    "posy": 2842,
-    "details": {
-      "name": "Seosan AB (RKTP)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03L/21R - 03R/21L",
-      "tcn": "073",
-      "atis": "130.300",
-      "ops": "318.100",
-      "gnd": "275.800",
-      "twr": "353.100",
-      "appdep": "253.950"
-    }
-  },
-  {
-    "name": "PYEONGTAEK",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1881,
-    "posy": 2730,
-    "details": {
-      "name": "Pyeongtaek AAF (RKSG)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "019",
-      "atis": "128.250",
-      "ops": "294.100",
-      "gnd": "229.700",
-      "twr": "257.800",
-      "appdep": "363.100"
-    }
-  },
-  {
-    "name": "SONGWHAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1937,
-    "posy": 2762,
-    "details": {
-      "name": "Songwhan Highway Strip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "18/36",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "GUMI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2312,
-    "posy": 3085,
-    "details": {
-      "name": "Gumi Highway Strip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "YECHEON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2349,
-    "posy": 2877,
-    "details": {
-      "name": "Yecheon AB (RKTY)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "135.800",
-      "ops": "236.075",
-      "gnd": "234.500",
-      "twr": "269.500",
-      "appdep": "229.350"
-    }
-  },
-  {
-    "name": "YEONGJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2433,
-    "posy": 2784,
-    "details": {
-      "name": "Yeongju Highway Strip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "11/29",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "JUNGWON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2185,
-    "posy": 2701,
-    "details": {
-      "name": "Jungwon AB (RKTI)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "18R/36L - 18L/36R",
-      "tcn": "005",
-      "atis": "135.600",
-      "ops": "234.950",
-      "gnd": "275.900",
-      "twr": "230.150",
-      "appdep": "306.700"
-    }
-  },
-  {
-    "name": "GANGNEUNG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2556,
-    "posy": 2375,
-    "details": {
-      "name": "Gangneung AB (RKNN)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "07/25",
-      "tcn": "056",
-      "atis": "132.050",
-      "ops": "226.175",
-      "gnd": "275.800",
-      "twr": "334.900",
-      "appdep": "304.000"
-    }
-  },
-  {
-    "name": "SINGAL",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1907,
-    "posy": 2579,
-    "details": {
-      "name": "Singal Highway Strip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "18/36",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.800",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "HAEJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1444,
-    "posy": 2262,
-    "details": {
-      "name": "Haeju Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "122.550",
-      "ops": "315.250",
-      "gnd": "282.600",
-      "twr": "280.400",
-      "appdep": "278.600"
-    }
-  },
-  {
-    "name": "TAETAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1258,
-    "posy": 2202,
-    "details": {
-      "name": "Taetan Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "124.900",
-      "ops": "330.450",
-      "gnd": "290.300",
-      "twr": "288.700",
-      "appdep": "284.700"
-    }
-  },
-  {
-    "name": "KWAIL",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1182,
-    "posy": 2069,
-    "details": {
-      "name": "Kwail Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15/33",
-      "tcn": "",
-      "atis": "125.300",
-      "ops": "368.450",
-      "gnd": "350.000",
-      "twr": "349.400",
-      "appdep": "349.600"
-    }
-  },
-  {
-    "name": "ONCHON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1262,
-    "posy": 1863,
-    "details": {
-      "name": "Onchon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19",
-      "tcn": "",
-      "atis": "125.200",
-      "ops": "314.800",
-      "gnd": "300.600",
-      "twr": "302.400",
-      "appdep": "301.700"
-    }
-  },
-  {
-    "name": "SANGWON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1554,
-    "posy": 1928,
-    "details": {
-      "name": "Sangwon Highwaystrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15/33",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "KOKSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1736,
-    "posy": 1962,
-    "details": {
-      "name": "Koksan Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "06/24",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "231.400",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "KANGDONG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1544,
-    "posy": 1752,
-    "details": {
-      "name": "Kangdong Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03/21",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "HYANGSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1602,
-    "posy": 1366,
-    "details": {
-      "name": "Hyangsan Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "12/30",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "HYON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2031,
-    "posy": 1998,
-    "details": {
-      "name": "Hyon-Ni Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19",
-      "tcn": "",
-      "atis": "124.325",
-      "ops": "298.200",
-      "gnd": "241.900",
-      "twr": "242.900",
-      "appdep": "230.500"
-    }
-  },
-  {
-    "name": "YONPO",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2060,
-    "posy": 1474,
-    "details": {
-      "name": "Yonpo Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "PYONGYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1462,
-    "posy": 1799,
-    "details": {
-      "name": "Pyongyang Elite Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "16/34",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "SUGAMNI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2773,
-    "posy": 630,
-    "details": {
-      "name": "Sugamni Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "TANCHON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2511,
-    "posy": 1203,
-    "details": {
-      "name": "Tanchon Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "IWON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2462,
-    "posy": 1220,
-    "details": {
-      "name": "Iwon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "10/28",
-      "tcn": "",
-      "atis": "125.400",
-      "ops": "300.600",
-      "gnd": "240.600",
-      "twr": "234.400",
-      "appdep": "228.900"
-    }
-  },
-  {
-    "name": "YONGHUNG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1975,
-    "posy": 1587,
-    "details": {
-      "name": "Yonghung Highwaystrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "10/28",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "KALMA",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2040,
-    "posy": 1755,
-    "details": {
-      "name": "Kalma Airport (ZKWS)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15R/33L - 15L/33R",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "OKPYONGNI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1986,
-    "posy": 1706,
-    "details": {
-      "name": "Okpyongni Highwaystrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15/33",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "SONDOK",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2037,
-    "posy": 1495,
-    "details": {
-      "name": "Sondok Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19",
-      "tcn": "",
-      "atis": "123.700",
-      "ops": "362.150",
-      "gnd": "340.300",
-      "twr": "343.800",
-      "appdep": "342.600"
-    }
-  },
-  {
-    "name": "TOKSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2086,
-    "posy": 1380,
-    "details": {
-      "name": "Toksan Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "04/22",
-      "tcn": "",
-      "atis": "123.000",
-      "ops": "384.300",
-      "gnd": "340.700",
-      "twr": "324.800",
-      "appdep": "331.600"
-    }
-  },
-  {
-    "name": "MIRIM",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1471,
-    "posy": 1816,
-    "details": {
-      "name": "Mirim Airport",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "123.425",
-      "ops": "290.500",
-      "gnd": "225.100",
-      "twr": "225.300",
-      "appdep": "225.200"
-    }
-  },
-  {
-    "name": "SUNCHON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1494,
-    "posy": 1638,
-    "details": {
-      "name": "Sunchon  (ZKSC)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15/33",
-      "tcn": "",
-      "atis": "123.100",
-      "ops": "360.100",
-      "gnd": "256.200",
-      "twr": "253.100",
-      "appdep": "254.800"
-    }
-  },
-  {
-    "name": "KAECHON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1500,
-    "posy": 1488,
-    "details": {
-      "name": "Kaechon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "04/22",
-      "tcn": "",
-      "atis": "123.850",
-      "ops": "395.500",
-      "gnd": "333.100",
-      "twr": "350.000",
-      "appdep": "340.800"
-    }
-  },
-  {
-    "name": "TAECHON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1361,
-    "posy": 1418,
-    "details": {
-      "name": "Taechon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "11/29",
-      "tcn": "",
-      "atis": "124.700",
-      "ops": "392.100",
-      "gnd": "260.400",
-      "twr": "275.500",
-      "appdep": "268.900"
-    }
-  },
-  {
-    "name": "PANGHYON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1247,
-    "posy": 1424,
-    "details": {
-      "name": "Panghyon Highwaystrip South",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "11/29",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "KWAKSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1229,
-    "posy": 1490,
-    "details": {
-      "name": "Kwaksan Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "04/22",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "DAEGU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2467,
-    "posy": 3202,
-    "details": {
-      "name": "Daegu AB (RKTN)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "12R/30L - 12L/30R",
-      "tcn": "125",
-      "atis": "127.650",
-      "ops": "240.600",
-      "gnd": "275.800",
-      "twr": "365.000",
-      "appdep": "346.300"
-    }
-  },
-  {
-    "name": "GWANGJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1795,
-    "posy": 3542,
-    "details": {
-      "name": "Gwangju AB (RKJJ)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03L/21R - 03R/21L",
-      "tcn": "091",
-      "atis": "128.875",
-      "ops": "234.700",
-      "gnd": "275.800",
-      "twr": "254.600",
-      "appdep": "268.000"
-    }
-  },
-  {
-    "name": "GUNSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1730,
-    "posy": 3198,
-    "details": {
-      "name": "Gunsan AB (RKJK)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "17/35",
-      "tcn": "",
-      "atis": "120.225",
-      "ops": "304.800",
-      "gnd": "273.525",
-      "twr": "292.300",
-      "appdep": "292.650"
-    }
-  },
-  {
-    "name": "CHEONGJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2045,
-    "posy": 2841,
-    "details": {
-      "name": "Cheongju Intl Airport (RKTU)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "05L/23R - 05R/23L",
-      "tcn": "",
-      "atis": "128.850",
-      "ops": "305.500",
-      "gnd": "275.850",
-      "twr": "236.600",
-      "appdep": "265.750"
-    }
-  },
-  {
-    "name": "WONJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2213,
-    "posy": 2517,
-    "details": {
-      "name": "Wonju AB (RKNW)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03/21",
-      "tcn": "039",
-      "atis": "128.600",
-      "ops": "225.575",
-      "gnd": "277.800",
-      "twr": "265.500",
-      "appdep": "292.600"
-    }
-  },
-  {
-    "name": "PANGHYON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1264,
-    "posy": 1404,
-    "details": {
-      "name": "Panghyon Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "12/30",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "SUNAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1415,
-    "posy": 1720,
-    "details": {
-      "name": "Sunan Intl Airport (ZKPY)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "16/34 - 18/36",
-      "tcn": "051",
-      "atis": "124.800",
-      "ops": "320.425",
-      "gnd": "262.500",
-      "twr": "264.000",
-      "appdep": "265.000"
-    }
-  },
-  {
-    "name": "SEOUL",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1909,
-    "posy": 2514,
-    "details": {
-      "name": "Seoul AB (RKSM)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19 - 18/36",
-      "tcn": "",
-      "atis": "126.475",
-      "ops": "225.775",
-      "gnd": "276.200",
-      "twr": "236.600",
-      "appdep": "363.800"
-    }
-  },
-  {
-    "name": "GIMPO",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1799,
-    "posy": 2467,
-    "details": {
-      "name": "Gimpo Intl Airport (RKSS)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "14R/32L - 14L/32R",
-      "tcn": "083",
-      "atis": "126.350",
-      "ops": "317.800",
-      "gnd": "236.700",
-      "twr": "240.900",
-      "appdep": "363.800"
-    }
-  },
-  {
-    "name": "HWANGJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1450,
-    "posy": 1975,
-    "details": {
-      "name": "Hwangju Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "12/30",
-      "tcn": "",
-      "atis": "124.100",
-      "ops": "362.525",
-      "gnd": "338.400",
-      "twr": "337.600",
-      "appdep": "335.200"
-    }
-  },
-  {
-    "name": "SUWON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1875,
-    "posy": 2611,
-    "details": {
-      "name": "Suwon AB (RKSW)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "14R/32L - 14L/32R",
-      "tcn": "022",
-      "atis": "126.425",
-      "ops": "225.675",
-      "gnd": "275.700",
-      "twr": "366.000",
-      "appdep": "306.400"
-    }
-  },
-  {
-    "name": "OSAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1878,
-    "posy": 2677,
-    "details": {
-      "name": "Osan AB (RKSO)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "08L/26R - 08R/26L",
-      "tcn": "",
-      "atis": "132.125",
-      "ops": "272.700",
-      "gnd": "253.700",
-      "twr": "308.800",
-      "appdep": "306.300"
-    }
-  },
-  {
-    "name": "KUUM",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2189,
-    "posy": 1885,
-    "details": {
-      "name": "Kuum-Ni Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "05/23",
-      "tcn": "",
-      "atis": "124.200",
-      "ops": "320.900",
-      "gnd": "350.200",
-      "twr": "388.700",
-      "appdep": "380.600"
-    }
-  },
-  {
-    "name": "ORANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2766,
-    "posy": 739,
-    "details": {
-      "name": "Orang Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "03/21",
-      "tcn": "",
-      "atis": "123.200",
-      "ops": "304.600",
-      "gnd": "263.100",
-      "twr": "264.000",
-      "appdep": "244.300"
-    }
-  },
-  {
-    "name": "KILCHU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2657,
-    "posy": 969,
-    "details": {
-      "name": "Kilchu Airstrip",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "231.400",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "GIMHAE",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2570,
-    "posy": 3516,
-    "details": {
-      "name": "Gimhae Intl Airport (RKPK)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "17R/35L - 17L/35R",
-      "tcn": "",
-      "atis": "126.650",
-      "ops": "235.100",
-      "gnd": "274.800",
-      "twr": "233.300",
-      "appdep": "225.100"
-    }
-  },
-  {
-    "name": "POHANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2740,
-    "posy": 3157,
-    "details": {
-      "name": "Pohang AB (RKTH)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "033",
-      "atis": "127.400",
-      "ops": "317.375",
-      "gnd": "275.400",
-      "twr": "236.600",
-      "appdep": "232.400"
-    }
-  },
-  {
-    "name": "SACHEON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2254,
-    "posy": 3564,
-    "details": {
-      "name": "Sacheon AB (RKPS)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "06L/24R - 06R/24L",
-      "tcn": "",
-      "atis": "126.625",
-      "ops": "225.475",
-      "gnd": "275.800",
-      "twr": "305.400",
-      "appdep": "317.425"
-    }
-  },
-  {
-    "name": "PUKCHANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1520,
-    "posy": 1597,
-    "details": {
-      "name": "Pukchang-up Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "13/31",
-      "tcn": "",
-      "atis": "123.600",
-      "ops": "382.500",
-      "gnd": "265.500",
-      "twr": "264.900",
-      "appdep": "265.100"
-    }
-  },
-  {
-    "name": "UIJU",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1027,
-    "posy": 1296,
-    "details": {
-      "name": "Uiju Airbase (ZKUJ)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "04/22",
-      "tcn": "055",
-      "atis": "123.300",
-      "ops": "337.100",
-      "gnd": "370.600",
-      "twr": "372.000",
-      "appdep": "372.550"
-    }
-  },
-  {
-    "name": "SAMJIYON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2350,
-    "posy": 534,
-    "details": {
-      "name": "Samjiyon Airport (ZKSE)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "06/24",
-      "tcn": "050",
-      "atis": "125.000",
-      "ops": "318.500",
-      "gnd": "298.100",
-      "twr": "299.100",
-      "appdep": "300.250"
-    }
-  },
-  {
-    "name": "MANPO",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1664,
-    "posy": 873,
-    "details": {
-      "name": "Manpo Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "",
-      "atis": "124.500",
-      "ops": "326.700",
-      "gnd": "262.650",
-      "twr": "242.400",
-      "appdep": "262.400"
-    }
-  },
-  {
-    "name": "KUKTONG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2740,
-    "posy": 819,
-    "details": {
-      "name": "Kuktong Airbase",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "233.700",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "YANGYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2458,
-    "posy": 2239,
-    "details": {
-      "name": "Yangyang Intl Airport (RKNY)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "14/32",
-      "tcn": "",
-      "atis": "128.825",
-      "ops": "",
-      "gnd": "280.125",
-      "twr": "240.350",
-      "appdep": "241.600"
-    }
-  },
-  {
-    "name": "IWAKUNI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 3796,
-    "posy": 3940,
-    "details": {
-      "name": "Iwakuni MCAS (RJOI)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19",
-      "tcn": "126",
-      "atis": "128.400",
-      "ops": "335.700",
-      "gnd": "321.300",
-      "twr": "299.750",
-      "appdep": "331.400"
-    }
-  },
-  {
-    "name": "TSUSHIMA",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2722,
-    "posy": 3912,
-    "details": {
-      "name": "Tsushima Airport (RJDT)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "14/32",
-      "tcn": "051",
-      "atis": "124.325",
-      "ops": "",
-      "gnd": "230.900",
-      "twr": "231.900",
-      "appdep": "240.125"
-    }
-  },
-  {
-    "name": "YAMAGUCHI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 3445,
-    "posy": 4049,
-    "details": {
-      "name": "Yamaguchi-Ube Airport (RJDC)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "06/24",
-      "tcn": "045",
-      "atis": "118.025",
-      "ops": "295.375",
-      "gnd": "265.800",
-      "twr": "260.200",
-      "appdep": "323.750"
-    }
-  },
-  {
-    "name": "INCHEON",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1677,
-    "posy": 2501,
-    "details": {
-      "name": "Incheon Intl Airport (RKSI)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15R/33L - 15L/33R",
-      "tcn": "076",
-      "atis": "128.450",
-      "ops": "",
-      "gnd": "266.925",
-      "twr": "231.800",
-      "appdep": "293.225"
-    }
-  },
-  {
-    "name": "MUAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1642,
-    "posy": 3598,
-    "details": {
-      "name": "Muan Intl Airport (RKJB)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "18/36",
-      "tcn": "047",
-      "atis": "127.425",
-      "ops": "",
-      "gnd": "231.700",
-      "twr": "228.250",
-      "appdep": "240.000"
-    }
-  },
-  {
-    "name": "HIROSHIMA",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 4036,
-    "posy": 3795,
-    "details": {
-      "name": "Hiroshima Airport (RJOA)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "09/27",
-      "tcn": "",
-      "atis": "127.250",
-      "ops": "314.625",
-      "gnd": "299.300",
-      "twr": "357.650",
-      "appdep": "392.625"
-    }
-  },
-  {
-    "name": "DANDONG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 950,
-    "posy": 1351,
-    "details": {
-      "name": "Dandong Langtou Airbase (ZYDD)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "18/36",
-      "tcn": "066",
-      "atis": "122.000",
-      "ops": "",
-      "gnd": "226.000",
-      "twr": "226.025",
-      "appdep": "226.100"
-    }
-  },
-  {
-    "name": "DALIAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 68,
-    "posy": 1634,
-    "details": {
-      "name": "Dalian Sanshilipu (ZYLP)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "11/29",
-      "tcn": "063",
-      "atis": "121.000",
-      "ops": "",
-      "gnd": "225.850",
-      "twr": "225.925",
-      "appdep": "225.975"
-    }
-  },
-  {
-    "name": "PULANDIAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 161,
-    "posy": 1568,
-    "details": {
-      "name": "Pulandian Airbase (ZYPD)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "079",
-      "atis": "128.050",
-      "ops": "",
-      "gnd": "227.200",
-      "twr": "227.250",
-      "appdep": "227.300"
-    }
-  },
-  {
+    "ocdIdx": 344,
     "name": "ANSHAN",
     "country": "KTO",
     "type": "Airbase",
@@ -1427,8 +8,6 @@
     "posy": 849,
     "details": {
       "name": "Anshan Airbase (ZYAS)",
-      "lat": "",
-      "long": "",
       "elev": "",
       "rwy": "02/20",
       "tcn": "021",
@@ -1440,206 +19,7 @@
     }
   },
   {
-    "name": "CHANGJIN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 1968,
-    "posy": 1220,
-    "details": {
-      "name": "Changjin-Up Airbase (ZKJN)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "15/33",
-      "tcn": "",
-      "atis": "",
-      "ops": "",
-      "gnd": "",
-      "twr": "",
-      "appdep": ""
-    }
-  },
-  {
-    "name": "TAOXIAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 714,
-    "posy": 623,
-    "details": {
-      "name": "Taoxian Airbase (ZYTX)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "05/23",
-      "tcn": "092",
-      "atis": "127.450",
-      "ops": "",
-      "gnd": "228.350",
-      "twr": "228.400",
-      "appdep": "228.475"
-    }
-  },
-  {
-    "name": "WEIHAI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 178,
-    "posy": 2574,
-    "details": {
-      "name": "Weihai Dashuibo Airport (ZSWH)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "097",
-      "atis": "134.000",
-      "ops": "",
-      "gnd": "229.100",
-      "twr": "229.150",
-      "appdep": "229.250"
-    }
-  },
-  {
-    "name": "LIAOYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 567,
-    "posy": 777,
-    "details": {
-      "name": "Liaoyang Airbase  (ZYLY)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "071",
-      "atis": "127.000",
-      "ops": "",
-      "gnd": "226.800",
-      "twr": "226.875",
-      "appdep": "226.900"
-    }
-  },
-  {
-    "name": "SHENYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 700,
-    "posy": 520,
-    "details": {
-      "name": "Shenyang Beiling Airbase (ZYBG)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01/19",
-      "tcn": "089",
-      "atis": "132.000",
-      "ops": "",
-      "gnd": "228.100",
-      "twr": "228.200",
-      "appdep": "228.250"
-    }
-  },
-  {
-    "name": "SHENYANG",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 717,
-    "posy": 559,
-    "details": {
-      "name": "Shenyang Dongta Airbase (ZYYY)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "05/23",
-      "tcn": "089",
-      "atis": "132.000",
-      "ops": "",
-      "gnd": "228.100",
-      "twr": "228.200",
-      "appdep": "228.250"
-    }
-  },
-  {
-    "name": "LAOOHUTUN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 80,
-    "posy": 1466,
-    "details": {
-      "name": "Laoohutun Airbase (ZYLN)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "05/23",
-      "tcn": "070",
-      "atis": "126.000",
-      "ops": "",
-      "gnd": "226.600",
-      "twr": "226.675",
-      "appdep": "226.700"
-    }
-  },
-  {
-    "name": "FUXIN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 134,
-    "posy": 398,
-    "details": {
-      "name": "Fuxin Airport (ZXFX)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "01R/19L - 01L/19R",
-      "tcn": "068",
-      "atis": "124.050",
-      "ops": "",
-      "gnd": "226.300",
-      "twr": "226.350",
-      "appdep": "226.400"
-    }
-  },
-  {
-    "name": "YANJI",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 2686,
-    "posy": 95,
-    "details": {
-      "name": "Yanji Airbase (ZYYJ)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "08/26",
-      "tcn": "099",
-      "atis": "135.000",
-      "ops": "",
-      "gnd": "229.300",
-      "twr": "229.350",
-      "appdep": "229.525"
-    }
-  },
-  {
-    "name": "KAIYUAN",
-    "country": "KTO",
-    "type": "Airbase",
-    "posx": 893,
-    "posy": 236,
-    "details": {
-      "name": "Kaiyuan-Tieling Airbase (ZYKT)",
-      "lat": "",
-      "long": "",
-      "elev": "",
-      "rwy": "02/20",
-      "tcn": "069",
-      "atis": "125.050",
-      "ops": "",
-      "gnd": "226.475",
-      "twr": "226.500",
-      "appdep": "226.575"
-    }
-  },
-  {
+    "ocdIdx": 349,
     "name": "CHANGBAISHAN",
     "country": "KTO",
     "type": "Airbase",
@@ -1647,8 +27,6 @@
     "posy": 464,
     "details": {
       "name": "Changbaishan Airport (ZYBS)",
-      "lat": "",
-      "long": "",
       "elev": "",
       "rwy": "18/36",
       "tcn": "061",
@@ -1660,46 +38,102 @@
     }
   },
   {
-    "name": "SANPHUZEN",
+    "ocdIdx": 169,
+    "name": "CHANGJIN",
     "country": "KTO",
     "type": "Airbase",
-    "posx": 1463,
-    "posy": 467,
+    "posx": 1968,
+    "posy": 1220,
     "details": {
-      "name": "Sanphuzen Liyoufangcun Airport (ZYPZ)",
-      "lat": "",
-      "long": "",
+      "name": "Changjin-Up Airbase (ZKJN)",
       "elev": "",
-      "rwy": "04/22",
-      "tcn": "080",
-      "atis": "129.000",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
       "ops": "",
-      "gnd": "227.500",
-      "twr": "227.600",
-      "appdep": "227.725"
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
     }
   },
   {
-    "name": "YINGKOU",
+    "ocdIdx": 644,
+    "name": "CHEONGJU",
     "country": "KTO",
     "type": "Airbase",
-    "posx": 306,
-    "posy": 1090,
+    "posx": 2045,
+    "posy": 2841,
     "details": {
-      "name": "Yingkou Langqi Airport (ZYYK)",
-      "lat": "",
-      "long": "",
+      "name": "Cheongju Intl Airport (RKTU)",
       "elev": "",
-      "rwy": "03/21",
-      "tcn": "100",
-      "atis": "134.050",
-      "ops": "",
-      "gnd": "229.575",
-      "twr": "229.625",
-      "appdep": "229.800"
+      "rwy": "05L/23R - 05R/23L",
+      "tcn": "",
+      "atis": "128.850",
+      "ops": "305.500",
+      "gnd": "275.850",
+      "twr": "236.600",
+      "appdep": "265.750"
     }
   },
   {
+    "ocdIdx": 7,
+    "name": "DAEGU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2467,
+    "posy": 3202,
+    "details": {
+      "name": "Daegu AB (RKTN)",
+      "elev": "",
+      "rwy": "12R/30L - 12L/30R",
+      "tcn": "125",
+      "atis": "127.650",
+      "ops": "240.600",
+      "gnd": "275.800",
+      "twr": "365.000",
+      "appdep": "346.300"
+    }
+  },
+  {
+    "ocdIdx": 827,
+    "name": "DALIAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 68,
+    "posy": 1634,
+    "details": {
+      "name": "Dalian Sanshilipu (ZYLP)",
+      "elev": "",
+      "rwy": "11/29",
+      "tcn": "063",
+      "atis": "121.000",
+      "ops": "",
+      "gnd": "225.850",
+      "twr": "225.925",
+      "appdep": "225.975"
+    }
+  },
+  {
+    "ocdIdx": 350,
+    "name": "DANDONG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 950,
+    "posy": 1351,
+    "details": {
+      "name": "Dandong Langtou Airbase (ZYDD)",
+      "elev": "",
+      "rwy": "18/36",
+      "tcn": "066",
+      "atis": "122.000",
+      "ops": "",
+      "gnd": "226.000",
+      "twr": "226.025",
+      "appdep": "226.100"
+    }
+  },
+  {
+    "ocdIdx": 831,
     "name": "FUXIN",
     "country": "KTO",
     "type": "Airbase",
@@ -1707,8 +141,6 @@
     "posy": 393,
     "details": {
       "name": "Fuxin Airbase",
-      "lat": "",
-      "long": "",
       "elev": "",
       "rwy": "08/26",
       "tcn": "068",
@@ -1720,6 +152,634 @@
     }
   },
   {
+    "ocdIdx": 828,
+    "name": "FUXIN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 134,
+    "posy": 398,
+    "details": {
+      "name": "Fuxin Airport (ZXFX)",
+      "elev": "",
+      "rwy": "01R/19L - 01L/19R",
+      "tcn": "068",
+      "atis": "124.050",
+      "ops": "",
+      "gnd": "226.300",
+      "twr": "226.350",
+      "appdep": "226.400"
+    }
+  },
+  {
+    "ocdIdx": 638,
+    "name": "GANGNEUNG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2556,
+    "posy": 2375,
+    "details": {
+      "name": "Gangneung AB (RKNN)",
+      "elev": "",
+      "rwy": "07/25",
+      "tcn": "056",
+      "atis": "132.050",
+      "ops": "226.175",
+      "gnd": "275.800",
+      "twr": "334.900",
+      "appdep": "304.000"
+    }
+  },
+  {
+    "ocdIdx": 85,
+    "name": "GIMHAE",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2570,
+    "posy": 3516,
+    "details": {
+      "name": "Gimhae Intl Airport (RKPK)",
+      "elev": "",
+      "rwy": "17R/35L - 17L/35R",
+      "tcn": "",
+      "atis": "126.650",
+      "ops": "235.100",
+      "gnd": "274.800",
+      "twr": "233.300",
+      "appdep": "225.100"
+    }
+  },
+  {
+    "ocdIdx": 192,
+    "name": "GIMPO",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1799,
+    "posy": 2467,
+    "details": {
+      "name": "Gimpo Intl Airport (RKSS)",
+      "elev": "",
+      "rwy": "14R/32L - 14L/32R",
+      "tcn": "083",
+      "atis": "126.350",
+      "ops": "317.800",
+      "gnd": "236.700",
+      "twr": "240.900",
+      "appdep": "363.800"
+    }
+  },
+  {
+    "ocdIdx": 835,
+    "name": "GUMI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2312,
+    "posy": 3085,
+    "details": {
+      "name": "Gumi Highway Strip",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 622,
+    "name": "GUNSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1730,
+    "posy": 3198,
+    "details": {
+      "name": "Gunsan AB (RKJK)",
+      "elev": "",
+      "rwy": "17/35",
+      "tcn": "",
+      "atis": "120.225",
+      "ops": "304.800",
+      "gnd": "273.525",
+      "twr": "292.300",
+      "appdep": "292.650"
+    }
+  },
+  {
+    "ocdIdx": 101,
+    "name": "GWANGJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1795,
+    "posy": 3542,
+    "details": {
+      "name": "Gwangju AB (RKJJ)",
+      "elev": "",
+      "rwy": "03L/21R - 03R/21L",
+      "tcn": "091",
+      "atis": "128.875",
+      "ops": "234.700",
+      "gnd": "275.800",
+      "twr": "254.600",
+      "appdep": "268.000"
+    }
+  },
+  {
+    "ocdIdx": 801,
+    "name": "HAEJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1444,
+    "posy": 2262,
+    "details": {
+      "name": "Haeju Airstrip",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "122.550",
+      "ops": "315.250",
+      "gnd": "282.600",
+      "twr": "280.400",
+      "appdep": "278.600"
+    }
+  },
+  {
+    "ocdIdx": 154,
+    "name": "HIROSHIMA",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 4036,
+    "posy": 3795,
+    "details": {
+      "name": "Hiroshima Airport (RJOA)",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "127.250",
+      "ops": "314.625",
+      "gnd": "299.300",
+      "twr": "357.650",
+      "appdep": "392.625"
+    }
+  },
+  {
+    "ocdIdx": 314,
+    "name": "HWANGJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1450,
+    "posy": 1975,
+    "details": {
+      "name": "Hwangju Airbase",
+      "elev": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "124.100",
+      "ops": "362.525",
+      "gnd": "338.400",
+      "twr": "337.600",
+      "appdep": "335.200"
+    }
+  },
+  {
+    "ocdIdx": 802,
+    "name": "HWANGSUWON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2268,
+    "posy": 1079,
+    "details": {
+      "name": "Hwangsuwon Airbase",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "123.550",
+      "ops": "360.000",
+      "gnd": "312.600",
+      "twr": "368.500",
+      "appdep": "344.300"
+    }
+  },
+  {
+    "ocdIdx": 842,
+    "name": "HYANGSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1602,
+    "posy": 1366,
+    "details": {
+      "name": "Hyangsan Airstrip",
+      "elev": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 803,
+    "name": "HYON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2031,
+    "posy": 1998,
+    "details": {
+      "name": "Hyon-Ni Airbase",
+      "elev": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "124.325",
+      "ops": "298.200",
+      "gnd": "241.900",
+      "twr": "242.900",
+      "appdep": "230.500"
+    }
+  },
+  {
+    "ocdIdx": 151,
+    "name": "INCHEON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1677,
+    "posy": 2501,
+    "details": {
+      "name": "Incheon Intl Airport (RKSI)",
+      "elev": "",
+      "rwy": "15R/33L - 15L/33R",
+      "tcn": "076",
+      "atis": "128.450",
+      "ops": "",
+      "gnd": "266.925",
+      "twr": "231.800",
+      "appdep": "293.225"
+    }
+  },
+  {
+    "ocdIdx": 77,
+    "name": "IWAKUNI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 3796,
+    "posy": 3940,
+    "details": {
+      "name": "Iwakuni MCAS (RJOI)",
+      "elev": "",
+      "rwy": "01/19",
+      "tcn": "126",
+      "atis": "128.400",
+      "ops": "335.700",
+      "gnd": "321.300",
+      "twr": "299.750",
+      "appdep": "331.400"
+    }
+  },
+  {
+    "ocdIdx": 139,
+    "name": "IWAMI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 3621,
+    "posy": 3711,
+    "details": {
+      "name": "Iwami Airport (RJOW)",
+      "elev": "",
+      "rwy": "10/28",
+      "tcn": "057",
+      "atis": "127.200",
+      "ops": "256.000",
+      "gnd": "236.800",
+      "twr": "225.625",
+      "appdep": "279.200"
+    }
+  },
+  {
+    "ocdIdx": 804,
+    "name": "IWON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2462,
+    "posy": 1220,
+    "details": {
+      "name": "Iwon Airbase",
+      "elev": "",
+      "rwy": "10/28",
+      "tcn": "",
+      "atis": "125.400",
+      "ops": "300.600",
+      "gnd": "240.600",
+      "twr": "234.400",
+      "appdep": "228.900"
+    }
+  },
+  {
+    "ocdIdx": 74,
+    "name": "JUNGWON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2185,
+    "posy": 2701,
+    "details": {
+      "name": "Jungwon AB (RKTI)",
+      "elev": "",
+      "rwy": "18R/36L - 18L/36R",
+      "tcn": "005",
+      "atis": "135.600",
+      "ops": "234.950",
+      "gnd": "275.900",
+      "twr": "230.150",
+      "appdep": "306.700"
+    }
+  },
+  {
+    "ocdIdx": 805,
+    "name": "KAECHON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1500,
+    "posy": 1488,
+    "details": {
+      "name": "Kaechon Airbase",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "123.850",
+      "ops": "395.500",
+      "gnd": "333.100",
+      "twr": "350.000",
+      "appdep": "340.800"
+    }
+  },
+  {
+    "ocdIdx": 821,
+    "name": "KAIYUAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 893,
+    "posy": 236,
+    "details": {
+      "name": "Kaiyuan-Tieling Airbase (ZYKT)",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "069",
+      "atis": "125.050",
+      "ops": "",
+      "gnd": "226.475",
+      "twr": "226.500",
+      "appdep": "226.575"
+    }
+  },
+  {
+    "ocdIdx": 132,
+    "name": "KALMA",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2040,
+    "posy": 1755,
+    "details": {
+      "name": "Kalma Airport (ZKWS)",
+      "elev": "",
+      "rwy": "15R/33L - 15L/33R",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 841,
+    "name": "KANGDONG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1544,
+    "posy": 1752,
+    "details": {
+      "name": "Kangdong Airstrip",
+      "elev": "",
+      "rwy": "03/21",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 849,
+    "name": "KILCHU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2657,
+    "posy": 969,
+    "details": {
+      "name": "Kilchu Airstrip",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "231.400",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 806,
+    "name": "KOKSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1736,
+    "posy": 1962,
+    "details": {
+      "name": "Koksan Airbase",
+      "elev": "",
+      "rwy": "06/24",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "231.400",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 850,
+    "name": "KUKTONG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2740,
+    "posy": 819,
+    "details": {
+      "name": "Kuktong Airbase",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 133,
+    "name": "KUUM",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2189,
+    "posy": 1885,
+    "details": {
+      "name": "Kuum-Ni Airbase",
+      "elev": "",
+      "rwy": "05/23",
+      "tcn": "",
+      "atis": "124.200",
+      "ops": "320.900",
+      "gnd": "350.200",
+      "twr": "388.700",
+      "appdep": "380.600"
+    }
+  },
+  {
+    "ocdIdx": 807,
+    "name": "KWAIL",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1182,
+    "posy": 2069,
+    "details": {
+      "name": "Kwail Airbase",
+      "elev": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "125.300",
+      "ops": "368.450",
+      "gnd": "350.000",
+      "twr": "349.400",
+      "appdep": "349.600"
+    }
+  },
+  {
+    "ocdIdx": 819,
+    "name": "KWAKSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1229,
+    "posy": 1490,
+    "details": {
+      "name": "Kwaksan Airbase",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 825,
+    "name": "LAOOHUTUN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 80,
+    "posy": 1466,
+    "details": {
+      "name": "Laoohutun Airbase (ZYLN)",
+      "elev": "",
+      "rwy": "05/23",
+      "tcn": "070",
+      "atis": "126.000",
+      "ops": "",
+      "gnd": "226.600",
+      "twr": "226.675",
+      "appdep": "226.700"
+    }
+  },
+  {
+    "ocdIdx": 822,
+    "name": "LIAOYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 567,
+    "posy": 777,
+    "details": {
+      "name": "Liaoyang Airbase  (ZYLY)",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "071",
+      "atis": "127.000",
+      "ops": "",
+      "gnd": "226.800",
+      "twr": "226.875",
+      "appdep": "226.900"
+    }
+  },
+  {
+    "ocdIdx": 809,
+    "name": "MANPO",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1664,
+    "posy": 873,
+    "details": {
+      "name": "Manpo Airbase",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "",
+      "atis": "124.500",
+      "ops": "326.700",
+      "gnd": "262.650",
+      "twr": "242.400",
+      "appdep": "262.400"
+    }
+  },
+  {
+    "ocdIdx": 502,
+    "name": "MIRIM",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1471,
+    "posy": 1816,
+    "details": {
+      "name": "Mirim Airport",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "123.425",
+      "ops": "290.500",
+      "gnd": "225.100",
+      "twr": "225.300",
+      "appdep": "225.200"
+    }
+  },
+  {
+    "ocdIdx": 24,
+    "name": "MUAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1642,
+    "posy": 3598,
+    "details": {
+      "name": "Muan Intl Airport (RKJB)",
+      "elev": "",
+      "rwy": "18/36",
+      "tcn": "047",
+      "atis": "127.425",
+      "ops": "",
+      "gnd": "231.700",
+      "twr": "228.250",
+      "appdep": "240.000"
+    }
+  },
+  {
+    "ocdIdx": 808,
     "name": "NUCHON",
     "country": "KTO",
     "type": "Airbase",
@@ -1727,10 +787,863 @@
     "posy": 2161,
     "details": {
       "name": "Nuchon-ni Airbase",
-      "lat": "",
-      "long": "",
       "elev": "",
       "rwy": "10/28",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 847,
+    "name": "OKPYONGNI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1986,
+    "posy": 1706,
+    "details": {
+      "name": "Okpyongni Highwaystrip",
+      "elev": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 153,
+    "name": "ONCHON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1262,
+    "posy": 1863,
+    "details": {
+      "name": "Onchon Airbase",
+      "elev": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "125.200",
+      "ops": "314.800",
+      "gnd": "300.600",
+      "twr": "302.400",
+      "appdep": "301.700"
+    }
+  },
+  {
+    "ocdIdx": 812,
+    "name": "ORANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2766,
+    "posy": 739,
+    "details": {
+      "name": "Orang Airbase",
+      "elev": "",
+      "rwy": "03/21",
+      "tcn": "",
+      "atis": "123.200",
+      "ops": "304.600",
+      "gnd": "263.100",
+      "twr": "264.000",
+      "appdep": "244.300"
+    }
+  },
+  {
+    "ocdIdx": 37,
+    "name": "OSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1878,
+    "posy": 2677,
+    "details": {
+      "name": "Osan AB (RKSO)",
+      "elev": "",
+      "rwy": "08L/26R - 08R/26L",
+      "tcn": "",
+      "atis": "132.125",
+      "ops": "272.700",
+      "gnd": "253.700",
+      "twr": "308.800",
+      "appdep": "306.300"
+    }
+  },
+  {
+    "ocdIdx": 135,
+    "name": "PANGHYON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1264,
+    "posy": 1404,
+    "details": {
+      "name": "Panghyon Airbase",
+      "elev": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 818,
+    "name": "PANGHYON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1247,
+    "posy": 1424,
+    "details": {
+      "name": "Panghyon Highwaystrip South",
+      "elev": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 642,
+    "name": "POHANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2740,
+    "posy": 3157,
+    "details": {
+      "name": "Pohang AB (RKTH)",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "033",
+      "atis": "127.400",
+      "ops": "317.375",
+      "gnd": "275.400",
+      "twr": "236.600",
+      "appdep": "232.400"
+    }
+  },
+  {
+    "ocdIdx": 813,
+    "name": "PUKCHANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1520,
+    "posy": 1597,
+    "details": {
+      "name": "Pukchang-up Airbase",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "123.600",
+      "ops": "382.500",
+      "gnd": "265.500",
+      "twr": "264.900",
+      "appdep": "265.100"
+    }
+  },
+  {
+    "ocdIdx": 823,
+    "name": "PULANDIAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 161,
+    "posy": 1568,
+    "details": {
+      "name": "Pulandian Airbase (ZYPD)",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "079",
+      "atis": "128.050",
+      "ops": "",
+      "gnd": "227.200",
+      "twr": "227.250",
+      "appdep": "227.300"
+    }
+  },
+  {
+    "ocdIdx": 641,
+    "name": "PYEONGTAEK",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1881,
+    "posy": 2730,
+    "details": {
+      "name": "Pyeongtaek AAF (RKSG)",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "019",
+      "atis": "128.250",
+      "ops": "294.100",
+      "gnd": "229.700",
+      "twr": "257.800",
+      "appdep": "363.100"
+    }
+  },
+  {
+    "ocdIdx": 844,
+    "name": "PYONGYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1462,
+    "posy": 1799,
+    "details": {
+      "name": "Pyongyang Elite Airstrip",
+      "elev": "",
+      "rwy": "16/34",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 52,
+    "name": "SACHEON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2254,
+    "posy": 3564,
+    "details": {
+      "name": "Sacheon AB (RKPS)",
+      "elev": "",
+      "rwy": "06L/24R - 06R/24L",
+      "tcn": "",
+      "atis": "126.625",
+      "ops": "225.475",
+      "gnd": "275.800",
+      "twr": "305.400",
+      "appdep": "317.425"
+    }
+  },
+  {
+    "ocdIdx": 814,
+    "name": "SAMJIYON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2350,
+    "posy": 534,
+    "details": {
+      "name": "Samjiyon Airport (ZKSE)",
+      "elev": "",
+      "rwy": "06/24",
+      "tcn": "050",
+      "atis": "125.000",
+      "ops": "318.500",
+      "gnd": "298.100",
+      "twr": "299.100",
+      "appdep": "300.250"
+    }
+  },
+  {
+    "ocdIdx": 839,
+    "name": "SANGWON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1554,
+    "posy": 1928,
+    "details": {
+      "name": "Sangwon Highwaystrip",
+      "elev": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 824,
+    "name": "SANPHUZEN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1463,
+    "posy": 467,
+    "details": {
+      "name": "Sanphuzen Liyoufangcun Airport (ZYPZ)",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "080",
+      "atis": "129.000",
+      "ops": "",
+      "gnd": "227.500",
+      "twr": "227.600",
+      "appdep": "227.725"
+    }
+  },
+  {
+    "ocdIdx": 643,
+    "name": "SEOSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1686,
+    "posy": 2842,
+    "details": {
+      "name": "Seosan AB (RKTP)",
+      "elev": "",
+      "rwy": "03L/21R - 03R/21L",
+      "tcn": "073",
+      "atis": "130.300",
+      "ops": "318.100",
+      "gnd": "275.800",
+      "twr": "353.100",
+      "appdep": "253.950"
+    }
+  },
+  {
+    "ocdIdx": 61,
+    "name": "SEOUL",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1909,
+    "posy": 2514,
+    "details": {
+      "name": "Seoul AB (RKSM)",
+      "elev": "",
+      "rwy": "01/19 - 18/36",
+      "tcn": "",
+      "atis": "126.475",
+      "ops": "225.775",
+      "gnd": "276.200",
+      "twr": "236.600",
+      "appdep": "363.800"
+    }
+  },
+  {
+    "ocdIdx": 830,
+    "name": "SHENYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 717,
+    "posy": 559,
+    "details": {
+      "name": "Shenyang Dongta Airbase (ZYYY)",
+      "elev": "",
+      "rwy": "05/23",
+      "tcn": "089",
+      "atis": "132.000",
+      "ops": "",
+      "gnd": "228.100",
+      "twr": "228.200",
+      "appdep": "228.250"
+    }
+  },
+  {
+    "ocdIdx": 347,
+    "name": "SHENYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 700,
+    "posy": 520,
+    "details": {
+      "name": "Shenyang Beiling Airbase (ZYBG)",
+      "elev": "",
+      "rwy": "01/19",
+      "tcn": "089",
+      "atis": "132.000",
+      "ops": "",
+      "gnd": "228.100",
+      "twr": "228.200",
+      "appdep": "228.250"
+    }
+  },
+  {
+    "ocdIdx": 834,
+    "name": "SHENYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 652,
+    "posy": 538,
+    "details": {
+      "name": "Shenyang Yuhong Airport (ZYSQ)",
+      "elev": "",
+      "rwy": "03/21",
+      "tcn": "089",
+      "atis": "132.000",
+      "ops": "",
+      "gnd": "228.100",
+      "twr": "228.200",
+      "appdep": "228.250"
+    }
+  },
+  {
+    "ocdIdx": 836,
+    "name": "SINGAL",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1907,
+    "posy": 2579,
+    "details": {
+      "name": "Singal Highway Strip",
+      "elev": "",
+      "rwy": "18/36",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.800",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 157,
+    "name": "SONDOK",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2037,
+    "posy": 1495,
+    "details": {
+      "name": "Sondok Airbase",
+      "elev": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "123.700",
+      "ops": "362.150",
+      "gnd": "340.300",
+      "twr": "343.800",
+      "appdep": "342.600"
+    }
+  },
+  {
+    "ocdIdx": 837,
+    "name": "SONGWHAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1937,
+    "posy": 2762,
+    "details": {
+      "name": "Songwhan Highway Strip",
+      "elev": "",
+      "rwy": "18/36",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 817,
+    "name": "SUGAMNI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2773,
+    "posy": 630,
+    "details": {
+      "name": "Sugamni Airbase",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 189,
+    "name": "SUNAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1415,
+    "posy": 1720,
+    "details": {
+      "name": "Sunan Intl Airport (ZKPY)",
+      "elev": "",
+      "rwy": "16/34 - 18/36",
+      "tcn": "051",
+      "atis": "124.800",
+      "ops": "320.425",
+      "gnd": "262.500",
+      "twr": "264.000",
+      "appdep": "265.000"
+    }
+  },
+  {
+    "ocdIdx": 815,
+    "name": "SUNCHON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1494,
+    "posy": 1638,
+    "details": {
+      "name": "Sunchon  (ZKSC)",
+      "elev": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "123.100",
+      "ops": "360.100",
+      "gnd": "256.200",
+      "twr": "253.100",
+      "appdep": "254.800"
+    }
+  },
+  {
+    "ocdIdx": 368,
+    "name": "SUWON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1875,
+    "posy": 2611,
+    "details": {
+      "name": "Suwon AB (RKSW)",
+      "elev": "",
+      "rwy": "14R/32L - 14L/32R",
+      "tcn": "022",
+      "atis": "126.425",
+      "ops": "225.675",
+      "gnd": "275.700",
+      "twr": "366.000",
+      "appdep": "306.400"
+    }
+  },
+  {
+    "ocdIdx": 816,
+    "name": "TAECHON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1361,
+    "posy": 1418,
+    "details": {
+      "name": "Taechon Airbase",
+      "elev": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "124.700",
+      "ops": "392.100",
+      "gnd": "260.400",
+      "twr": "275.500",
+      "appdep": "268.900"
+    }
+  },
+  {
+    "ocdIdx": 134,
+    "name": "TAETAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1258,
+    "posy": 2202,
+    "details": {
+      "name": "Taetan Airbase",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "124.900",
+      "ops": "330.450",
+      "gnd": "290.300",
+      "twr": "288.700",
+      "appdep": "284.700"
+    }
+  },
+  {
+    "ocdIdx": 845,
+    "name": "TANCHON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2511,
+    "posy": 1203,
+    "details": {
+      "name": "Tanchon Airstrip",
+      "elev": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 96,
+    "name": "TAOXIAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 714,
+    "posy": 623,
+    "details": {
+      "name": "Taoxian Airbase (ZYTX)",
+      "elev": "",
+      "rwy": "05/23",
+      "tcn": "092",
+      "atis": "127.450",
+      "ops": "",
+      "gnd": "228.350",
+      "twr": "228.400",
+      "appdep": "228.475"
+    }
+  },
+  {
+    "ocdIdx": 45,
+    "name": "TOKSAN",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2086,
+    "posy": 1380,
+    "details": {
+      "name": "Toksan Airbase",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "123.000",
+      "ops": "384.300",
+      "gnd": "340.700",
+      "twr": "324.800",
+      "appdep": "331.600"
+    }
+  },
+  {
+    "ocdIdx": 833,
+    "name": "TONGHUA",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1455,
+    "posy": 375,
+    "details": {
+      "name": "Tonghua Sanyuanpu Airport (ZYTN)",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "093",
+      "atis": "133.050",
+      "ops": "",
+      "gnd": "228.525",
+      "twr": "229.000",
+      "appdep": "229.050"
+    }
+  },
+  {
+    "ocdIdx": 49,
+    "name": "TSUSHIMA",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2722,
+    "posy": 3912,
+    "details": {
+      "name": "Tsushima Airport (RJDT)",
+      "elev": "",
+      "rwy": "14/32",
+      "tcn": "051",
+      "atis": "124.325",
+      "ops": "",
+      "gnd": "230.900",
+      "twr": "231.900",
+      "appdep": "240.125"
+    }
+  },
+  {
+    "ocdIdx": 59,
+    "name": "UIJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1027,
+    "posy": 1296,
+    "details": {
+      "name": "Uiju Airbase (ZKUJ)",
+      "elev": "",
+      "rwy": "04/22",
+      "tcn": "055",
+      "atis": "123.300",
+      "ops": "337.100",
+      "gnd": "370.600",
+      "twr": "372.000",
+      "appdep": "372.550"
+    }
+  },
+  {
+    "ocdIdx": 40,
+    "name": "WEIHAI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 178,
+    "posy": 2574,
+    "details": {
+      "name": "Weihai Dashuibo Airport (ZSWH)",
+      "elev": "",
+      "rwy": "02/20",
+      "tcn": "097",
+      "atis": "134.000",
+      "ops": "",
+      "gnd": "229.100",
+      "twr": "229.150",
+      "appdep": "229.250"
+    }
+  },
+  {
+    "ocdIdx": 640,
+    "name": "WONJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2213,
+    "posy": 2517,
+    "details": {
+      "name": "Wonju AB (RKNW)",
+      "elev": "",
+      "rwy": "03/21",
+      "tcn": "039",
+      "atis": "128.600",
+      "ops": "225.575",
+      "gnd": "277.800",
+      "twr": "265.500",
+      "appdep": "292.600"
+    }
+  },
+  {
+    "ocdIdx": 16,
+    "name": "YAMAGUCHI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 3445,
+    "posy": 4049,
+    "details": {
+      "name": "Yamaguchi-Ube Airport (RJDC)",
+      "elev": "",
+      "rwy": "06/24",
+      "tcn": "045",
+      "atis": "118.025",
+      "ops": "295.375",
+      "gnd": "265.800",
+      "twr": "260.200",
+      "appdep": "323.750"
+    }
+  },
+  {
+    "ocdIdx": 143,
+    "name": "YANGYANG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2458,
+    "posy": 2239,
+    "details": {
+      "name": "Yangyang Intl Airport (RKNY)",
+      "elev": "",
+      "rwy": "14/32",
+      "tcn": "",
+      "atis": "128.825",
+      "ops": "",
+      "gnd": "280.125",
+      "twr": "240.350",
+      "appdep": "241.600"
+    }
+  },
+  {
+    "ocdIdx": 826,
+    "name": "YANJI",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2686,
+    "posy": 95,
+    "details": {
+      "name": "Yanji Airbase (ZYYJ)",
+      "elev": "",
+      "rwy": "08/26",
+      "tcn": "099",
+      "atis": "135.000",
+      "ops": "",
+      "gnd": "229.300",
+      "twr": "229.350",
+      "appdep": "229.525"
+    }
+  },
+  {
+    "ocdIdx": 41,
+    "name": "YECHEON",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2349,
+    "posy": 2877,
+    "details": {
+      "name": "Yecheon AB (RKTY)",
+      "elev": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "135.800",
+      "ops": "236.075",
+      "gnd": "234.500",
+      "twr": "269.500",
+      "appdep": "229.350"
+    }
+  },
+  {
+    "ocdIdx": 838,
+    "name": "YEONGJU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2433,
+    "posy": 2784,
+    "details": {
+      "name": "Yeongju Highway Strip",
+      "elev": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 829,
+    "name": "YINGKOU",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 306,
+    "posy": 1090,
+    "details": {
+      "name": "Yingkou Langqi Airport (ZYYK)",
+      "elev": "",
+      "rwy": "03/21",
+      "tcn": "100",
+      "atis": "134.050",
+      "ops": "",
+      "gnd": "229.575",
+      "twr": "229.625",
+      "appdep": "229.800"
+    }
+  },
+  {
+    "ocdIdx": 846,
+    "name": "YONGHUNG",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 1975,
+    "posy": 1587,
+    "details": {
+      "name": "Yonghung Highwaystrip",
+      "elev": "",
+      "rwy": "10/28",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "ocdIdx": 843,
+    "name": "YONPO",
+    "country": "KTO",
+    "type": "Airbase",
+    "posx": 2060,
+    "posy": 1474,
+    "details": {
+      "name": "Yonpo Airbase",
+      "elev": "",
+      "rwy": "13/31",
       "tcn": "",
       "atis": "",
       "ops": "",

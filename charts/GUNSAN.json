@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ADC.pdf"
+  },
+  {
+    "name": "EOR Procedure Chart",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK)_EOR.png",
+    "width": 551
+  },
+  {
+    "name": "ILS RWY 18 (110.3)",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf"
+  },
+  {
+    "name": "ILS RWY 36 (110.3)",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+    "page": 3
+  },
+  {
+    "name": "TACAN RWY 18 (112.8)",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+    "page": 5
+  },
+  {
+    "name": "TACAN RWY 36 (112.8)",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+    "page": 7
+  },
+  {
+    "name": "Standard Departures",
+    "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - SID.pdf"
+  }
+]
