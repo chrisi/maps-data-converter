@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea/Seosan/Seosan_Airport.png"
+  },
+  {
+    "name": "EOR Procedure Chart",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP)_EOR.png",
+    "width": 551
+  },
+  {
+    "name": "ILS RWY 03R (111.5)",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_03r.pdf"
+  },
+  {
+    "name": "ILS RWY 21L (110.1)",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_21l.pdf"
+  },
+  {
+    "name": "HI-TACAN RWY 03L",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03l.pdf"
+  },
+  {
+    "name": "HI-TACAN RWY 03R",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03r.pdf"
+  },
+  {
+    "name": "HI-ILS RWY 03R",
+    "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_ils_or_locdme_rwy_3r.pdf"
+  }
+]

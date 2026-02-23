@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ADC.pdf",
+    "width": 870,
+    "height": 600
+  },
+  {
+    "name": "ILS RWY 14L (109.9)",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf"
+  },
+  {
+    "name": "ILS RWY 14R (108.7)",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+    "page": 7
+  },
+  {
+    "name": "ILS RWY 32L (108.3)",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+    "page": 11
+  },
+  {
+    "name": "ILS RWY 32R (110.7)",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+    "page": 17
+  },
+  {
+    "name": "Standard Departures",
+    "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - SID.pdf"
+  }
+]

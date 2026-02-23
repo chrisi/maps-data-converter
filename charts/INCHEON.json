@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ADC.pdf",
+    "width": 870,
+    "height": 600
+  },
+  {
+    "name": "ILS RWY 15L (111.9)",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf"
+  },
+  {
+    "name": "ILS RWY 15R (109.1)",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+    "page": 9
+  },
+  {
+    "name": "ILS RWY 33L (109.3)",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+    "page": 23
+  },
+  {
+    "name": "ILS RWY 33R (108.9)",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+    "page": 27
+  },
+  {
+    "name": "Visual Approach",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - VISUAL.pdf"
+  },
+  {
+    "name": "Standard Arrivals",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - STAR.pdf"
+  },
+  {
+    "name": "Standard Departures",
+    "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - SID.pdf"
+  }
+]
