@@ -112,6 +112,14 @@ func main() {
 			detail.AppDep = freq.Approach
 		}
 
+		charts, err := loader.LoadCharts("charts", abKey)
+		if err != nil {
+			fmt.Printf("Error loading charts for %s: %v\n", abKey, err)
+		} else if len(charts) > 0 {
+			detail.Charts = charts
+			fmt.Printf("Loaded %d charts for %s\n", len(charts), abKey)
+		}
+
 		sta := model.Station{
 			OcdIdx:  abRecord.OcdIdx,
 			Name:    abKey,

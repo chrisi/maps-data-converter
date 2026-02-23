@@ -1,11 +1,13 @@
 package main
 
 import (
+	"encoding/json"
 	"encoding/xml"
 	"fmt"
 	"maps-data-converter/model"
 	"math"
 	"os"
+	"strings"
 )
 
 type DataLoader struct {
@@ -65,6 +67,24 @@ func (dl DataLoader) LoadPDX(filePath string) (*model.PDRecords, error) {
 	}
 
 	return &records, nil
+}
+
+func (dl DataLoader) LoadCharts(chartsDir, airbaseKey string) ([]*model.Chart, error) {
+	filePath := chartsDir + "\\" + strings.ToUpper(airbaseKey) + ".json"
+	data, err := os.ReadFile(filePath)
+	if err != nil {
+		if os.IsNotExist(err) {
+			return nil, nil
+		}
+		return nil, fmt.Errorf("read charts file %q: %w", filePath, err)
+	}
+
+	var charts []*model.Chart
+	if err := json.Unmarshal(data, &charts); err != nil {
+		return nil, fmt.Errorf("unmarshal charts json: %w", err)
+	}
+
+	return charts, nil
 }
 
 func FilterCTsForAirbases(in []model.CT) []model.CT {
