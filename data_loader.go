@@ -146,7 +146,7 @@ func CreateAirbaseRecord(ab *model.CampObj) *model.Airbase {
 }
 
 func CreateDataPaths(ocdIdx int) (string, string) {
-	basePath := "\\Data\\TerrData\\Objects\\ObjectiveRelatedData"
+	basePath := "\\TerrData\\Objects\\ObjectiveRelatedData"
 	return fmt.Sprintf("%s\\OCD_%05d\\PHD_%05d.xml", basePath, ocdIdx, ocdIdx),
 		fmt.Sprintf("%s\\OCD_%05d\\PDX_%05d.xml", basePath, ocdIdx, ocdIdx)
 }

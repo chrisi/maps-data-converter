@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ADC.pdf"
+  },
+  {
+    "name": "ILS RWY 20 (110.9)",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf"
+  },
+  {
+    "name": "ILS RWY 19 (108.95)",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+    "page": 7
+  },
+  {
+    "name": "TACAN RWY 19",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+    "page": 37
+  },
+  {
+    "name": "TACAN RWY 20",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+    "page": 41
+  },
+  {
+    "name": "Standard Departures",
+    "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - SID.pdf"
+  }
+]

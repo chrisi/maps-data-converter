@@ -940,7 +940,39 @@
       "ops": "234.950",
       "gnd": "275.900",
       "twr": "230.150",
-      "appdep": "306.700"
+      "appdep": "306.700",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Jungwon/Jungwon_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 36R (111.3)",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - ilsdme_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36L",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36l.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36R",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "Jungwon 2 Departure",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - jungwon_dep.pdf",
+          "width": 551
+        }
+      ]
     }
   },
   {
@@ -1318,7 +1350,34 @@
       "ops": "",
       "gnd": "231.700",
       "twr": "228.250",
-      "appdep": "240.000"
+      "appdep": "240.000",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ADC.pdf"
+        },
+        {
+          "name": "ILS RWY 01 (111.9)",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 19 (108.9)",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ILS.pdf",
+          "page": 11
+        },
+        {
+          "name": "Visual Approach",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - VISUAL.pdf"
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1423,7 +1482,49 @@
       "ops": "272.700",
       "gnd": "253.700",
       "twr": "308.800",
-      "appdep": "306.300"
+      "appdep": "306.300",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "https://cdn.falcon-bms.com/maps/01_KTO/charts/01 South Korea/Osan/Osan_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 09L (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 27R (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 09L",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 27R",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "DRAGGIN 8 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - draggin_dep.pdf",
+          "width": 551
+        },
+        {
+          "name": "MUSTANG 4 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - mustang_dep.pdf",
+          "width": 551
+        }
+      ]
     }
   },
   {
@@ -1507,7 +1608,33 @@
       "ops": "317.375",
       "gnd": "275.400",
       "twr": "236.600",
-      "appdep": "232.400"
+      "appdep": "232.400",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ADC.pdf",
+          "width": 860,
+          "height": 600
+        },
+        {
+          "name": "ILS RWY 10 (110.9)",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf"
+        },
+        {
+          "name": "TACAN RWY 10",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 3
+        },
+        {
+          "name": "TACAN RWY 28",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 9
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1570,7 +1697,26 @@
       "ops": "294.100",
       "gnd": "229.700",
       "twr": "257.800",
-      "appdep": "363.100"
+      "appdep": "363.100",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Pyeongtaek/Pyeongtaek_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 32 (108.75)",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - ils_or_loc_rwy_32.pdf"
+        },
+        {
+          "name": "DVOR RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - dvor_rwy_32.pdf"
+        },
+        {
+          "name": "RNAV RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - rnav_gps_rwy_32.pdf"
+        }
+      ]
     }
   },
   {
@@ -1612,7 +1758,45 @@
       "ops": "225.475",
       "gnd": "275.800",
       "twr": "305.400",
-      "appdep": "317.425"
+      "appdep": "317.425",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ADC.pdf"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 06L (111.5)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 24R (108.1)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 17
+        },
+        {
+          "name": "TACAN RWY 06L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 5
+        },
+        {
+          "name": "TACAN RWY 24L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 29
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1769,7 +1953,36 @@
       "ops": "225.775",
       "gnd": "276.200",
       "twr": "236.600",
-      "appdep": "363.800"
+      "appdep": "363.800",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ADC.pdf"
+        },
+        {
+          "name": "ILS RWY 20 (110.9)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 19 (108.95)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "TACAN RWY 19",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 37
+        },
+        {
+          "name": "TACAN RWY 20",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 41
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - SID.pdf"
+        }
+      ]
     }
   },
   {

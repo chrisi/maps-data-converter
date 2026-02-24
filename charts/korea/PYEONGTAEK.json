@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea/Pyeongtaek/Pyeongtaek_Airport.png",
+    "width": 551
+  },
+  {
+    "name": "ILS RWY 32 (108.75)",
+    "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - ils_or_loc_rwy_32.pdf"
+  },
+  {
+    "name": "DVOR RWY 32",
+    "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - dvor_rwy_32.pdf"
+  },
+  {
+    "name": "RNAV RWY 32",
+    "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - rnav_gps_rwy_32.pdf"
+  }
+]

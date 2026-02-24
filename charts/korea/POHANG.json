@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ADC.pdf",
+    "width": 860,
+    "height": 600
+  },
+  {
+    "name": "ILS RWY 10 (110.9)",
+    "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf"
+  },
+  {
+    "name": "TACAN RWY 10",
+    "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+    "page": 3
+  },
+  {
+    "name": "TACAN RWY 28",
+    "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+    "page": 9
+  },
+  {
+    "name": "Standard Departures",
+    "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - SID.pdf"
+  }
+]

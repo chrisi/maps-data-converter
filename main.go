@@ -15,11 +15,12 @@ const MapPixels = 4096
 
 func main() {
 
-	basePath := "c:\\apps\\Falcon BMS 4.38"
+	basePath := "c:\\apps\\Falcon BMS 4.38\\Data"
+	//basePath := "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Balkans"
 
-	ctFile := basePath + "\\Data\\TerrData\\Objects\\Falcon4_CT.xml"
-	campFile := basePath + "\\Data\\Campaign\\CampObjData.XML"
-	stationFile := basePath + "\\Data\\Campaign\\Stations+Ils.dat"
+	ctFile := basePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
+	campFile := basePath + "\\Campaign\\CampObjData.XML"
+	stationFile := basePath + "\\Campaign\\Stations+Ils.dat"
 
 	loader := DataLoader{}
 
@@ -107,7 +108,7 @@ func main() {
 		}
 
 		abKey := getKey(abRecord.Name)
-		charts, err := loader.LoadCharts("charts", abKey)
+		charts, err := loader.LoadCharts("charts/korea", abKey)
 		if err != nil {
 			fmt.Printf("Error loading charts for %s: %v\n", abKey, err)
 		} else if len(charts) > 0 {

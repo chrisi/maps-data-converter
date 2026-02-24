@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Airport Diagram",
+    "url": "https://cdn.falcon-bms.com/maps/01_KTO/charts/01 South Korea/Osan/Osan_Airport.png",
+    "width": 551
+  },
+  {
+    "name": "EOR Procedure Chart",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO)_EOR.png",
+    "width": 551
+  },
+  {
+    "name": "ILS RWY 09L (111.3)",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_09l.pdf",
+    "width": 551
+  },
+  {
+    "name": "ILS RWY 27R (111.3)",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_27r.pdf",
+    "width": 551
+  },
+  {
+    "name": "RNAV RWY 09L",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_09l.pdf",
+    "width": 551
+  },
+  {
+    "name": "RNAV RWY 27R",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_27r.pdf",
+    "width": 551
+  },
+  {
+    "name": "DRAGGIN 8 Departure",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - draggin_dep.pdf",
+    "width": 551
+  },
+  {
+    "name": "MUSTANG 4 Departure",
+    "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - mustang_dep.pdf",
+    "width": 551
+  }
+]
