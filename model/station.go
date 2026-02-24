@@ -1,6 +1,7 @@
 package model
 
 type Station struct {
+	CampId  int      `json:"campId"`
 	OcdIdx  int      `json:"ocdIdx"`
 	Name    string   `json:"name"`
 	Country string   `json:"country"`
@@ -13,6 +14,7 @@ type Station struct {
 type Details struct {
 	Name   string   `json:"name"`
 	Elev   string   `json:"elev"`
+	Range  string   `json:"range"`
 	Rwy    string   `json:"rwy"`
 	Tcn    string   `json:"tcn"`
 	Atis   string   `json:"atis"`

@@ -122,6 +122,16 @@ func FilterCampObjsByAirbaseEntityIdx(campObjData *model.CampObjData, airbases [
 	return &out
 }
 
+func FilterCampObjsByNavBeacon(campObjData *model.CampObjData) *[]model.CampObj {
+	out := make([]model.CampObj, 0)
+	for _, obj := range campObjData.CampObjs {
+		if obj.OcdIndex == 10 {
+			out = append(out, obj)
+		}
+	}
+	return &out
+}
+
 func CreateAirbaseRecord(ab *model.CampObj) *model.Airbase {
 	return &model.Airbase{
 		Id:   ab.CampId,

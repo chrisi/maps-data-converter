@@ -1,11 +1,9 @@
 package model
 
 type StationFreq struct {
-	Theater  string   `json:"theater"`
-	Key      string   `json:"key"`
-	Name     string   `json:"name"`
-	Icao     string   `json:"icao"`
+	CampId   int      `json:"campId"`
 	Tacan    string   `json:"tacan"`
+	Range    int      `json:"range"`
 	Band     string   `json:"band"`
 	TowerUhf string   `json:"towerUhf"`
 	TowerVhf string   `json:"towerVhf"`

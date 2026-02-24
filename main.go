@@ -5,6 +5,7 @@ import (
 	"maps-data-converter/model"
 	"math"
 	"sort"
+	"strings"
 )
 
 const MapFeet = 3359580.0 // 3358699.5 // Falcon const
@@ -29,7 +30,6 @@ func main() {
 	fmt.Printf("All indices count:          %d\n", len(ctRecords.CTs))
 
 	airbaseIndices := FilterCTsForAirbases(ctRecords.CTs)
-
 	fmt.Printf("Airbase indices count:      %d\n", len(airbaseIndices))
 
 	campObjData, err := loader.LoadCampObjData(campFile)
@@ -39,33 +39,26 @@ func main() {
 	fmt.Printf("Campaign Objects count:     %d\n", len(campObjData.CampObjs))
 
 	airbaseObjects := FilterCampObjsByAirbaseEntityIdx(campObjData, airbaseIndices)
-
 	fmt.Printf("Airbase Objects count:      %d\n", len(*airbaseObjects))
 
-	stations, err := ParseStationFreqFile(stationFile)
-	stationMap := make(map[string]*model.StationFreq, len(stations))
-	for _, st := range stations {
-		if st == nil {
-			continue
-		}
-		stationMap[st.Key] = st
-	}
+	beaconObjects := FilterCampObjsByNavBeacon(campObjData)
+	fmt.Printf("NavBeacon Objects count:    %d\n", len(*beaconObjects))
 
+	stations, err := ParseStationFreqFile(stationFile)
 	if err != nil {
 		panic(err)
 	}
 	fmt.Printf("Station ILS records count:  %d\n", len(stations))
 
-	for _, station := range stations {
-		fmt.Printf("Station: %s, Key: %s\n", station.Name, station.Key)
+	stationMap := make(map[int]*model.StationFreq, len(stations))
+	for _, st := range stations {
+		stationMap[st.CampId] = st
 	}
 
 	var records []model.Station
 
 	for _, abObj := range *airbaseObjects {
 		abRecord := CreateAirbaseRecord(&abObj)
-
-		abKey := getKey(abRecord.Name)
 
 		phdPath, pdxPath := CreateDataPaths(abRecord.OcdIdx)
 
@@ -80,11 +73,9 @@ func main() {
 		}
 
 		ExtractRunwayData(phd.PHDs, pdx.PDs, abRecord)
-
-		fmt.Printf("%s: %s, Pos x:%.5f y:%.5f, OcdIdx:%d\n", abKey, abRecord.Name, abRecord.Pos.X, abRecord.Pos.Y, abRecord.OcdIdx)
+		fmt.Printf("%d: %s, Pos x:%.5f y:%.5f, OcdIdx:%d\n", abRecord.Id, abRecord.Name, abRecord.Pos.X, abRecord.Pos.Y, abRecord.OcdIdx)
 
 		fac := MapFeet / MapPixels
-
 		px := int(math.Round(abRecord.Pos.X / fac))
 		py := int(math.Round(MapPixels - abRecord.Pos.Y/fac))
 		fmt.Printf("Map-Pos x:%d y:%d\n", px, py)
@@ -99,19 +90,21 @@ func main() {
 			Rwy:  BuildRunwayInfo(abRecord.Runways),
 		}
 
-		freq := stationMap[abKey]
+		freq := stationMap[abRecord.Id]
 		if freq == nil {
-			fmt.Printf("No station data for %s\n", abKey)
+			fmt.Printf("No station data for %d: %s\n", abRecord.Id, abRecord.Name)
 		} else {
-			fmt.Printf("Station name %s, %s\n", freq.Name, freq.Atis)
+			fmt.Printf("Station name %s, %s\n", abRecord.Name, freq.Atis)
+			detail.Range = fmt.Sprintf("%d NM", freq.Range)
 			detail.Twr = freq.TowerUhf
 			detail.Atis = freq.Atis
 			detail.Gnd = freq.Ground
 			detail.Ops = freq.Ops
-			detail.Tcn = freq.Tacan
+			detail.Tcn = freq.Tacan + freq.Band
 			detail.AppDep = freq.Approach
 		}
 
+		abKey := getKey(abRecord.Name)
 		charts, err := loader.LoadCharts("charts", abKey)
 		if err != nil {
 			fmt.Printf("Error loading charts for %s: %v\n", abKey, err)
@@ -121,10 +114,56 @@ func main() {
 		}
 
 		sta := model.Station{
+			CampId:  abRecord.Id,
 			OcdIdx:  abRecord.OcdIdx,
-			Name:    abKey,
+			Name:    abRecord.Name,
 			Country: "KTO",
 			Type:    "Airbase",
+			PosX:    px,
+			PosY:    py,
+			Details: &detail,
+		}
+
+		records = append(records, sta)
+	}
+
+	for _, nbObj := range *beaconObjects {
+		nbRecord := CreateAirbaseRecord(&nbObj)
+
+		fac := MapFeet / MapPixels
+
+		px := int(math.Round(nbRecord.Pos.X / fac))
+		py := int(math.Round(MapPixels - nbRecord.Pos.Y/fac))
+		fmt.Printf("Map-Pos x:%d y:%d\n", px, py)
+
+		detail := model.Details{
+			Name: nbRecord.Name,
+		}
+
+		freq := stationMap[nbRecord.Id]
+		if freq == nil {
+			fmt.Printf("No station data for %d: %s\n", nbRecord.Id, nbRecord.Name)
+		} else {
+			fmt.Printf("Station name %s, %s\n", nbRecord.Name, freq.Atis)
+			detail.Range = fmt.Sprintf("%d NM", freq.Range)
+			detail.Tcn = freq.Tacan + freq.Band
+		}
+
+		tp := "n/a"
+
+		if strings.Contains(nbRecord.Name, "VOR/DME") {
+			tp = "VOR/DME"
+		}
+		if strings.Contains(nbRecord.Name, "VORTAC") {
+			tp = "VORTAC"
+		}
+
+		sta := model.Station{
+			CampId:  nbRecord.Id,
+			OcdIdx:  nbRecord.OcdIdx,
+			Name:    nbRecord.Name,
+			Country: "KTO",
+			Type:    tp,
 			PosX:    px,
 			PosY:    py,
 			Details: &detail,
