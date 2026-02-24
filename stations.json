@@ -115,7 +115,7 @@
     "details": {
       "name": "Cheongju Intl Airport (RKTU)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "05L/23R - 05R/23L",
       "tcn": "",
       "atis": "128.850",
@@ -388,7 +388,7 @@
     "details": {
       "name": "Gimhae Intl Airport (RKPK)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "17R/35L - 17L/35R",
       "tcn": "",
       "atis": "126.650",
@@ -482,7 +482,7 @@
     "details": {
       "name": "Gumi Highway Strip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "",
@@ -503,7 +503,7 @@
     "details": {
       "name": "Gunsan AB (RKJK)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "17/35",
       "tcn": "",
       "atis": "120.225",
@@ -600,7 +600,7 @@
     "details": {
       "name": "Haeju Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "122.550",
@@ -621,7 +621,7 @@
     "details": {
       "name": "Hiroshima Airport (RJOA)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "127.250",
@@ -663,7 +663,7 @@
     "details": {
       "name": "Hwangju Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "12/30",
       "tcn": "",
       "atis": "124.100",
@@ -684,7 +684,7 @@
     "details": {
       "name": "Hwangsuwon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "123.550",
@@ -705,7 +705,7 @@
     "details": {
       "name": "Hyangsan Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "12/30",
       "tcn": "",
       "atis": "",
@@ -726,7 +726,7 @@
     "details": {
       "name": "Hyon-Ni Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "01/19",
       "tcn": "",
       "atis": "124.325",
@@ -747,7 +747,7 @@
     "details": {
       "name": "Icheon VOR (ICN)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "",
       "tcn": "",
       "atis": "",
@@ -891,7 +891,7 @@
     "details": {
       "name": "Iwon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "10/28",
       "tcn": "",
       "atis": "125.400",
@@ -954,7 +954,7 @@
     "details": {
       "name": "Kaechon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "04/22",
       "tcn": "",
       "atis": "123.850",
@@ -1017,7 +1017,7 @@
     "details": {
       "name": "Kangdong Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "03/21",
       "tcn": "",
       "atis": "",
@@ -1038,7 +1038,7 @@
     "details": {
       "name": "Kilchu Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "02/20",
       "tcn": "",
       "atis": "",
@@ -1059,7 +1059,7 @@
     "details": {
       "name": "Koksan Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "06/24",
       "tcn": "",
       "atis": "124.400",
@@ -1101,7 +1101,7 @@
     "details": {
       "name": "Kuktong Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "",
@@ -1143,7 +1143,7 @@
     "details": {
       "name": "Kuum-Ni Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "05/23",
       "tcn": "",
       "atis": "124.200",
@@ -1164,7 +1164,7 @@
     "details": {
       "name": "Kwail Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "15/33",
       "tcn": "",
       "atis": "125.300",
@@ -1185,7 +1185,7 @@
     "details": {
       "name": "Kwaksan Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "04/22",
       "tcn": "",
       "atis": "",
@@ -1248,7 +1248,7 @@
     "details": {
       "name": "Manpo Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "02/20",
       "tcn": "",
       "atis": "124.500",
@@ -1290,7 +1290,7 @@
     "details": {
       "name": "Mirim Airport",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "123.425",
@@ -1353,7 +1353,7 @@
     "details": {
       "name": "Okpyongni Highwaystrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "15/33",
       "tcn": "",
       "atis": "",
@@ -1374,7 +1374,7 @@
     "details": {
       "name": "Onchon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "01/19",
       "tcn": "",
       "atis": "125.200",
@@ -1395,7 +1395,7 @@
     "details": {
       "name": "Orang Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "03/21",
       "tcn": "",
       "atis": "123.200",
@@ -1416,7 +1416,7 @@
     "details": {
       "name": "Osan AB (RKSO)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "08L/26R - 08R/26L",
       "tcn": "",
       "atis": "132.125",
@@ -1437,7 +1437,7 @@
     "details": {
       "name": "Panghyon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "12/30",
       "tcn": "",
       "atis": "125.100",
@@ -1458,7 +1458,7 @@
     "details": {
       "name": "Panghyon Highwaystrip South",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "11/29",
       "tcn": "",
       "atis": "",
@@ -1521,7 +1521,7 @@
     "details": {
       "name": "Pukchang-up Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "123.600",
@@ -1584,7 +1584,7 @@
     "details": {
       "name": "Pyongyang Elite Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "16/34",
       "tcn": "",
       "atis": "",
@@ -1605,7 +1605,7 @@
     "details": {
       "name": "Sacheon AB (RKPS)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "06L/24R - 06R/24L",
       "tcn": "",
       "atis": "126.625",
@@ -1668,7 +1668,7 @@
     "details": {
       "name": "Sangwon Highwaystrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "15/33",
       "tcn": "",
       "atis": "",
@@ -1762,7 +1762,7 @@
     "details": {
       "name": "Seoul AB (RKSM)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "01/19 - 18/36",
       "tcn": "",
       "atis": "126.475",
@@ -1867,7 +1867,7 @@
     "details": {
       "name": "Singal Highway Strip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "18/36",
       "tcn": "",
       "atis": "",
@@ -1909,7 +1909,7 @@
     "details": {
       "name": "Sondok Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "01/19",
       "tcn": "",
       "atis": "123.700",
@@ -1972,7 +1972,7 @@
     "details": {
       "name": "Sugamni Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "",
@@ -2014,7 +2014,7 @@
     "details": {
       "name": "Sunchon  (ZKSC)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "15/33",
       "tcn": "",
       "atis": "123.100",
@@ -2077,7 +2077,7 @@
     "details": {
       "name": "Taechon Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "11/29",
       "tcn": "",
       "atis": "124.700",
@@ -2098,7 +2098,7 @@
     "details": {
       "name": "Taetan Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "124.900",
@@ -2119,7 +2119,7 @@
     "details": {
       "name": "Tanchon Airstrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "",
@@ -2161,7 +2161,7 @@
     "details": {
       "name": "Toksan Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "04/22",
       "tcn": "",
       "atis": "123.000",
@@ -2371,7 +2371,7 @@
     "details": {
       "name": "Yangyang Intl Airport (RKNY)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "14/32",
       "tcn": "",
       "atis": "128.825",
@@ -2434,7 +2434,7 @@
     "details": {
       "name": "Yecheon AB (RKTY)",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "09/27",
       "tcn": "",
       "atis": "135.800",
@@ -2476,7 +2476,7 @@
     "details": {
       "name": "Yeongju Highway Strip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "11/29",
       "tcn": "",
       "atis": "",
@@ -2539,7 +2539,7 @@
     "details": {
       "name": "Yonghung Highwaystrip",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "10/28",
       "tcn": "",
       "atis": "",
@@ -2560,7 +2560,7 @@
     "details": {
       "name": "Yonpo Airbase",
       "elev": "",
-      "range": "0 NM",
+      "range": "",
       "rwy": "13/31",
       "tcn": "",
       "atis": "",

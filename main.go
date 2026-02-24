@@ -95,7 +95,9 @@ func main() {
 			fmt.Printf("No station data for %d: %s\n", abRecord.Id, abRecord.Name)
 		} else {
 			fmt.Printf("Station name %s, %s\n", abRecord.Name, freq.Atis)
-			detail.Range = fmt.Sprintf("%d NM", freq.Range)
+			if freq.Range > 0 {
+				detail.Range = fmt.Sprintf("%d NM", freq.Range)
+			}
 			detail.Twr = freq.TowerUhf
 			detail.Atis = freq.Atis
 			detail.Gnd = freq.Ground
@@ -145,7 +147,9 @@ func main() {
 			fmt.Printf("No station data for %d: %s\n", nbRecord.Id, nbRecord.Name)
 		} else {
 			fmt.Printf("Station name %s, %s\n", nbRecord.Name, freq.Atis)
-			detail.Range = fmt.Sprintf("%d NM", freq.Range)
+			if freq.Range > 0 {
+				detail.Range = fmt.Sprintf("%d NM", freq.Range)
+			}
 			detail.Tcn = freq.Tacan + freq.Band
 		}
 
