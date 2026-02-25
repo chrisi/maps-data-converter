@@ -26,6 +26,7 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 	}
 
 	mapping := loadCountryMapping("data/korea/country_mapping.json")
+	updated := false
 
 	for i := range stations {
 		station := &stations[i]
@@ -42,7 +43,7 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 			continue
 		}
 
-		fmt.Printf("Fetching country for %s (%s)", station.Name, city)
+		fmt.Printf("Fetching country for %s (%s)\n", station.Name, city)
 		country, err := fetchCountryForCity(client, city)
 		if err != nil {
 			fmt.Printf("Error fetching country for %s (%s): %v\n", station.Name, city, err)
@@ -54,10 +55,18 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 			missing = append(missing, station.Name)
 		} else {
 			station.Country = country
+			mapping[station.Name] = country
+			updated = true
 		}
 
 		// Nominatim Usage Policy: 1 request per second
 		time.Sleep(1100 * time.Millisecond)
+	}
+
+	if updated {
+		if err := saveCountryMapping("data/korea/country_mapping.json", mapping); err != nil {
+			fmt.Printf("Warning: could not save updated country mapping: %v\n", err)
+		}
 	}
 
 	return missing
@@ -76,6 +85,14 @@ func loadCountryMapping(path string) map[string]string {
 	}
 
 	return mapping
+}
+
+func saveCountryMapping(path string, mapping map[string]string) error {
+	data, err := json.MarshalIndent(mapping, "", "  ")
+	if err != nil {
+		return err
+	}
+	return os.WriteFile(path, data, 0644)
 }
 
 func extractCity(name string) string {
