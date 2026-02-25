@@ -107,7 +107,7 @@ func main() {
 		}
 
 		abKey := getKey(abRecord.Name)
-		charts, err := loader.LoadCharts("charts/korea", abKey)
+		charts, err := loader.LoadCharts("data/korea/charts", abKey)
 		if err != nil {
 			fmt.Printf("Error loading charts for %s: %v\n", abKey, err)
 		} else if len(charts) > 0 {
