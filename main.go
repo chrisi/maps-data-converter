@@ -14,7 +14,6 @@ const BmsMapScale = 1 / MapFeet * 1024000
 const MapPixels = 4096
 
 func main() {
-
 	basePath := "c:\\apps\\Falcon BMS 4.38\\Data"
 	//basePath := "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Balkans"
 
@@ -180,6 +179,11 @@ func main() {
 	sort.Slice(records, func(i, j int) bool {
 		return records[i].Name < records[j].Name
 	})
+
+	missing := EnrichStationsWithCountry(records)
+	if len(missing) > 0 {
+		fmt.Printf("Missing countries for stations: %v\n", missing)
+	}
 
 	err = writeRecordsJSON("stations.json", records)
 	if err != nil {
