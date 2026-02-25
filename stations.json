@@ -476,7 +476,7 @@
     "ocdIdx": 835,
     "name": "Gumi Highway Strip",
     "country": "South Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 2312,
     "posy": 3085,
     "details": {
@@ -594,7 +594,7 @@
     "ocdIdx": 801,
     "name": "Haeju Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1444,
     "posy": 2262,
     "details": {
@@ -699,7 +699,7 @@
     "ocdIdx": 842,
     "name": "Hyangsan Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1602,
     "posy": 1366,
     "details": {
@@ -1043,7 +1043,7 @@
     "ocdIdx": 841,
     "name": "Kangdong Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1544,
     "posy": 1752,
     "details": {
@@ -1064,7 +1064,7 @@
     "ocdIdx": 849,
     "name": "Kilchu Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 2657,
     "posy": 969,
     "details": {
@@ -1406,7 +1406,7 @@
     "ocdIdx": 847,
     "name": "Okpyongni Highwaystrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1986,
     "posy": 1706,
     "details": {
@@ -1553,7 +1553,7 @@
     "ocdIdx": 818,
     "name": "Panghyon Highwaystrip South",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1247,
     "posy": 1424,
     "details": {
@@ -1724,7 +1724,7 @@
     "ocdIdx": 844,
     "name": "Pyongyang Elite Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1462,
     "posy": 1799,
     "details": {
@@ -1846,7 +1846,7 @@
     "ocdIdx": 839,
     "name": "Sangwon Highwaystrip",
     "country": "South Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1554,
     "posy": 1928,
     "details": {
@@ -2074,7 +2074,7 @@
     "ocdIdx": 836,
     "name": "Singal Highway Strip",
     "country": "South Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1907,
     "posy": 2579,
     "details": {
@@ -2158,7 +2158,7 @@
     "ocdIdx": 837,
     "name": "Songwhan Highway Strip",
     "country": "South Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1937,
     "posy": 2762,
     "details": {
@@ -2326,7 +2326,7 @@
     "ocdIdx": 845,
     "name": "Tanchon Airstrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 2511,
     "posy": 1203,
     "details": {
@@ -2683,7 +2683,7 @@
     "ocdIdx": 838,
     "name": "Yeongju Highway Strip",
     "country": "South Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 2433,
     "posy": 2784,
     "details": {
@@ -2746,7 +2746,7 @@
     "ocdIdx": 846,
     "name": "Yonghung Highwaystrip",
     "country": "North Korea",
-    "type": "Airbase",
+    "type": "Airstrip",
     "posx": 1975,
     "posy": 1587,
     "details": {

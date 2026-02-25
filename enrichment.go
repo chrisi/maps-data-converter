@@ -17,15 +17,15 @@ type NominatimSearchResult struct {
 
 // EnrichStationsWithCountry fetches the country name for a given list of stations
 // based on the first part of the station's name (the city).
-// It first tries to find a mapping in data/korea/country_mapping.json.
+// It first tries to find a mapping in country_mapping.json.
 // It returns a slice of strings containing the names of stations for which no country was found.
-func EnrichStationsWithCountry(stations []model.Station) []string {
+func EnrichStationsWithCountry(theater string, stations []model.Station) []string {
 	var missing []string
 	client := &http.Client{
 		Timeout: 10 * time.Second,
 	}
-
-	mapping := loadCountryMapping("data/korea/country_mapping.json")
+	mappingFile := fmt.Sprintf("data/%s/country_mapping.json", theater)
+	mapping := loadCountryMapping(mappingFile)
 	updated := false
 
 	for i := range stations {
@@ -64,7 +64,7 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 	}
 
 	if updated {
-		if err := saveCountryMapping("data/korea/country_mapping.json", mapping); err != nil {
+		if err := saveCountryMapping(mappingFile, mapping); err != nil {
 			fmt.Printf("Warning: could not save updated country mapping: %v\n", err)
 		}
 	}

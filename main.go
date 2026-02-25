@@ -14,12 +14,28 @@ const BmsMapScale = 1 / MapFeet * 1024000
 const MapPixels = 4096
 
 func main() {
-	basePath := "c:\\apps\\Falcon BMS 4.38\\Data"
-	//basePath := "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Balkans"
 
-	ctFile := basePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
-	campFile := basePath + "\\Campaign\\CampObjData.XML"
-	stationFile := basePath + "\\Campaign\\Stations+Ils.dat"
+	configs := []model.Config{
+		{
+			Theater:  "balkans",
+			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Balkans",
+		},
+		{
+			Theater:  "korea",
+			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data",
+		},
+	}
+
+	configByTheater := make(map[string]model.Config, len(configs))
+	for _, cfg := range configs {
+		configByTheater[cfg.Theater] = cfg
+	}
+
+	cfg := configByTheater["korea"]
+
+	ctFile := cfg.BasePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
+	campFile := cfg.BasePath + "\\Campaign\\CampObjData.XML"
+	stationFile := cfg.BasePath + "\\Campaign\\Stations+Ils.dat"
 
 	loader := DataLoader{}
 
@@ -62,12 +78,12 @@ func main() {
 
 		phdPath, pdxPath := CreateDataPaths(abRecord.OcdIdx)
 
-		phd, err := loader.LoadPHD(basePath + phdPath)
+		phd, err := loader.LoadPHD(cfg.BasePath + phdPath)
 		if err != nil {
 			panic(err)
 		}
 
-		pdx, err := loader.LoadPDX(basePath + pdxPath)
+		pdx, err := loader.LoadPDX(cfg.BasePath + pdxPath)
 		if err != nil {
 			panic(err)
 		}
@@ -107,7 +123,8 @@ func main() {
 		}
 
 		abKey := getKey(abRecord.Name)
-		charts, err := loader.LoadCharts("data/korea/charts", abKey)
+		chartsDir := fmt.Sprintf("data/%s/charts/", cfg.Theater)
+		charts, err := loader.LoadCharts(chartsDir, abKey)
 		if err != nil {
 			fmt.Printf("Error loading charts for %s: %v\n", abKey, err)
 		} else if len(charts) > 0 {
@@ -115,12 +132,17 @@ func main() {
 			fmt.Printf("Loaded %d charts for %s\n", len(charts), abKey)
 		}
 
+		tp := "Airbase"
+		if strings.Contains(strings.ToLower(abRecord.Name), "strip") {
+			tp = "Airstrip"
+		}
+
 		sta := model.Station{
 			CampId:  abRecord.Id,
 			OcdIdx:  abRecord.OcdIdx,
 			Name:    abRecord.Name,
 			Country: "KTO",
-			Type:    "Airbase",
+			Type:    tp,
 			PosX:    px,
 			PosY:    py,
 			Details: &detail,
@@ -180,7 +202,7 @@ func main() {
 		return records[i].Name < records[j].Name
 	})
 
-	missing := EnrichStationsWithCountry(records)
+	missing := EnrichStationsWithCountry(cfg.Theater, records)
 	if len(missing) > 0 {
 		fmt.Printf("Missing countries for stations: %v\n", missing)
 	}
