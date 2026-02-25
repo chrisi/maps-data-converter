@@ -31,7 +31,7 @@ func main() {
 		configByTheater[cfg.Theater] = cfg
 	}
 
-	cfg := configByTheater["korea"]
+	cfg := configByTheater["balkans"]
 
 	ctFile := cfg.BasePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
 	campFile := cfg.BasePath + "\\Campaign\\CampObjData.XML"
