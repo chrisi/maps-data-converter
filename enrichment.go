@@ -6,6 +6,7 @@ import (
 	"maps-data-converter/model"
 	"net/http"
 	"net/url"
+	"os"
 	"strings"
 	"time"
 )
@@ -16,6 +17,7 @@ type NominatimSearchResult struct {
 
 // EnrichStationsWithCountry fetches the country name for a given list of stations
 // based on the first part of the station's name (the city).
+// It first tries to find a mapping in data/korea/country_mapping.json.
 // It returns a slice of strings containing the names of stations for which no country was found.
 func EnrichStationsWithCountry(stations []model.Station) []string {
 	var missing []string
@@ -23,8 +25,17 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 		Timeout: 10 * time.Second,
 	}
 
+	mapping := loadCountryMapping("data/korea/country_mapping.json")
+
 	for i := range stations {
 		station := &stations[i]
+
+		// Try mapping first
+		if country, ok := mapping[station.Name]; ok {
+			station.Country = country
+			continue
+		}
+
 		city := extractCity(station.Name)
 		if city == "" {
 			missing = append(missing, station.Name)
@@ -49,6 +60,21 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 	}
 
 	return missing
+}
+
+func loadCountryMapping(path string) map[string]string {
+	mapping := make(map[string]string)
+	data, err := os.ReadFile(path)
+	if err != nil {
+		fmt.Printf("Warning: could not load country mapping from %s: %v\n", path, err)
+		return mapping
+	}
+
+	if err := json.Unmarshal(data, &mapping); err != nil {
+		fmt.Printf("Warning: could not parse country mapping from %s: %v\n", path, err)
+	}
+
+	return mapping
 }
 
 func extractCity(name string) string {

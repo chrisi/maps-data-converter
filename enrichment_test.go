@@ -52,3 +52,24 @@ func TestEnrichStationsWithCountry_Integration(t *testing.T) {
 		t.Errorf("Expected 1 missing station (NonExistentCity12345), got %v", missing)
 	}
 }
+
+func TestEnrichStationsWithCountry_Mapping(t *testing.T) {
+	stations := []model.Station{
+		{Name: "Anshan Airbase (ZYAS)"},  // Exists in country_mapping.json as "China"
+		{Name: "Busan VORTAC (PSN) 87X"}, // Exists in country_mapping.json as "South Korea"
+	}
+
+	missing := EnrichStationsWithCountry(stations)
+
+	if len(missing) != 0 {
+		t.Errorf("Expected 0 missing stations, got %v", missing)
+	}
+
+	if stations[0].Country != "China" {
+		t.Errorf("Expected Anshan Airbase (ZYAS) to be in China, got %q", stations[0].Country)
+	}
+
+	if stations[1].Country != "South Korea" {
+		t.Errorf("Expected Busan VORTAC (PSN) 87X to be in South Korea, got %q", stations[1].Country)
+	}
+}
