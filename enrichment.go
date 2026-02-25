@@ -42,6 +42,7 @@ func EnrichStationsWithCountry(stations []model.Station) []string {
 			continue
 		}
 
+		fmt.Printf("Fetching country for %s (%s)", station.Name, city)
 		country, err := fetchCountryForCity(client, city)
 		if err != nil {
 			fmt.Printf("Error fetching country for %s (%s): %v\n", station.Name, city, err)
