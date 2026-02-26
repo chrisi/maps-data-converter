@@ -1,0 +1,2786 @@
+[
+  {
+    "campId": 3322,
+    "ocdIdx": 344,
+    "name": "Anshan Airbase (ZYAS)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 487,
+    "posy": 849,
+    "details": {
+      "name": "Anshan Airbase (ZYAS)",
+      "elev": "48 ft",
+      "range": "80 NM",
+      "rwy": "02/20",
+      "tcn": "021X",
+      "atis": "122.575",
+      "ops": "",
+      "gnd": "225.400",
+      "twr": "225.450",
+      "appdep": "225.500"
+    }
+  },
+  {
+    "campId": 3252,
+    "ocdIdx": 10,
+    "name": "Anyang VORTAC (SEL) 102X",
+    "country": "China",
+    "type": "VORTAC",
+    "posx": 1846,
+    "posy": 2530,
+    "details": {
+      "name": "Anyang VORTAC (SEL) 102X",
+      "elev": "",
+      "range": "100 NM",
+      "rwy": "",
+      "tcn": "102X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3449,
+    "ocdIdx": 10,
+    "name": "Busan VORTAC (PSN) 87X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 2594,
+    "posy": 3543,
+    "details": {
+      "name": "Busan VORTAC (PSN) 87X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "087X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3335,
+    "ocdIdx": 349,
+    "name": "Changbaishan Airport (ZYBS)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 2082,
+    "posy": 464,
+    "details": {
+      "name": "Changbaishan Airport (ZYBS)",
+      "elev": "2880 ft",
+      "range": "80 NM",
+      "rwy": "18/36",
+      "tcn": "061X",
+      "atis": "119.000",
+      "ops": "",
+      "gnd": "225.550",
+      "twr": "225.600",
+      "appdep": "225.975"
+    }
+  },
+  {
+    "campId": 3323,
+    "ocdIdx": 169,
+    "name": "Changjin-Up Airbase (ZKJN)",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1968,
+    "posy": 1220,
+    "details": {
+      "name": "Changjin-Up Airbase (ZKJN)",
+      "elev": "3586 ft",
+      "range": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 997,
+    "ocdIdx": 644,
+    "name": "Cheongju Intl Airport (RKTU)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2045,
+    "posy": 2841,
+    "details": {
+      "name": "Cheongju Intl Airport (RKTU)",
+      "elev": "176 ft",
+      "range": "",
+      "rwy": "05L/23R - 05R/23L",
+      "tcn": "",
+      "atis": "128.850",
+      "ops": "305.500",
+      "gnd": "275.850",
+      "twr": "236.600",
+      "appdep": "265.750"
+    }
+  },
+  {
+    "campId": 3440,
+    "ocdIdx": 10,
+    "name": "Cheongju VOR/DME (CHO) 27X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2046,
+    "posy": 2839,
+    "details": {
+      "name": "Cheongju VOR/DME (CHO) 27X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "027X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 983,
+    "ocdIdx": 7,
+    "name": "Daegu AB (RKTN)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2467,
+    "posy": 3202,
+    "details": {
+      "name": "Daegu AB (RKTN)",
+      "elev": "120 ft",
+      "range": "70 NM",
+      "rwy": "12R/30L - 12L/30R",
+      "tcn": "125X",
+      "atis": "127.650",
+      "ops": "240.600",
+      "gnd": "275.800",
+      "twr": "365.000",
+      "appdep": "346.300"
+    }
+  },
+  {
+    "campId": 3431,
+    "ocdIdx": 10,
+    "name": "Dahushan VOR/DME (DHN) 112X",
+    "country": "China",
+    "type": "VOR/DME",
+    "posx": 254,
+    "posy": 599,
+    "details": {
+      "name": "Dahushan VOR/DME (DHN) 112X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "112X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3318,
+    "ocdIdx": 827,
+    "name": "Dalian Sanshilipu (ZYLP)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 68,
+    "posy": 1634,
+    "details": {
+      "name": "Dalian Sanshilipu (ZYLP)",
+      "elev": "12 ft",
+      "range": "70 NM",
+      "rwy": "11/29",
+      "tcn": "063X",
+      "atis": "121.000",
+      "ops": "",
+      "gnd": "225.850",
+      "twr": "225.925",
+      "appdep": "225.975"
+    }
+  },
+  {
+    "campId": 3445,
+    "ocdIdx": 10,
+    "name": "Dalsung VORTAC (TGU) 59X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 2442,
+    "posy": 3240,
+    "details": {
+      "name": "Dalsung VORTAC (TGU) 59X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "059X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3317,
+    "ocdIdx": 350,
+    "name": "Dandong Langtou Airbase (ZYDD)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 950,
+    "posy": 1351,
+    "details": {
+      "name": "Dandong Langtou Airbase (ZYDD)",
+      "elev": "30 ft",
+      "range": "80 NM",
+      "rwy": "18/36",
+      "tcn": "066X",
+      "atis": "122.000",
+      "ops": "",
+      "gnd": "226.000",
+      "twr": "226.025",
+      "appdep": "226.100"
+    }
+  },
+  {
+    "campId": 3432,
+    "ocdIdx": 10,
+    "name": "Dandong VOR/DME (DDG) 86X",
+    "country": "China",
+    "type": "VOR/DME",
+    "posx": 954,
+    "posy": 1248,
+    "details": {
+      "name": "Dandong VOR/DME (DDG) 86X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "086X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3444,
+    "ocdIdx": 10,
+    "name": "Donchon VOR/DME (DOC) 112X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2460,
+    "posy": 3198,
+    "details": {
+      "name": "Donchon VOR/DME (DOC) 112X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "112X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3554,
+    "ocdIdx": 831,
+    "name": "Fuxin Airbase",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 116,
+    "posy": 393,
+    "details": {
+      "name": "Fuxin Airbase",
+      "elev": "800 ft",
+      "range": "80 NM",
+      "rwy": "08/26",
+      "tcn": "067X",
+      "atis": "123.050",
+      "ops": "",
+      "gnd": "226.150",
+      "twr": "226.200",
+      "appdep": "226.275"
+    }
+  },
+  {
+    "campId": 3332,
+    "ocdIdx": 828,
+    "name": "Fuxin Airport (ZXFX)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 134,
+    "posy": 398,
+    "details": {
+      "name": "Fuxin Airport (ZXFX)",
+      "elev": "554 ft",
+      "range": "80 NM",
+      "rwy": "01R/19L - 01L/19R",
+      "tcn": "068X",
+      "atis": "124.050",
+      "ops": "",
+      "gnd": "226.300",
+      "twr": "226.350",
+      "appdep": "226.400"
+    }
+  },
+  {
+    "campId": 931,
+    "ocdIdx": 638,
+    "name": "Gangneung AB (RKNN)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2556,
+    "posy": 2375,
+    "details": {
+      "name": "Gangneung AB (RKNN)",
+      "elev": "19 ft",
+      "range": "70 NM",
+      "rwy": "07/25",
+      "tcn": "056X",
+      "atis": "132.050",
+      "ops": "226.175",
+      "gnd": "275.800",
+      "twr": "334.900",
+      "appdep": "304.000"
+    }
+  },
+  {
+    "campId": 3436,
+    "ocdIdx": 10,
+    "name": "Gangwon VORTAC (KAE) 103X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 2490,
+    "posy": 2400,
+    "details": {
+      "name": "Gangwon VORTAC (KAE) 103X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "103X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3033,
+    "ocdIdx": 85,
+    "name": "Gimhae Intl Airport (RKPK)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2570,
+    "posy": 3516,
+    "details": {
+      "name": "Gimhae Intl Airport (RKPK)",
+      "elev": "14 ft",
+      "range": "",
+      "rwy": "17R/35L - 17L/35R",
+      "tcn": "",
+      "atis": "126.650",
+      "ops": "235.100",
+      "gnd": "274.800",
+      "twr": "233.300",
+      "appdep": "225.100"
+    }
+  },
+  {
+    "campId": 3447,
+    "ocdIdx": 10,
+    "name": "Gimhae VOR/DME (KMH) 85X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2571,
+    "posy": 3509,
+    "details": {
+      "name": "Gimhae VOR/DME (KMH) 85X",
+      "elev": "",
+      "range": "100 NM",
+      "rwy": "",
+      "tcn": "085X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 1486,
+    "ocdIdx": 192,
+    "name": "Gimpo Intl Airport (RKSS)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1799,
+    "posy": 2467,
+    "details": {
+      "name": "Gimpo Intl Airport (RKSS)",
+      "elev": "48 ft",
+      "range": "70 NM",
+      "rwy": "14R/32L - 14L/32R",
+      "tcn": "083X",
+      "atis": "126.350",
+      "ops": "317.800",
+      "gnd": "236.700",
+      "twr": "240.900",
+      "appdep": "363.800",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ADC.pdf",
+          "width": 870,
+          "height": 600
+        },
+        {
+          "name": "ILS RWY 14L (109.9)",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 14R (108.7)",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "ILS RWY 32L (108.3)",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+          "page": 11
+        },
+        {
+          "name": "ILS RWY 32R (110.7)",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - ILS.pdf",
+          "page": 17
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Gimpo Intl (RKSS)/Gimpo Intl (RKSS) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 927,
+    "ocdIdx": 835,
+    "name": "Gumi Highway Strip",
+    "country": "South Korea",
+    "type": "Airstrip",
+    "posx": 2312,
+    "posy": 3085,
+    "details": {
+      "name": "Gumi Highway Strip",
+      "elev": "200 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "236.600",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 995,
+    "ocdIdx": 622,
+    "name": "Gunsan AB (RKJK)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1730,
+    "posy": 3198,
+    "details": {
+      "name": "Gunsan AB (RKJK)",
+      "elev": "22 ft",
+      "range": "",
+      "rwy": "17/35",
+      "tcn": "",
+      "atis": "120.225",
+      "ops": "304.800",
+      "gnd": "273.525",
+      "twr": "292.300",
+      "appdep": "292.650",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ADC.pdf"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 18 (110.3)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 36 (110.3)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 3
+        },
+        {
+          "name": "TACAN RWY 18 (112.8)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 5
+        },
+        {
+          "name": "TACAN RWY 36 (112.8)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 994,
+    "ocdIdx": 101,
+    "name": "Gwangju AB (RKJJ)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1795,
+    "posy": 3542,
+    "details": {
+      "name": "Gwangju AB (RKJJ)",
+      "elev": "42 ft",
+      "range": "80 NM",
+      "rwy": "03L/21R - 03R/21L",
+      "tcn": "091X",
+      "atis": "128.875",
+      "ops": "234.700",
+      "gnd": "275.800",
+      "twr": "254.600",
+      "appdep": "268.000"
+    }
+  },
+  {
+    "campId": 3448,
+    "ocdIdx": 10,
+    "name": "Gwangju VOR/DME (KWJ) 88X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 1797,
+    "posy": 3544,
+    "details": {
+      "name": "Gwangju VOR/DME (KWJ) 88X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "088X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 942,
+    "ocdIdx": 801,
+    "name": "Haeju Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1444,
+    "posy": 2262,
+    "details": {
+      "name": "Haeju Airstrip",
+      "elev": "40 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "122.550",
+      "ops": "315.250",
+      "gnd": "282.600",
+      "twr": "280.400",
+      "appdep": "278.600"
+    }
+  },
+  {
+    "campId": 3300,
+    "ocdIdx": 154,
+    "name": "Hiroshima Airport (RJOA)",
+    "country": "Japan",
+    "type": "Airbase",
+    "posx": 4036,
+    "posy": 3795,
+    "details": {
+      "name": "Hiroshima Airport (RJOA)",
+      "elev": "1080 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "127.250",
+      "ops": "314.625",
+      "gnd": "299.300",
+      "twr": "357.650",
+      "appdep": "392.625"
+    }
+  },
+  {
+    "campId": 3426,
+    "ocdIdx": 10,
+    "name": "Hongo VOR/DME (HGE) 126X",
+    "country": "China",
+    "type": "VOR/DME",
+    "posx": 4042,
+    "posy": 3799,
+    "details": {
+      "name": "Hongo VOR/DME (HGE) 126X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "126X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 1776,
+    "ocdIdx": 314,
+    "name": "Hwangju Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1450,
+    "posy": 1975,
+    "details": {
+      "name": "Hwangju Airbase",
+      "elev": "48 ft",
+      "range": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "124.100",
+      "ops": "362.525",
+      "gnd": "338.400",
+      "twr": "337.600",
+      "appdep": "335.200"
+    }
+  },
+  {
+    "campId": 534,
+    "ocdIdx": 802,
+    "name": "Hwangsuwon Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2268,
+    "posy": 1079,
+    "details": {
+      "name": "Hwangsuwon Airbase",
+      "elev": "4026 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "123.550",
+      "ops": "360.000",
+      "gnd": "312.600",
+      "twr": "368.500",
+      "appdep": "344.300"
+    }
+  },
+  {
+    "campId": 951,
+    "ocdIdx": 842,
+    "name": "Hyangsan Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1602,
+    "posy": 1366,
+    "details": {
+      "name": "Hyangsan Airstrip",
+      "elev": "331 ft",
+      "range": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 952,
+    "ocdIdx": 803,
+    "name": "Hyon-Ni Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2031,
+    "posy": 1998,
+    "details": {
+      "name": "Hyon-Ni Airbase",
+      "elev": "1930 ft",
+      "range": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "124.325",
+      "ops": "298.200",
+      "gnd": "241.900",
+      "twr": "242.900",
+      "appdep": "230.500"
+    }
+  },
+  {
+    "campId": 3438,
+    "ocdIdx": 10,
+    "name": "Icheon VOR (ICN)",
+    "country": "South Korea",
+    "type": "n/a",
+    "posx": 2042,
+    "posy": 2624,
+    "details": {
+      "name": "Icheon VOR (ICN)",
+      "elev": "",
+      "range": "",
+      "rwy": "",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3298,
+    "ocdIdx": 151,
+    "name": "Incheon Intl Airport (RKSI)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1677,
+    "posy": 2501,
+    "details": {
+      "name": "Incheon Intl Airport (RKSI)",
+      "elev": "18 ft",
+      "range": "70 NM",
+      "rwy": "15R/33L - 15L/33R",
+      "tcn": "076X",
+      "atis": "128.450",
+      "ops": "",
+      "gnd": "266.925",
+      "twr": "231.800",
+      "appdep": "293.225",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ADC.pdf",
+          "width": 870,
+          "height": 600
+        },
+        {
+          "name": "ILS RWY 15L (111.9)",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 15R (109.1)",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+          "page": 9
+        },
+        {
+          "name": "ILS RWY 33L (109.3)",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+          "page": 23
+        },
+        {
+          "name": "ILS RWY 33R (108.9)",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - ILS.pdf",
+          "page": 27
+        },
+        {
+          "name": "Visual Approach",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - VISUAL.pdf"
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Incheon Intl (RKSI)/Incheon Intl (RKSI) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 3273,
+    "ocdIdx": 77,
+    "name": "Iwakuni MCAS (RJOI)",
+    "country": "Japan",
+    "type": "Airbase",
+    "posx": 3796,
+    "posy": 3940,
+    "details": {
+      "name": "Iwakuni MCAS (RJOI)",
+      "elev": "6 ft",
+      "range": "100 NM",
+      "rwy": "01/19",
+      "tcn": "126X",
+      "atis": "128.400",
+      "ops": "335.700",
+      "gnd": "321.300",
+      "twr": "299.750",
+      "appdep": "331.400"
+    }
+  },
+  {
+    "campId": 3427,
+    "ocdIdx": 10,
+    "name": "Iwakuni TACAN (NEU) 35X",
+    "country": "Japan",
+    "type": "n/a",
+    "posx": 3799,
+    "posy": 3934,
+    "details": {
+      "name": "Iwakuni TACAN (NEU) 35X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "035X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 51,
+    "ocdIdx": 139,
+    "name": "Iwami Airport (RJOW)",
+    "country": "Japan",
+    "type": "Airbase",
+    "posx": 3621,
+    "posy": 3711,
+    "details": {
+      "name": "Iwami Airport (RJOW)",
+      "elev": "175 ft",
+      "range": "150 NM",
+      "rwy": "10/28",
+      "tcn": "057X",
+      "atis": "127.200",
+      "ops": "256.000",
+      "gnd": "236.800",
+      "twr": "225.625",
+      "appdep": "279.200"
+    }
+  },
+  {
+    "campId": 962,
+    "ocdIdx": 804,
+    "name": "Iwon Airbase",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2462,
+    "posy": 1220,
+    "details": {
+      "name": "Iwon Airbase",
+      "elev": "70 ft",
+      "range": "",
+      "rwy": "10/28",
+      "tcn": "",
+      "atis": "125.400",
+      "ops": "300.600",
+      "gnd": "240.600",
+      "twr": "234.400",
+      "appdep": "228.900"
+    }
+  },
+  {
+    "campId": 3425,
+    "ocdIdx": 10,
+    "name": "Izumo VOR/DME (XZE) 81X",
+    "country": "Japan",
+    "type": "VOR/DME",
+    "posx": 4007,
+    "posy": 3362,
+    "details": {
+      "name": "Izumo VOR/DME (XZE) 81X",
+      "elev": "",
+      "range": "100 NM",
+      "rwy": "",
+      "tcn": "081X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 930,
+    "ocdIdx": 74,
+    "name": "Jungwon AB (RKTI)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2185,
+    "posy": 2701,
+    "details": {
+      "name": "Jungwon AB (RKTI)",
+      "elev": "290 ft",
+      "range": "70 NM",
+      "rwy": "18R/36L - 18L/36R",
+      "tcn": "005X",
+      "atis": "135.600",
+      "ops": "234.950",
+      "gnd": "275.900",
+      "twr": "230.150",
+      "appdep": "306.700",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Jungwon/Jungwon_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 36R (111.3)",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - ilsdme_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36L",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36l.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36R",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "Jungwon 2 Departure",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - jungwon_dep.pdf",
+          "width": 551
+        }
+      ]
+    }
+  },
+  {
+    "campId": 973,
+    "ocdIdx": 805,
+    "name": "Kaechon Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1500,
+    "posy": 1488,
+    "details": {
+      "name": "Kaechon Airbase",
+      "elev": "110 ft",
+      "range": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "123.850",
+      "ops": "395.500",
+      "gnd": "333.100",
+      "twr": "350.000",
+      "appdep": "340.800"
+    }
+  },
+  {
+    "campId": 3334,
+    "ocdIdx": 821,
+    "name": "Kaiyuan-Tieling Airbase (ZYKT)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 893,
+    "posy": 236,
+    "details": {
+      "name": "Kaiyuan-Tieling Airbase (ZYKT)",
+      "elev": "275 ft",
+      "range": "80 NM",
+      "rwy": "02/20",
+      "tcn": "069X",
+      "atis": "125.050",
+      "ops": "",
+      "gnd": "226.475",
+      "twr": "226.500",
+      "appdep": "226.575"
+    }
+  },
+  {
+    "campId": 964,
+    "ocdIdx": 132,
+    "name": "Kalma Airport (ZKWS)",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2040,
+    "posy": 1755,
+    "details": {
+      "name": "Kalma Airport (ZKWS)",
+      "elev": "18 ft",
+      "range": "70 NM",
+      "rwy": "15R/33L - 15L/33R",
+      "tcn": "054X",
+      "atis": "124.650",
+      "ops": "347.400",
+      "gnd": "240.650",
+      "twr": "244.400",
+      "appdep": "264.400"
+    }
+  },
+  {
+    "campId": 950,
+    "ocdIdx": 841,
+    "name": "Kangdong Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1544,
+    "posy": 1752,
+    "details": {
+      "name": "Kangdong Airstrip",
+      "elev": "112 ft",
+      "range": "",
+      "rwy": "03/21",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "231.400",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 2516,
+    "ocdIdx": 849,
+    "name": "Kilchu Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 2657,
+    "posy": 969,
+    "details": {
+      "name": "Kilchu Airstrip",
+      "elev": "308 ft",
+      "range": "",
+      "rwy": "02/20",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "231.400",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 949,
+    "ocdIdx": 806,
+    "name": "Koksan Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1736,
+    "posy": 1962,
+    "details": {
+      "name": "Koksan Airbase",
+      "elev": "800 ft",
+      "range": "",
+      "rwy": "06/24",
+      "tcn": "",
+      "atis": "124.400",
+      "ops": "314.800",
+      "gnd": "320.200",
+      "twr": "318.200",
+      "appdep": "319.200"
+    }
+  },
+  {
+    "campId": 3428,
+    "ocdIdx": 10,
+    "name": "Kuga VORTAC (IWC) 90X",
+    "country": "Japan",
+    "type": "VORTAC",
+    "posx": 3764,
+    "posy": 3970,
+    "details": {
+      "name": "Kuga VORTAC (IWC) 90X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "090X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3103,
+    "ocdIdx": 850,
+    "name": "Kuktong Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2740,
+    "posy": 819,
+    "details": {
+      "name": "Kuktong Airbase",
+      "elev": "118 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3443,
+    "ocdIdx": 10,
+    "name": "Kunsan VORTAC (KUZ) 75X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 1727,
+    "posy": 3196,
+    "details": {
+      "name": "Kunsan VORTAC (KUZ) 75X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "075X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 1858,
+    "ocdIdx": 133,
+    "name": "Kuum-Ni Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2189,
+    "posy": 1885,
+    "details": {
+      "name": "Kuum-Ni Airbase",
+      "elev": "86 ft",
+      "range": "",
+      "rwy": "05/23",
+      "tcn": "",
+      "atis": "124.200",
+      "ops": "320.900",
+      "gnd": "350.200",
+      "twr": "388.700",
+      "appdep": "380.600"
+    }
+  },
+  {
+    "campId": 945,
+    "ocdIdx": 807,
+    "name": "Kwail Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1182,
+    "posy": 2069,
+    "details": {
+      "name": "Kwail Airbase",
+      "elev": "75 ft",
+      "range": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "125.300",
+      "ops": "368.450",
+      "gnd": "350.000",
+      "twr": "349.400",
+      "appdep": "349.600"
+    }
+  },
+  {
+    "campId": 976,
+    "ocdIdx": 819,
+    "name": "Kwaksan Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1229,
+    "posy": 1490,
+    "details": {
+      "name": "Kwaksan Airbase",
+      "elev": "56 ft",
+      "range": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3331,
+    "ocdIdx": 825,
+    "name": "Laoohutun Airbase (ZYLN)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 80,
+    "posy": 1466,
+    "details": {
+      "name": "Laoohutun Airbase (ZYLN)",
+      "elev": "42 ft",
+      "range": "80 NM",
+      "rwy": "05/23",
+      "tcn": "070X",
+      "atis": "126.000",
+      "ops": "",
+      "gnd": "226.600",
+      "twr": "226.675",
+      "appdep": "226.700"
+    }
+  },
+  {
+    "campId": 3328,
+    "ocdIdx": 822,
+    "name": "Liaoyang Airbase  (ZYLY)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 567,
+    "posy": 777,
+    "details": {
+      "name": "Liaoyang Airbase  (ZYLY)",
+      "elev": "56 ft",
+      "range": "80 NM",
+      "rwy": "02/20",
+      "tcn": "071X",
+      "atis": "127.000",
+      "ops": "",
+      "gnd": "226.800",
+      "twr": "226.875",
+      "appdep": "226.900"
+    }
+  },
+  {
+    "campId": 3101,
+    "ocdIdx": 809,
+    "name": "Manpo Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1664,
+    "posy": 873,
+    "details": {
+      "name": "Manpo Airbase",
+      "elev": "820 ft",
+      "range": "",
+      "rwy": "02/20",
+      "tcn": "",
+      "atis": "124.500",
+      "ops": "326.700",
+      "gnd": "262.650",
+      "twr": "242.400",
+      "appdep": "262.400"
+    }
+  },
+  {
+    "campId": 3430,
+    "ocdIdx": 10,
+    "name": "Matsuyama VOR/DME (MPE) 110X",
+    "country": "Japan",
+    "type": "VOR/DME",
+    "posx": 3971,
+    "posy": 4071,
+    "details": {
+      "name": "Matsuyama VOR/DME (MPE) 110X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "110X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 971,
+    "ocdIdx": 502,
+    "name": "Mirim Airport",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1471,
+    "posy": 1816,
+    "details": {
+      "name": "Mirim Airport",
+      "elev": "60 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "123.425",
+      "ops": "290.500",
+      "gnd": "225.100",
+      "twr": "225.300",
+      "appdep": "225.200"
+    }
+  },
+  {
+    "campId": 3299,
+    "ocdIdx": 24,
+    "name": "Muan Intl Airport (RKJB)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1642,
+    "posy": 3598,
+    "details": {
+      "name": "Muan Intl Airport (RKJB)",
+      "elev": "38 ft",
+      "range": "70 NM",
+      "rwy": "18/36",
+      "tcn": "047X",
+      "atis": "127.425",
+      "ops": "",
+      "gnd": "231.700",
+      "twr": "228.250",
+      "appdep": "240.000",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ADC.pdf"
+        },
+        {
+          "name": "ILS RWY 01 (111.9)",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 19 (108.9)",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - ILS.pdf",
+          "page": 11
+        },
+        {
+          "name": "Visual Approach",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - VISUAL.pdf"
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Muan Intl (RKJB)/Muan Intl (RKJB) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 3555,
+    "ocdIdx": 808,
+    "name": "Nuchon-ni Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1565,
+    "posy": 2161,
+    "details": {
+      "name": "Nuchon-ni Airbase",
+      "elev": "300 ft",
+      "range": "",
+      "rwy": "10/28",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 965,
+    "ocdIdx": 847,
+    "name": "Okpyongni Highwaystrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1986,
+    "posy": 1706,
+    "details": {
+      "name": "Okpyongni Highwaystrip",
+      "elev": "30 ft",
+      "range": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 946,
+    "ocdIdx": 153,
+    "name": "Onchon Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1262,
+    "posy": 1863,
+    "details": {
+      "name": "Onchon Airbase",
+      "elev": "50 ft",
+      "range": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "125.200",
+      "ops": "314.800",
+      "gnd": "300.600",
+      "twr": "302.400",
+      "appdep": "301.700"
+    }
+  },
+  {
+    "campId": 2506,
+    "ocdIdx": 812,
+    "name": "Orang Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2766,
+    "posy": 739,
+    "details": {
+      "name": "Orang Airbase",
+      "elev": "15 ft",
+      "range": "",
+      "rwy": "03/21",
+      "tcn": "",
+      "atis": "123.200",
+      "ops": "304.600",
+      "gnd": "263.100",
+      "twr": "264.000",
+      "appdep": "244.300"
+    }
+  },
+  {
+    "campId": 1784,
+    "ocdIdx": 37,
+    "name": "Osan AB (RKSO)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1878,
+    "posy": 2677,
+    "details": {
+      "name": "Osan AB (RKSO)",
+      "elev": "42 ft",
+      "range": "",
+      "rwy": "08L/26R - 08R/26L",
+      "tcn": "",
+      "atis": "132.125",
+      "ops": "272.700",
+      "gnd": "253.700",
+      "twr": "308.800",
+      "appdep": "306.300",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "https://cdn.falcon-bms.com/maps/01_KTO/charts/01 South Korea/Osan/Osan_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 09L (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 27R (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 09L",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 27R",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "DRAGGIN 8 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - draggin_dep.pdf",
+          "width": 551
+        },
+        {
+          "name": "MUSTANG 4 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - mustang_dep.pdf",
+          "width": 551
+        }
+      ]
+    }
+  },
+  {
+    "campId": 1220,
+    "ocdIdx": 135,
+    "name": "Panghyon Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1264,
+    "posy": 1404,
+    "details": {
+      "name": "Panghyon Airbase",
+      "elev": "290 ft",
+      "range": "",
+      "rwy": "12/30",
+      "tcn": "",
+      "atis": "125.100",
+      "ops": "360.200",
+      "gnd": "271.600",
+      "twr": "270.800",
+      "appdep": "268.600"
+    }
+  },
+  {
+    "campId": 975,
+    "ocdIdx": 818,
+    "name": "Panghyon Highwaystrip South",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1247,
+    "posy": 1424,
+    "details": {
+      "name": "Panghyon Highwaystrip South",
+      "elev": "348 ft",
+      "range": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3442,
+    "ocdIdx": 10,
+    "name": "Pohang (Navy) VORTAC (NPH) 33X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 2736,
+    "posy": 3157,
+    "details": {
+      "name": "Pohang (Navy) VORTAC (NPH) 33X",
+      "elev": "",
+      "range": "250 NM",
+      "rwy": "",
+      "tcn": "033X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3096,
+    "ocdIdx": 642,
+    "name": "Pohang AB (RKTH)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2740,
+    "posy": 3157,
+    "details": {
+      "name": "Pohang AB (RKTH)",
+      "elev": "74 ft",
+      "range": "80 NM",
+      "rwy": "09/27",
+      "tcn": "033X",
+      "atis": "127.400",
+      "ops": "317.375",
+      "gnd": "275.400",
+      "twr": "236.600",
+      "appdep": "232.400",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ADC.pdf",
+          "width": 860,
+          "height": 600
+        },
+        {
+          "name": "ILS RWY 10 (110.9)",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf"
+        },
+        {
+          "name": "TACAN RWY 10",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 3
+        },
+        {
+          "name": "TACAN RWY 28",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 9
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 3098,
+    "ocdIdx": 813,
+    "name": "Pukchang-up Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1520,
+    "posy": 1597,
+    "details": {
+      "name": "Pukchang-up Airbase",
+      "elev": "165 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "123.600",
+      "ops": "382.500",
+      "gnd": "265.500",
+      "twr": "264.900",
+      "appdep": "265.100"
+    }
+  },
+  {
+    "campId": 3321,
+    "ocdIdx": 823,
+    "name": "Pulandian Airbase (ZYPD)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 161,
+    "posy": 1568,
+    "details": {
+      "name": "Pulandian Airbase (ZYPD)",
+      "elev": "85 ft",
+      "range": "80 NM",
+      "rwy": "02/20",
+      "tcn": "079X",
+      "atis": "128.050",
+      "ops": "",
+      "gnd": "227.200",
+      "twr": "227.250",
+      "appdep": "227.300"
+    }
+  },
+  {
+    "campId": 924,
+    "ocdIdx": 641,
+    "name": "Pyeongtaek AAF (RKSG)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1881,
+    "posy": 2730,
+    "details": {
+      "name": "Pyeongtaek AAF (RKSG)",
+      "elev": "48 ft",
+      "range": "70 NM",
+      "rwy": "13/31",
+      "tcn": "019X",
+      "atis": "128.250",
+      "ops": "294.100",
+      "gnd": "229.700",
+      "twr": "257.800",
+      "appdep": "363.100",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Pyeongtaek/Pyeongtaek_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 32 (108.75)",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - ils_or_loc_rwy_32.pdf"
+        },
+        {
+          "name": "DVOR RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - dvor_rwy_32.pdf"
+        },
+        {
+          "name": "RNAV RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - rnav_gps_rwy_32.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 959,
+    "ocdIdx": 844,
+    "name": "Pyongyang Elite Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1462,
+    "posy": 1799,
+    "details": {
+      "name": "Pyongyang Elite Airstrip",
+      "elev": "52 ft",
+      "range": "",
+      "rwy": "16/34",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3097,
+    "ocdIdx": 52,
+    "name": "Sacheon AB (RKPS)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2254,
+    "posy": 3564,
+    "details": {
+      "name": "Sacheon AB (RKPS)",
+      "elev": "9 ft",
+      "range": "",
+      "rwy": "06L/24R - 06R/24L",
+      "tcn": "",
+      "atis": "126.625",
+      "ops": "225.475",
+      "gnd": "275.800",
+      "twr": "305.400",
+      "appdep": "317.425",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ADC.pdf"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 06L (111.5)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 24R (108.1)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 17
+        },
+        {
+          "name": "TACAN RWY 06L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 5
+        },
+        {
+          "name": "TACAN RWY 24L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 29
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 3450,
+    "ocdIdx": 10,
+    "name": "Sacheon VOR/DME (SAC) 98X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2258,
+    "posy": 3557,
+    "details": {
+      "name": "Sacheon VOR/DME (SAC) 98X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "098X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3100,
+    "ocdIdx": 814,
+    "name": "Samjiyon Airport (ZKSE)",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2350,
+    "posy": 534,
+    "details": {
+      "name": "Samjiyon Airport (ZKSE)",
+      "elev": "4450 ft",
+      "range": "100 NM",
+      "rwy": "06/24",
+      "tcn": "050X",
+      "atis": "125.000",
+      "ops": "318.500",
+      "gnd": "298.100",
+      "twr": "299.100",
+      "appdep": "300.250"
+    }
+  },
+  {
+    "campId": 947,
+    "ocdIdx": 839,
+    "name": "Sangwon Highwaystrip",
+    "country": "South Korea",
+    "type": "Airstrip",
+    "posx": 1554,
+    "posy": 1928,
+    "details": {
+      "name": "Sangwon Highwaystrip",
+      "elev": "368 ft",
+      "range": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3552,
+    "ocdIdx": 824,
+    "name": "Sanphuzen Liyoufangcun Airport (ZYPZ)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 1463,
+    "posy": 467,
+    "details": {
+      "name": "Sanphuzen Liyoufangcun Airport (ZYPZ)",
+      "elev": "1360 ft",
+      "range": "80 NM",
+      "rwy": "04/22",
+      "tcn": "080X",
+      "atis": "129.000",
+      "ops": "",
+      "gnd": "227.500",
+      "twr": "227.600",
+      "appdep": "227.725"
+    }
+  },
+  {
+    "campId": 921,
+    "ocdIdx": 643,
+    "name": "Seosan AB (RKTP)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1686,
+    "posy": 2842,
+    "details": {
+      "name": "Seosan AB (RKTP)",
+      "elev": "42 ft",
+      "range": "70 NM",
+      "rwy": "03L/21R - 03R/21L",
+      "tcn": "073X",
+      "atis": "130.300",
+      "ops": "318.100",
+      "gnd": "275.800",
+      "twr": "353.100",
+      "appdep": "253.950",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Seosan/Seosan_Airport.png"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 03R (111.5)",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_03r.pdf"
+        },
+        {
+          "name": "ILS RWY 21L (110.1)",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_21l.pdf"
+        },
+        {
+          "name": "HI-TACAN RWY 03L",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03l.pdf"
+        },
+        {
+          "name": "HI-TACAN RWY 03R",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03r.pdf"
+        },
+        {
+          "name": "HI-ILS RWY 03R",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_ils_or_locdme_rwy_3r.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 1484,
+    "ocdIdx": 61,
+    "name": "Seoul AB (RKSM)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1909,
+    "posy": 2514,
+    "details": {
+      "name": "Seoul AB (RKSM)",
+      "elev": "90 ft",
+      "range": "",
+      "rwy": "01/19 - 18/36",
+      "tcn": "",
+      "atis": "126.475",
+      "ops": "225.775",
+      "gnd": "276.200",
+      "twr": "236.600",
+      "appdep": "363.800",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ADC.pdf"
+        },
+        {
+          "name": "ILS RWY 20 (110.9)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 19 (108.95)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "TACAN RWY 19",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 37
+        },
+        {
+          "name": "TACAN RWY 20",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 41
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - SID.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "campId": 3437,
+    "ocdIdx": 10,
+    "name": "Seoul VOR/DME (KSM) 35X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 1910,
+    "posy": 2514,
+    "details": {
+      "name": "Seoul VOR/DME (KSM) 35X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "035X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3329,
+    "ocdIdx": 347,
+    "name": "Shenyang Beiling Airbase (ZYBG)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 700,
+    "posy": 520,
+    "details": {
+      "name": "Shenyang Beiling Airbase (ZYBG)",
+      "elev": "185 ft",
+      "range": "150 NM",
+      "rwy": "01/19",
+      "tcn": "084X",
+      "atis": "130.025",
+      "ops": "",
+      "gnd": "227.850",
+      "twr": "227.875",
+      "appdep": "227.900"
+    }
+  },
+  {
+    "campId": 3330,
+    "ocdIdx": 830,
+    "name": "Shenyang Dongta Airbase (ZYYY)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 717,
+    "posy": 559,
+    "details": {
+      "name": "Shenyang Dongta Airbase (ZYYY)",
+      "elev": "164 ft",
+      "range": "80 NM",
+      "rwy": "05/23",
+      "tcn": "088X",
+      "atis": "131.000",
+      "ops": "",
+      "gnd": "227.950",
+      "twr": "228.025",
+      "appdep": "228.075"
+    }
+  },
+  {
+    "campId": 12,
+    "ocdIdx": 834,
+    "name": "Shenyang Yuhong Airport (ZYSQ)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 652,
+    "posy": 538,
+    "details": {
+      "name": "Shenyang Yuhong Airport (ZYSQ)",
+      "elev": "135 ft",
+      "range": "80 NM",
+      "rwy": "03/21",
+      "tcn": "089X",
+      "atis": "132.000",
+      "ops": "",
+      "gnd": "228.100",
+      "twr": "228.200",
+      "appdep": "228.250"
+    }
+  },
+  {
+    "campId": 940,
+    "ocdIdx": 836,
+    "name": "Singal Highway Strip",
+    "country": "South Korea",
+    "type": "Airstrip",
+    "posx": 1907,
+    "posy": 2579,
+    "details": {
+      "name": "Singal Highway Strip",
+      "elev": "225 ft",
+      "range": "",
+      "rwy": "18/36",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.800",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 6929,
+    "ocdIdx": 10,
+    "name": "Sockcho VORTAC 47X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 2434,
+    "posy": 2198,
+    "details": {
+      "name": "Sockcho VORTAC 47X",
+      "elev": "",
+      "range": "100 NM",
+      "rwy": "",
+      "tcn": "047X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 969,
+    "ocdIdx": 157,
+    "name": "Sondok Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2037,
+    "posy": 1495,
+    "details": {
+      "name": "Sondok Airbase",
+      "elev": "18 ft",
+      "range": "",
+      "rwy": "01/19",
+      "tcn": "",
+      "atis": "123.700",
+      "ops": "362.150",
+      "gnd": "340.300",
+      "twr": "343.800",
+      "appdep": "342.600"
+    }
+  },
+  {
+    "campId": 3439,
+    "ocdIdx": 10,
+    "name": "Songtan VORTAC (SOT) 116X",
+    "country": "South Korea",
+    "type": "VORTAC",
+    "posx": 1881,
+    "posy": 2671,
+    "details": {
+      "name": "Songtan VORTAC (SOT) 116X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "116X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 925,
+    "ocdIdx": 837,
+    "name": "Songwhan Highway Strip",
+    "country": "South Korea",
+    "type": "Airstrip",
+    "posx": 1937,
+    "posy": 2762,
+    "details": {
+      "name": "Songwhan Highway Strip",
+      "elev": "125 ft",
+      "range": "",
+      "rwy": "18/36",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 960,
+    "ocdIdx": 817,
+    "name": "Sugamni Airbase",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 2773,
+    "posy": 630,
+    "details": {
+      "name": "Sugamni Airbase",
+      "elev": "35 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 1398,
+    "ocdIdx": 189,
+    "name": "Sunan Intl Airport (ZKPY)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 1415,
+    "posy": 1720,
+    "details": {
+      "name": "Sunan Intl Airport (ZKPY)",
+      "elev": "96 ft",
+      "range": "150 NM",
+      "rwy": "16/34 - 18/36",
+      "tcn": "051X",
+      "atis": "124.800",
+      "ops": "320.425",
+      "gnd": "262.500",
+      "twr": "264.000",
+      "appdep": "265.000"
+    }
+  },
+  {
+    "campId": 972,
+    "ocdIdx": 815,
+    "name": "Sunchon  (ZKSC)",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1494,
+    "posy": 1638,
+    "details": {
+      "name": "Sunchon  (ZKSC)",
+      "elev": "130 ft",
+      "range": "",
+      "rwy": "15/33",
+      "tcn": "",
+      "atis": "123.100",
+      "ops": "360.100",
+      "gnd": "256.200",
+      "twr": "253.100",
+      "appdep": "254.800"
+    }
+  },
+  {
+    "campId": 3429,
+    "ocdIdx": 10,
+    "name": "Suoh VOR/DME (SWE) 85Y",
+    "country": "Japan",
+    "type": "VOR/DME",
+    "posx": 3354,
+    "posy": 4086,
+    "details": {
+      "name": "Suoh VOR/DME (SWE) 85Y",
+      "elev": "",
+      "range": "300 NM",
+      "rwy": "",
+      "tcn": "085Y",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 1780,
+    "ocdIdx": 368,
+    "name": "Suwon AB (RKSW)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 1875,
+    "posy": 2611,
+    "details": {
+      "name": "Suwon AB (RKSW)",
+      "elev": "94 ft",
+      "range": "70 NM",
+      "rwy": "14R/32L - 14L/32R",
+      "tcn": "022X",
+      "atis": "126.425",
+      "ops": "225.675",
+      "gnd": "275.700",
+      "twr": "366.000",
+      "appdep": "306.400"
+    }
+  },
+  {
+    "campId": 974,
+    "ocdIdx": 816,
+    "name": "Taechon Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1361,
+    "posy": 1418,
+    "details": {
+      "name": "Taechon Airbase",
+      "elev": "120 ft",
+      "range": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "124.700",
+      "ops": "392.100",
+      "gnd": "260.400",
+      "twr": "275.500",
+      "appdep": "268.900"
+    }
+  },
+  {
+    "campId": 944,
+    "ocdIdx": 134,
+    "name": "Taetan Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1258,
+    "posy": 2202,
+    "details": {
+      "name": "Taetan Airbase",
+      "elev": "98 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "124.900",
+      "ops": "330.450",
+      "gnd": "290.300",
+      "twr": "288.700",
+      "appdep": "284.700"
+    }
+  },
+  {
+    "campId": 961,
+    "ocdIdx": 845,
+    "name": "Tanchon Airstrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 2511,
+    "posy": 1203,
+    "details": {
+      "name": "Tanchon Airstrip",
+      "elev": "10 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3326,
+    "ocdIdx": 96,
+    "name": "Taoxian Airbase (ZYTX)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 714,
+    "posy": 623,
+    "details": {
+      "name": "Taoxian Airbase (ZYTX)",
+      "elev": "184 ft",
+      "range": "80 NM",
+      "rwy": "05/23",
+      "tcn": "092X",
+      "atis": "127.450",
+      "ops": "",
+      "gnd": "228.350",
+      "twr": "228.400",
+      "appdep": "228.475"
+    }
+  },
+  {
+    "campId": 970,
+    "ocdIdx": 45,
+    "name": "Toksan Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2086,
+    "posy": 1380,
+    "details": {
+      "name": "Toksan Airbase",
+      "elev": "134 ft",
+      "range": "",
+      "rwy": "04/22",
+      "tcn": "",
+      "atis": "123.000",
+      "ops": "384.300",
+      "gnd": "340.700",
+      "twr": "324.800",
+      "appdep": "331.600"
+    }
+  },
+  {
+    "campId": 11,
+    "ocdIdx": 833,
+    "name": "Tonghua Sanyuanpu Airport (ZYTN)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 1455,
+    "posy": 375,
+    "details": {
+      "name": "Tonghua Sanyuanpu Airport (ZYTN)",
+      "elev": "1180 ft",
+      "range": "80 NM",
+      "rwy": "04/22",
+      "tcn": "093X",
+      "atis": "133.050",
+      "ops": "",
+      "gnd": "228.525",
+      "twr": "229.000",
+      "appdep": "229.050"
+    }
+  },
+  {
+    "campId": 3294,
+    "ocdIdx": 49,
+    "name": "Tsushima Airport (RJDT)",
+    "country": "Japan",
+    "type": "Airbase",
+    "posx": 2722,
+    "posy": 3912,
+    "details": {
+      "name": "Tsushima Airport (RJDT)",
+      "elev": "196 ft",
+      "range": "150 NM",
+      "rwy": "14/32",
+      "tcn": "051Y",
+      "atis": "124.325",
+      "ops": "",
+      "gnd": "230.900",
+      "twr": "231.900",
+      "appdep": "240.125"
+    }
+  },
+  {
+    "campId": 3099,
+    "ocdIdx": 59,
+    "name": "Uiju Airbase (ZKUJ)",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 1027,
+    "posy": 1296,
+    "details": {
+      "name": "Uiju Airbase (ZKUJ)",
+      "elev": "42 ft",
+      "range": "100 NM",
+      "rwy": "04/22",
+      "tcn": "055X",
+      "atis": "123.300",
+      "ops": "337.100",
+      "gnd": "370.600",
+      "twr": "372.000",
+      "appdep": "372.550"
+    }
+  },
+  {
+    "campId": 3446,
+    "ocdIdx": 10,
+    "name": "Ulsan VOR/DME (USN) 51X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2719,
+    "posy": 3329,
+    "details": {
+      "name": "Ulsan VOR/DME (USN) 51X",
+      "elev": "",
+      "range": "100 NM",
+      "rwy": "",
+      "tcn": "051X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3327,
+    "ocdIdx": 40,
+    "name": "Weihai Dashuibo Airport (ZSWH)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 178,
+    "posy": 2574,
+    "details": {
+      "name": "Weihai Dashuibo Airport (ZSWH)",
+      "elev": "132 ft",
+      "range": "80 NM",
+      "rwy": "02/20",
+      "tcn": "097X",
+      "atis": "134.000",
+      "ops": "",
+      "gnd": "229.100",
+      "twr": "229.150",
+      "appdep": "229.250"
+    }
+  },
+  {
+    "campId": 3433,
+    "ocdIdx": 10,
+    "name": "Weihai VOR/DME (WEH) 105X",
+    "country": "China",
+    "type": "VOR/DME",
+    "posx": 174,
+    "posy": 2580,
+    "details": {
+      "name": "Weihai VOR/DME (WEH) 105X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "105X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 999,
+    "ocdIdx": 640,
+    "name": "Wonju AB (RKNW)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2213,
+    "posy": 2517,
+    "details": {
+      "name": "Wonju AB (RKNW)",
+      "elev": "364 ft",
+      "range": "70 NM",
+      "rwy": "03/21",
+      "tcn": "039X",
+      "atis": "128.600",
+      "ops": "225.575",
+      "gnd": "277.800",
+      "twr": "265.500",
+      "appdep": "292.600"
+    }
+  },
+  {
+    "campId": 3297,
+    "ocdIdx": 16,
+    "name": "Yamaguchi-Ube Airport (RJDC)",
+    "country": "Japan",
+    "type": "Airbase",
+    "posx": 3445,
+    "posy": 4049,
+    "details": {
+      "name": "Yamaguchi-Ube Airport (RJDC)",
+      "elev": "22 ft",
+      "range": "150 NM",
+      "rwy": "06/24",
+      "tcn": "045X",
+      "atis": "118.025",
+      "ops": "295.375",
+      "gnd": "265.800",
+      "twr": "260.200",
+      "appdep": "323.750"
+    }
+  },
+  {
+    "campId": 3435,
+    "ocdIdx": 10,
+    "name": "Yangju VOR/DME (YJU) 96X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 1869,
+    "posy": 2381,
+    "details": {
+      "name": "Yangju VOR/DME (YJU) 96X",
+      "elev": "",
+      "range": "80 NM",
+      "rwy": "",
+      "tcn": "096X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3242,
+    "ocdIdx": 143,
+    "name": "Yangyang Intl Airport (RKNY)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2458,
+    "posy": 2239,
+    "details": {
+      "name": "Yangyang Intl Airport (RKNY)",
+      "elev": "190 ft",
+      "range": "",
+      "rwy": "14/32",
+      "tcn": "",
+      "atis": "128.825",
+      "ops": "",
+      "gnd": "280.125",
+      "twr": "240.350",
+      "appdep": "241.600"
+    }
+  },
+  {
+    "campId": 3434,
+    "ocdIdx": 10,
+    "name": "Yangyang VOR/DME (YAG) 43X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 1575,
+    "posy": 2852,
+    "details": {
+      "name": "Yangyang VOR/DME (YAG) 43X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "043X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3333,
+    "ocdIdx": 826,
+    "name": "Yanji Airbase (ZYYJ)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 2686,
+    "posy": 95,
+    "details": {
+      "name": "Yanji Airbase (ZYYJ)",
+      "elev": "600 ft",
+      "range": "80 NM",
+      "rwy": "08/26",
+      "tcn": "099X",
+      "atis": "135.000",
+      "ops": "",
+      "gnd": "229.300",
+      "twr": "229.350",
+      "appdep": "229.525"
+    }
+  },
+  {
+    "campId": 928,
+    "ocdIdx": 41,
+    "name": "Yecheon AB (RKTY)",
+    "country": "South Korea",
+    "type": "Airbase",
+    "posx": 2349,
+    "posy": 2877,
+    "details": {
+      "name": "Yecheon AB (RKTY)",
+      "elev": "358 ft",
+      "range": "",
+      "rwy": "09/27",
+      "tcn": "",
+      "atis": "135.800",
+      "ops": "236.075",
+      "gnd": "234.500",
+      "twr": "269.500",
+      "appdep": "229.350"
+    }
+  },
+  {
+    "campId": 3441,
+    "ocdIdx": 10,
+    "name": "Yecheon VOR/DME (CUN) 95X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2343,
+    "posy": 2876,
+    "details": {
+      "name": "Yecheon VOR/DME (CUN) 95X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "095X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 929,
+    "ocdIdx": 838,
+    "name": "Yeongju Highway Strip",
+    "country": "South Korea",
+    "type": "Airstrip",
+    "posx": 2433,
+    "posy": 2784,
+    "details": {
+      "name": "Yeongju Highway Strip",
+      "elev": "524 ft",
+      "range": "",
+      "rwy": "11/29",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.800",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3451,
+    "ocdIdx": 10,
+    "name": "Yeosu VOR/DME (YSU) 104X",
+    "country": "South Korea",
+    "type": "VOR/DME",
+    "posx": 2091,
+    "posy": 3671,
+    "details": {
+      "name": "Yeosu VOR/DME (YSU) 104X",
+      "elev": "",
+      "range": "150 NM",
+      "rwy": "",
+      "tcn": "104X",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 3553,
+    "ocdIdx": 829,
+    "name": "Yingkou Langqi Airport (ZYYK)",
+    "country": "China",
+    "type": "Airbase",
+    "posx": 306,
+    "posy": 1090,
+    "details": {
+      "name": "Yingkou Langqi Airport (ZYYK)",
+      "elev": "0 ft",
+      "range": "80 NM",
+      "rwy": "03/21",
+      "tcn": "100X",
+      "atis": "134.050",
+      "ops": "",
+      "gnd": "229.575",
+      "twr": "229.625",
+      "appdep": "229.800"
+    }
+  },
+  {
+    "campId": 963,
+    "ocdIdx": 846,
+    "name": "Yonghung Highwaystrip",
+    "country": "North Korea",
+    "type": "Airstrip",
+    "posx": 1975,
+    "posy": 1587,
+    "details": {
+      "name": "Yonghung Highwaystrip",
+      "elev": "32 ft",
+      "range": "",
+      "rwy": "10/28",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  },
+  {
+    "campId": 955,
+    "ocdIdx": 843,
+    "name": "Yonpo Airbase",
+    "country": "North Korea",
+    "type": "Airbase",
+    "posx": 2060,
+    "posy": 1474,
+    "details": {
+      "name": "Yonpo Airbase",
+      "elev": "15 ft",
+      "range": "",
+      "rwy": "13/31",
+      "tcn": "",
+      "atis": "",
+      "ops": "",
+      "gnd": "",
+      "twr": "233.700",
+      "appdep": ""
+    }
+  }
+]

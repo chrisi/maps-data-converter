@@ -17,12 +17,20 @@ func main() {
 
 	configs := []model.Config{
 		{
+			Theater:  "korea",
+			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data",
+		},
+		{
 			Theater:  "balkans",
 			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Balkans",
 		},
 		{
-			Theater:  "korea",
-			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data",
+			Theater:  "israel",
+			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Israel",
+		},
+		{
+			Theater:  "hellas",
+			BasePath: "c:\\apps\\Falcon BMS 4.38\\Data\\Add-On Hellas",
 		},
 	}
 
@@ -31,7 +39,7 @@ func main() {
 		configByTheater[cfg.Theater] = cfg
 	}
 
-	cfg := configByTheater["balkans"]
+	cfg := configByTheater["israel"]
 
 	ctFile := cfg.BasePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
 	campFile := cfg.BasePath + "\\Campaign\\CampObjData.XML"
@@ -166,7 +174,7 @@ func main() {
 			CampId:  abRecord.Id,
 			OcdIdx:  abRecord.OcdIdx,
 			Name:    abRecord.Name,
-			Country: "KTO",
+			Country: "n/a",
 			Type:    tp,
 			PosX:    px,
 			PosY:    py,
@@ -213,7 +221,7 @@ func main() {
 			CampId:  nbRecord.Id,
 			OcdIdx:  nbRecord.OcdIdx,
 			Name:    nbRecord.Name,
-			Country: "KTO",
+			Country: "n/a",
 			Type:    tp,
 			PosX:    px,
 			PosY:    py,
@@ -232,7 +240,7 @@ func main() {
 		fmt.Printf("Missing countries for stations: %v\n", missing)
 	}
 
-	err = writeRecordsJSON("stations.json", records)
+	err = writeRecordsJSON("stations_"+cfg.Theater+".json", records)
 	if err != nil {
 		panic(err)
 	}

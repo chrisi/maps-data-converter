@@ -96,14 +96,7 @@ func saveCountryMapping(path string, mapping map[string]string) error {
 }
 
 func extractCity(name string) string {
-	// The first part of the station name is normally the city
-	parts := strings.FieldsFunc(name, func(r rune) bool {
-		return r == ' ' || r == '/' || r == '-' || r == ','
-	})
-	if len(parts) == 0 {
-		return ""
-	}
-	return parts[0]
+	return getName(name)
 }
 
 func fetchCountryForCity(client *http.Client, city string) (string, error) {

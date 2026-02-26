@@ -26,14 +26,19 @@ func sanitizeFreq(s string) string {
 	return formatFreq(s)
 }
 
-var reName = regexp.MustCompile(`^(\w+).*$`)
+var reName = regexp.MustCompile(`(?i)^(.*?)(?: Air.*| Highway.*| Strip.*| TAC.*| VOR.*| INT.*| RAF.*)?$`)
 
-func getKey(s string) string {
+func getName(s string) string {
 	m := reName.FindStringSubmatch(s)
 	if m == nil {
-		panic("cannot find airbase key")
+		panic("cannot find airbase name")
 	}
-	return strings.ToUpper(m[1])
+	return m[1]
+}
+
+func getKey(s string) string {
+	n := strings.Replace(getName(s), " ", "-", -1)
+	return strings.ToUpper(n)
 }
 
 func replaceABWithAirbase(s string) string {
