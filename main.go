@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"maps-data-converter/model"
 	"math"
@@ -8,12 +9,16 @@ import (
 	"strings"
 )
 
-const MapFeet = 3359580.0 // 3358699.5 // Falcon const
+const MapFeet = 3358699.5 // Falcon const
 const BmsMapScale = 1 / MapFeet * 1024000
 
 const MapPixels = 4096
 
 func main() {
+	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 16-bit grayscale PNG (white=0ft MSL)")
+	exportOut := flag.String("export-out", "heightmap_1024_max.png", "Output PNG path for -export-heightmap")
+	theater := flag.String("theater", "israel", "Theater key to use (korea|balkans|israel|hellas)")
+	flag.Parse()
 
 	configs := []model.Config{
 		{
@@ -39,7 +44,7 @@ func main() {
 		configByTheater[cfg.Theater] = cfg
 	}
 
-	cfg := configByTheater["israel"]
+	cfg := configByTheater[*theater]
 
 	ctFile := cfg.BasePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
 	campFile := cfg.BasePath + "\\Campaign\\CampObjData.XML"
@@ -55,6 +60,23 @@ func main() {
 		},
 		HeightmapWidth:  32768,
 		HeightmapHeight: 32768,
+	}
+
+	if *exportHM {
+		// Assumptions:
+		// - Heightmap.raw is uint16 little-endian samples.
+		// - Each sample is height in feet MSL (or at least proportional to feet).
+		// If your source units differ, adjust FeetPerUnit / endianness in ExportHeightmapMax1024PNG.
+		if err := ExportHeightmapMax1024PNG(heighMapFile, hmCfg.HeightmapWidth, hmCfg.HeightmapHeight, *exportOut, ExportHeightmapOptions{
+			DstSize:       1024,
+			LittleEndian:  true,
+			FeetPerUnit:   1.0,
+			ClampNegative: true,
+		}); err != nil {
+			panic(err)
+		}
+		fmt.Printf("Wrote %s\n", *exportOut)
+		return
 	}
 
 	hmReader, err := NewHeightmapReader(heighMapFile, hmCfg)
