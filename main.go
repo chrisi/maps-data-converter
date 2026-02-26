@@ -15,8 +15,8 @@ const BmsMapScale = 1 / MapFeet * 1024000
 const MapPixels = 4096
 
 func main() {
-	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 16-bit grayscale PNG (white=0ft MSL)")
-	exportOut := flag.String("export-out", "heightmap_1024_max.png", "Output PNG path for -export-heightmap")
+	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 8-bit grayscale PNG (1 unit = 100ft)")
+	exportOut := flag.String("export-out", "heightmap.png", "Output PNG path for -export-heightmap")
 	theater := flag.String("theater", "israel", "Theater key to use (korea|balkans|israel|hellas)")
 	flag.Parse()
 
@@ -67,7 +67,7 @@ func main() {
 		// - Heightmap.raw is uint16 little-endian samples.
 		// - Each sample is height in feet MSL (or at least proportional to feet).
 		// If your source units differ, adjust FeetPerUnit / endianness in ExportHeightmapMax1024PNG.
-		if err := ExportHeightmapMax1024PNG(heighMapFile, hmCfg.HeightmapWidth, hmCfg.HeightmapHeight, *exportOut, ExportHeightmapOptions{
+		if err := ExportHeightmap(heighMapFile, hmCfg.HeightmapWidth, hmCfg.HeightmapHeight, *exportOut, ExportHeightmapOptions{
 			DstSize:       1024,
 			LittleEndian:  true,
 			FeetPerUnit:   1.0,

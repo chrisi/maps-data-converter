@@ -178,14 +178,13 @@ type ExportHeightmapOptions struct {
 	ClampNegative bool    // if conversion yields <0, clamp to 0
 }
 
-// ExportHeightmapMax1024PNG reads the entire RAW heightmap (uint16 samples),
+// ExportHeightmap reads the entire RAW heightmap (uint16 samples),
 // downsamples to DstSize x DstSize by taking the MAX height in each block,
-// then writes a 16-bit grayscale PNG.
+// then writes an 8-bit grayscale PNG.
 //
-// Color mapping requirement implemented:
-// - 0 ft MSL => white (65535)
-// - higher elevations => darker gray (down to black at max elevation in the area)
-func ExportHeightmapMax1024PNG(rawPath string, srcW, srcH int, outPath string, opt ExportHeightmapOptions) error {
+// Color mapping:
+// - Each unit in the 8-bit grayscale represents 100 feet (0=0ft, 1=100ft, ..., 255=25500ft)
+func ExportHeightmap(rawPath string, srcW, srcH int, outPath string, opt ExportHeightmapOptions) error {
 	if opt.DstSize <= 0 {
 		return fmt.Errorf("DstSize must be > 0")
 	}
@@ -214,9 +213,8 @@ func ExportHeightmapMax1024PNG(rawPath string, srcW, srcH int, outPath string, o
 		blockH = 1
 	}
 
-	// Store per-block maxima in feet so we can map after we know global max.
+	// Store per-block maxima in feet.
 	blockMaxFeet := make([]uint32, dst*dst) // feet, clamped to >=0
-	var globalMax uint32 = 0
 
 	// Helper: read next uint16 sample (raw).
 	readU16 := func() (uint16, error) {
@@ -263,33 +261,20 @@ func ExportHeightmapMax1024PNG(rawPath string, srcW, srcH int, outPath string, o
 			v := uint32(math.Round(feet))
 			if v > blockMaxFeet[idx] {
 				blockMaxFeet[idx] = v
-				if v > globalMax {
-					globalMax = v
-				}
 			}
 		}
 	}
 
-	// Build 16-bit grayscale image: 0ft => white, max => black.
-	img := image.NewGray16(image.Rect(0, 0, dst, dst))
-	if globalMax == 0 {
-		// Everything at 0 => all white
-		for i := 0; i < len(img.Pix); i += 2 {
-			img.Pix[i] = 0xFF
-			img.Pix[i+1] = 0xFF
-		}
-	} else {
-		for y := 0; y < dst; y++ {
-			for x := 0; x < dst; x++ {
-				v := blockMaxFeet[y*dst+x] // feet
-				// Normalize: 0 -> 1.0 (white), max -> 0.0 (black)
-				n := float64(v) / float64(globalMax)
-				gray := uint16(math.Round((1.0 - n) * 65535.0))
-
-				off := img.PixOffset(x, y)
-				img.Pix[off] = uint8(gray >> 8)
-				img.Pix[off+1] = uint8(gray)
+	// Build 8-bit grayscale image: 1 unit = 100 ft.
+	img := image.NewGray(image.Rect(0, 0, dst, dst))
+	for y := 0; y < dst; y++ {
+		for x := 0; x < dst; x++ {
+			feet := blockMaxFeet[y*dst+x]
+			val := float64(feet) / 100.0
+			if val > 255 {
+				val = 255
 			}
+			img.Pix[y*img.Stride+x] = uint8(math.Round(val))
 		}
 	}
 
