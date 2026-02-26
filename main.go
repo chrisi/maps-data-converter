@@ -36,6 +36,24 @@ func main() {
 	ctFile := cfg.BasePath + "\\TerrData\\Objects\\Falcon4_CT.xml"
 	campFile := cfg.BasePath + "\\Campaign\\CampObjData.XML"
 	stationFile := cfg.BasePath + "\\Campaign\\Stations+Ils.dat"
+	heighMapFile := cfg.BasePath + "\\Terrdata\\" + cfg.Theater + "\\NewTerrain\\Heightmaps\\Heightmap.raw"
+
+	hmCfg := TheaterConfig{
+		HeightmapBounds: Bounds{
+			MinX: 0.0,
+			MaxX: 3358699.5,
+			MinY: 0.0,
+			MaxY: 3358699.5,
+		},
+		HeightmapWidth:  32768,
+		HeightmapHeight: 32768,
+	}
+
+	hmReader, err := NewHeightmapReader(heighMapFile, hmCfg)
+	if err != nil {
+		panic(err)
+	}
+	defer hmReader.Close()
 
 	loader := DataLoader{}
 
@@ -100,9 +118,16 @@ func main() {
 			fmt.Printf("Runway %d, Length %f, Width %f, Heading %f\n", idx, rw.Length, rw.Width, rw.Heading)
 		}
 
+		elevation, err := hmReader.GetElevation(abRecord.Pos.X, abRecord.Pos.Y)
+		if err != nil {
+			fmt.Printf("Error getting elevation for %s: %v\n", abRecord.Name, err)
+		} else {
+			fmt.Printf("Elevation: %.0f\n", elevation)
+		}
+
 		detail := model.Details{
 			Name: abRecord.Name,
-			Elev: "",
+			Elev: fmt.Sprintf("%.0f ft", elevation),
 			Rwy:  BuildRunwayInfo(abRecord.Runways),
 		}
 

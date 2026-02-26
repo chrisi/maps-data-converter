@@ -9,7 +9,7 @@
     "posy": 3303,
     "details": {
       "name": "Aktion Airbase (LGPZ)",
-      "elev": "",
+      "elev": "3 ft",
       "range": "100 NM",
       "rwy": "07/25",
       "tcn": "029X",
@@ -30,7 +30,7 @@
     "posy": 2175,
     "details": {
       "name": "Amendola Airbase (LIBA)",
-      "elev": "",
+      "elev": "167 ft",
       "range": "",
       "rwy": "11/29",
       "tcn": "",
@@ -51,7 +51,7 @@
     "posy": 1364,
     "details": {
       "name": "Ampugnano Airport (LIQS)",
-      "elev": "",
+      "elev": "613 ft",
       "range": "25 NM",
       "rwy": "18/36",
       "tcn": "039X",
@@ -72,7 +72,7 @@
     "posy": 3665,
     "details": {
       "name": "Anna Pollatou Airport (LGKF)",
-      "elev": "",
+      "elev": "193 ft",
       "range": "100 NM",
       "rwy": "14/32",
       "tcn": "102X",
@@ -93,7 +93,7 @@
     "posy": 2618,
     "details": {
       "name": "Aristotelis Airport (LGKA)",
-      "elev": "",
+      "elev": "2142 ft",
       "range": "",
       "rwy": "12/30",
       "tcn": "",
@@ -114,7 +114,7 @@
     "posy": 200,
     "details": {
       "name": "Asiago Airport (LIDA)",
-      "elev": "",
+      "elev": "3392 ft",
       "range": "",
       "rwy": "08/26",
       "tcn": "081X",
@@ -135,7 +135,7 @@
     "posy": 153,
     "details": {
       "name": "Aviano Airbase (LIPA)",
-      "elev": "",
+      "elev": "367 ft",
       "range": "",
       "rwy": "05/23",
       "tcn": "",
@@ -156,7 +156,7 @@
     "posy": 667,
     "details": {
       "name": "Banja Luka Airport (LQBK)",
-      "elev": "",
+      "elev": "367 ft",
       "range": "40 NM",
       "rwy": "17/35",
       "tcn": "100X",
@@ -177,7 +177,7 @@
     "posy": 644,
     "details": {
       "name": "Batajnica Airbase (LYBT)",
-      "elev": "",
+      "elev": "259 ft",
       "range": "25 NM",
       "rwy": "12R/30L - 12L/30R",
       "tcn": "026X",
@@ -198,7 +198,7 @@
     "posy": 3764,
     "details": {
       "name": "Birgi Airbase (LICT)",
-      "elev": "",
+      "elev": "16 ft",
       "range": "200 NM",
       "rwy": "13R/31L - 13L/31R",
       "tcn": "025X",
@@ -219,7 +219,7 @@
     "posy": 391,
     "details": {
       "name": "Blagorodovac Airstrip (LDVD)",
-      "elev": "",
+      "elev": "442 ft",
       "range": "",
       "rwy": "02/20",
       "tcn": "",
@@ -240,7 +240,7 @@
     "posy": 796,
     "details": {
       "name": "Bologna Borgo Panigale Airport (LIPE)",
-      "elev": "",
+      "elev": "95 ft",
       "range": "50 NM",
       "rwy": "12/30",
       "tcn": "118X",
@@ -261,7 +261,7 @@
     "posy": 1403,
     "details": {
       "name": "Brac Airstrip (LDSB)",
-      "elev": "",
+      "elev": "1722 ft",
       "range": "25 NM",
       "rwy": "03/21",
       "tcn": "038X",
@@ -282,7 +282,7 @@
     "posy": 378,
     "details": {
       "name": "Brescia Airport (LIPO)",
-      "elev": "",
+      "elev": "341 ft",
       "range": "40 NM",
       "rwy": "14/32",
       "tcn": "046X",
@@ -303,7 +303,7 @@
     "posy": 86,
     "details": {
       "name": "Brnik Airport (LJLJ)",
-      "elev": "",
+      "elev": "1299 ft",
       "range": "50 NM",
       "rwy": "13/31",
       "tcn": "119X",
@@ -324,7 +324,7 @@
     "posy": 2458,
     "details": {
       "name": "Capodichino Airport (LIRN)",
-      "elev": "",
+      "elev": "288 ft",
       "range": "40 NM",
       "rwy": "06/24",
       "tcn": "125Y",
@@ -345,7 +345,7 @@
     "posy": 2561,
     "details": {
       "name": "Casale Airbase (LIBR)",
-      "elev": "",
+      "elev": "16 ft",
       "range": "200 NM",
       "rwy": "05/23 - 14/32",
       "tcn": "079X",
@@ -366,7 +366,7 @@
     "posy": 390,
     "details": {
       "name": "Cepin Airstrip (LDOC)",
-      "elev": "",
+      "elev": "285 ft",
       "range": "",
       "rwy": "10/28",
       "tcn": "",
@@ -387,7 +387,7 @@
     "posy": 240,
     "details": {
       "name": "Cerklje Ob Krki Airbase (LJCE)",
-      "elev": "",
+      "elev": "501 ft",
       "range": "",
       "rwy": "09/27",
       "tcn": "",
@@ -408,7 +408,7 @@
     "posy": 952,
     "details": {
       "name": "Cervia Airbase (LIPC)",
-      "elev": "",
+      "elev": "6 ft",
       "range": "",
       "rwy": "12/30",
       "tcn": "",
@@ -450,7 +450,7 @@
     "posy": 2038,
     "details": {
       "name": "Ciampino Airbase (LIRA)",
-      "elev": "",
+      "elev": "413 ft",
       "range": "40 NM",
       "rwy": "16/34",
       "tcn": "045X",
@@ -471,7 +471,7 @@
     "posy": 882,
     "details": {
       "name": "Ciljuge Airstrip (LQCG)",
-      "elev": "",
+      "elev": "728 ft",
       "range": "",
       "rwy": "12/30",
       "tcn": "",
@@ -492,7 +492,7 @@
     "posy": 3306,
     "details": {
       "name": "Crotone Airport (LIBC)",
-      "elev": "",
+      "elev": "518 ft",
       "range": "150 NM",
       "rwy": "17/35",
       "tcn": "118X",
@@ -513,7 +513,7 @@
     "posy": 3820,
     "details": {
       "name": "Dionisios Solomos Airport (LGZA)",
-      "elev": "",
+      "elev": "3 ft",
       "range": "40 NM",
       "rwy": "16/34",
       "tcn": "045X",
@@ -534,7 +534,7 @@
     "posy": 327,
     "details": {
       "name": "Divaca Airstrip (LJDI)",
-      "elev": "",
+      "elev": "1394 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -555,7 +555,7 @@
     "posy": 1749,
     "details": {
       "name": "Djakovica Airbase (LYDK)",
-      "elev": "",
+      "elev": "1354 ft",
       "range": "",
       "rwy": "17/35",
       "tcn": "",
@@ -576,7 +576,7 @@
     "posy": 1578,
     "details": {
       "name": "Dolac Airport (LYBR)",
-      "elev": "",
+      "elev": "2349 ft",
       "range": "",
       "rwy": "01/19",
       "tcn": "",
@@ -597,7 +597,7 @@
     "posy": 868,
     "details": {
       "name": "Dubrave AB (LQTZ)",
-      "elev": "",
+      "elev": "849 ft",
       "range": "50 NM",
       "rwy": "09/27",
       "tcn": "025X",
@@ -618,7 +618,7 @@
     "posy": 1715,
     "details": {
       "name": "Dubrovnik Airport (LDDU)",
-      "elev": "",
+      "elev": "511 ft",
       "range": "80 NM",
       "rwy": "12/30",
       "tcn": "101X",
@@ -639,7 +639,7 @@
     "posy": 1237,
     "details": {
       "name": "Falconara Airport (LIPY)",
-      "elev": "",
+      "elev": "19 ft",
       "range": "200 NM",
       "rwy": "05/23",
       "tcn": "035X",
@@ -660,7 +660,7 @@
     "posy": 2031,
     "details": {
       "name": "Fiumicino Airport (LIRF)",
-      "elev": "",
+      "elev": "65527 ft",
       "range": "150 NM",
       "rwy": "07/25",
       "tcn": "096X",
@@ -681,7 +681,7 @@
     "posy": 3981,
     "details": {
       "name": "Fontanarossa Airport (LICC)",
-      "elev": "",
+      "elev": "52 ft",
       "range": "200 NM",
       "rwy": "09/27",
       "tcn": "109Y",
@@ -702,7 +702,7 @@
     "posy": 959,
     "details": {
       "name": "Forli Airbase (LIPK)",
-      "elev": "",
+      "elev": "72 ft",
       "range": "40 NM",
       "rwy": "12/30",
       "tcn": "104Y",
@@ -723,7 +723,7 @@
     "posy": 2752,
     "details": {
       "name": "Galatina Airbase (LIBN)",
-      "elev": "",
+      "elev": "160 ft",
       "range": "40 NM",
       "rwy": "14/32",
       "tcn": "075X",
@@ -744,7 +744,7 @@
     "posy": 375,
     "details": {
       "name": "Ghedi Airport (LIPL)",
-      "elev": "",
+      "elev": "324 ft",
       "range": "",
       "rwy": "14R/32L - 14L/32R",
       "tcn": "",
@@ -765,7 +765,7 @@
     "posy": 2224,
     "details": {
       "name": "Gino Lisa Airport (LIBF)",
-      "elev": "",
+      "elev": "259 ft",
       "range": "40 NM",
       "rwy": "16/34",
       "tcn": "105X",
@@ -786,7 +786,7 @@
     "posy": 2520,
     "details": {
       "name": "Gioia del Colle Airbase (LIBV)",
-      "elev": "",
+      "elev": "1148 ft",
       "range": "",
       "rwy": "14/32 - 14/32",
       "tcn": "",
@@ -807,7 +807,7 @@
     "posy": 2001,
     "details": {
       "name": "Gjader Airbase (LAGJ)",
-      "elev": "",
+      "elev": "19 ft",
       "range": "",
       "rwy": "15/33",
       "tcn": "",
@@ -828,7 +828,7 @@
     "posy": 1047,
     "details": {
       "name": "Glamoc Airstrip (LQGL)",
-      "elev": "",
+      "elev": "2982 ft",
       "range": "",
       "rwy": "16/34",
       "tcn": "",
@@ -849,7 +849,7 @@
     "posy": 2381,
     "details": {
       "name": "Grazzanise Airbase (LIRM)",
-      "elev": "",
+      "elev": "16 ft",
       "range": "200 NM",
       "rwy": "06/24",
       "tcn": "122X",
@@ -870,7 +870,7 @@
     "posy": 466,
     "details": {
       "name": "Grobnicko Polje Airport (LDRG)",
-      "elev": "",
+      "elev": "958 ft",
       "range": "",
       "rwy": "08/26",
       "tcn": "",
@@ -891,7 +891,7 @@
     "posy": 1581,
     "details": {
       "name": "Grosseto Airbase (LIRS)",
-      "elev": "",
+      "elev": "3 ft",
       "range": "40 NM",
       "rwy": "03L/21R - 03R/21L",
       "tcn": "035Y",
@@ -912,7 +912,7 @@
     "posy": 2633,
     "details": {
       "name": "Grottaglie Airbase (LIBG)",
-      "elev": "",
+      "elev": "183 ft",
       "range": "40 NM",
       "rwy": "17/35",
       "tcn": "115X",
@@ -933,7 +933,7 @@
     "posy": 1953,
     "details": {
       "name": "Guidonia Airbase (LIRG)",
-      "elev": "",
+      "elev": "262 ft",
       "range": "",
       "rwy": "18/36",
       "tcn": "",
@@ -954,7 +954,7 @@
     "posy": 3016,
     "details": {
       "name": "Ioannis Kapodistrias Airport (LGKR)",
-      "elev": "",
+      "elev": "55 ft",
       "range": "",
       "rwy": "17/35",
       "tcn": "",
@@ -975,7 +975,7 @@
     "posy": 297,
     "details": {
       "name": "Istrana Airbase (LIPS)",
-      "elev": "",
+      "elev": "144 ft",
       "range": "",
       "rwy": "09/27",
       "tcn": "",
@@ -996,7 +996,7 @@
     "posy": 22,
     "details": {
       "name": "Kaposujlak AirStrip (LHKV)",
-      "elev": "",
+      "elev": "495 ft",
       "range": "",
       "rwy": "17/35",
       "tcn": "",
@@ -1017,7 +1017,7 @@
     "posy": 1288,
     "details": {
       "name": "Kastela Airport (LDSP)",
-      "elev": "",
+      "elev": "127 ft",
       "range": "100 NM",
       "rwy": "05/23",
       "tcn": "104X",
@@ -1038,7 +1038,7 @@
     "posy": 2959,
     "details": {
       "name": "King Pyrros Airport (LGIO)",
-      "elev": "",
+      "elev": "1561 ft",
       "range": "60 NM",
       "rwy": "14/32",
       "tcn": "023X",
@@ -1059,7 +1059,7 @@
     "posy": 425,
     "details": {
       "name": "Klisa Airport (LDOS)",
-      "elev": "",
+      "elev": "265 ft",
       "range": "80 NM",
       "rwy": "11/29",
       "tcn": "030Y",
@@ -1080,7 +1080,7 @@
     "posy": 2519,
     "details": {
       "name": "Korce Airstrip (LAKO)",
-      "elev": "",
+      "elev": "2680 ft",
       "range": "",
       "rwy": "01/19",
       "tcn": "",
@@ -1101,7 +1101,7 @@
     "posy": 699,
     "details": {
       "name": "Kovin Airbase (LY87)",
-      "elev": "",
+      "elev": "239 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -1122,7 +1122,7 @@
     "posy": 1232,
     "details": {
       "name": "Krusevac Airstrip (LYKS)",
-      "elev": "",
+      "elev": "830 ft",
       "range": "",
       "rwy": "15/33",
       "tcn": "",
@@ -1143,7 +1143,7 @@
     "posy": 2493,
     "details": {
       "name": "Kucova Airbase (LAKV)",
-      "elev": "",
+      "elev": "108 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -1164,7 +1164,7 @@
     "posy": 1927,
     "details": {
       "name": "Kukes Airbase (LAKU)",
-      "elev": "",
+      "elev": "1138 ft",
       "range": "25 NM",
       "rwy": "01/19",
       "tcn": "058Y",
@@ -1185,7 +1185,7 @@
     "posy": 1131,
     "details": {
       "name": "Ladevci Airbase (LYKV)",
-      "elev": "",
+      "elev": "682 ft",
       "range": "",
       "rwy": "14/32",
       "tcn": "",
@@ -1206,7 +1206,7 @@
     "posy": 3348,
     "details": {
       "name": "Lamezia Terme Airport (LICA)",
-      "elev": "",
+      "elev": "22 ft",
       "range": "25 NM",
       "rwy": "10/28",
       "tcn": "072X",
@@ -1227,7 +1227,7 @@
     "posy": 2149,
     "details": {
       "name": "Latina Airbase (LIRL)",
-      "elev": "",
+      "elev": "104 ft",
       "range": "60 NM",
       "rwy": "13/31",
       "tcn": "049X",
@@ -1248,7 +1248,7 @@
     "posy": 29,
     "details": {
       "name": "Lesce-Bled Airstrip (LJBL)",
-      "elev": "",
+      "elev": "1656 ft",
       "range": "",
       "rwy": "15/33",
       "tcn": "",
@@ -1269,7 +1269,7 @@
     "posy": 132,
     "details": {
       "name": "Mattarello Airport",
-      "elev": "",
+      "elev": "600 ft",
       "range": "",
       "rwy": "18/36",
       "tcn": "",
@@ -1290,7 +1290,7 @@
     "posy": 2669,
     "details": {
       "name": "Mattei Airstrip (MTPIC)",
-      "elev": "",
+      "elev": "164 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -1311,7 +1311,7 @@
     "posy": 1046,
     "details": {
       "name": "Miramare Airbase (LIPR)",
-      "elev": "",
+      "elev": "9 ft",
       "range": "40 NM",
       "rwy": "13/31",
       "tcn": "109X",
@@ -1332,7 +1332,7 @@
     "posy": 1401,
     "details": {
       "name": "Mostar Airport (LQMO)",
-      "elev": "",
+      "elev": "160 ft",
       "range": "70 NM",
       "rwy": "16/34",
       "tcn": "116X",
@@ -1353,7 +1353,7 @@
     "posy": 690,
     "details": {
       "name": "Nikola Tesla Airport (LYBE)",
-      "elev": "",
+      "elev": "321 ft",
       "range": "150 NM",
       "rwy": "12/30",
       "tcn": "057Y",
@@ -1374,7 +1374,7 @@
     "posy": 1616,
     "details": {
       "name": "Niksic Airstrip (LYNK)",
-      "elev": "",
+      "elev": "2007 ft",
       "range": "",
       "rwy": "15/33",
       "tcn": "",
@@ -1395,7 +1395,7 @@
     "posy": 1322,
     "details": {
       "name": "Nis Airbase (LYNI)",
-      "elev": "",
+      "elev": "636 ft",
       "range": "",
       "rwy": "11/29",
       "tcn": "",
@@ -1416,7 +1416,7 @@
     "posy": 282,
     "details": {
       "name": "Novo Mesto Airstrip (LJNM)",
-      "elev": "",
+      "elev": "547 ft",
       "range": "",
       "rwy": "05/23",
       "tcn": "",
@@ -1437,7 +1437,7 @@
     "posy": 425,
     "details": {
       "name": "Padova Airstrip (LIPU)",
-      "elev": "",
+      "elev": "42 ft",
       "range": "",
       "rwy": "04/22",
       "tcn": "",
@@ -1458,7 +1458,7 @@
     "posy": 2357,
     "details": {
       "name": "Palese Airport (LIBD)",
-      "elev": "",
+      "elev": "137 ft",
       "range": "80 NM",
       "rwy": "07/25",
       "tcn": "111X",
@@ -1479,7 +1479,7 @@
     "posy": 645,
     "details": {
       "name": "Parma Airport (LIMP)",
-      "elev": "",
+      "elev": "134 ft",
       "range": "25 NM",
       "rwy": "02/20",
       "tcn": "100Y",
@@ -1500,7 +1500,7 @@
     "posy": 1117,
     "details": {
       "name": "Peretola Airport (LIRQ)",
-      "elev": "",
+      "elev": "108 ft",
       "range": "50 NM",
       "rwy": "05/23",
       "tcn": "072X",
@@ -1521,7 +1521,7 @@
     "posy": 1772,
     "details": {
       "name": "Pescara Airport (LIBP)",
-      "elev": "",
+      "elev": "26 ft",
       "range": "",
       "rwy": "04/22",
       "tcn": "",
@@ -1563,7 +1563,7 @@
     "posy": 309,
     "details": {
       "name": "Pleso Airbase (LDZA)",
-      "elev": "",
+      "elev": "351 ft",
       "range": "80 NM",
       "rwy": "05/23",
       "tcn": "035Y",
@@ -1584,7 +1584,7 @@
     "posy": 1796,
     "details": {
       "name": "Podgorica Airbase (LYPG)",
-      "elev": "",
+      "elev": "108 ft",
       "range": "60 NM",
       "rwy": "18/36",
       "tcn": "077X",
@@ -1605,7 +1605,7 @@
     "posy": 196,
     "details": {
       "name": "Pogany AirStrip (LHPP)",
-      "elev": "",
+      "elev": "629 ft",
       "range": "25 NM",
       "rwy": "16/34",
       "tcn": "020Y",
@@ -1626,7 +1626,7 @@
     "posy": 1107,
     "details": {
       "name": "Ponikve Airport (LYUZ)",
-      "elev": "",
+      "elev": "3005 ft",
       "range": "",
       "rwy": "10/28",
       "tcn": "",
@@ -1647,7 +1647,7 @@
     "posy": 2094,
     "details": {
       "name": "Pratica di Mare Airbase (LIRE)",
-      "elev": "",
+      "elev": "75 ft",
       "range": "40 NM",
       "rwy": "13R/31L - 13L/31R",
       "tcn": "024X",
@@ -1668,7 +1668,7 @@
     "posy": 1677,
     "details": {
       "name": "Pristina Airport (BKPR)",
-      "elev": "",
+      "elev": "1788 ft",
       "range": "",
       "rwy": "17/35",
       "tcn": "",
@@ -1689,7 +1689,7 @@
     "posy": 674,
     "details": {
       "name": "Pula Airport (LDPL)",
-      "elev": "",
+      "elev": "213 ft",
       "range": "100 NM",
       "rwy": "09/27",
       "tcn": "049Y",
@@ -1710,7 +1710,7 @@
     "posy": 3649,
     "details": {
       "name": "Punta Raisi Airport (LICJ)",
-      "elev": "",
+      "elev": "19 ft",
       "range": "40 NM",
       "rwy": "03/21 - 07/25",
       "tcn": "077X",
@@ -1731,7 +1731,7 @@
     "posy": 890,
     "details": {
       "name": "Ravenna Airstrip",
-      "elev": "",
+      "elev": "65533 ft",
       "range": "",
       "rwy": "08/26",
       "tcn": "",
@@ -1752,7 +1752,7 @@
     "posy": 3711,
     "details": {
       "name": "Reggio Calabria Airport (LICR)",
-      "elev": "",
+      "elev": "88 ft",
       "range": "80 NM",
       "rwy": "11/29 - 15/33",
       "tcn": "047X",
@@ -1773,7 +1773,7 @@
     "posy": 534,
     "details": {
       "name": "Rijeka Airbase (LDRI)",
-      "elev": "",
+      "elev": "298 ft",
       "range": "100 NM",
       "rwy": "15/33",
       "tcn": "045X",
@@ -1794,7 +1794,7 @@
     "posy": 186,
     "details": {
       "name": "Rivolto Airbase (LIPI)",
-      "elev": "",
+      "elev": "160 ft",
       "range": "",
       "rwy": "06/24",
       "tcn": "",
@@ -1815,7 +1815,7 @@
     "posy": 257,
     "details": {
       "name": "Ronchi dei Legionari Airport (LIPQ)",
-      "elev": "",
+      "elev": "39 ft",
       "range": "40 NM",
       "rwy": "09/27",
       "tcn": "089X",
@@ -1836,7 +1836,7 @@
     "posy": 318,
     "details": {
       "name": "S. Angelo Airbase (LIPH)",
-      "elev": "",
+      "elev": "45 ft",
       "range": "",
       "rwy": "07/25",
       "tcn": "",
@@ -1857,7 +1857,7 @@
     "posy": 1456,
     "details": {
       "name": "S. Francesco Airport (LIRZ)",
-      "elev": "",
+      "elev": "669 ft",
       "range": "50 NM",
       "rwy": "02/20",
       "tcn": "031X",
@@ -1878,7 +1878,7 @@
     "posy": 1157,
     "details": {
       "name": "S.Giusto Airport (LIRP)",
-      "elev": "",
+      "elev": "6 ft",
       "range": "50 NM",
       "rwy": "04L/22R - 04R/22L",
       "tcn": "020X",
@@ -1899,7 +1899,7 @@
     "posy": 1155,
     "details": {
       "name": "Sarajevo Airport (LQSA)",
-      "elev": "",
+      "elev": "1679 ft",
       "range": "150 NM",
       "rwy": "12/30",
       "tcn": "114X",
@@ -1920,7 +1920,7 @@
     "posy": 423,
     "details": {
       "name": "Secovlje Airport (LJPZ)",
-      "elev": "",
+      "elev": "354 ft",
       "range": "50 NM",
       "rwy": "15/33",
       "tcn": "098Y",
@@ -1941,7 +1941,7 @@
     "posy": 987,
     "details": {
       "name": "Sepurine Airstrip (LD57)",
-      "elev": "",
+      "elev": "18 ft",
       "range": "",
       "rwy": "02/20",
       "tcn": "",
@@ -1962,7 +1962,7 @@
     "posy": 4011,
     "details": {
       "name": "Sigonella Airbase (LICZ)",
-      "elev": "",
+      "elev": "72 ft",
       "range": "",
       "rwy": "10R/28L - 10L/28R",
       "tcn": "",
@@ -1983,7 +1983,7 @@
     "posy": 1380,
     "details": {
       "name": "Sjenica Airport (LYSJ)",
-      "elev": "",
+      "elev": "3267 ft",
       "range": "",
       "rwy": "12/30",
       "tcn": "",
@@ -2004,7 +2004,7 @@
     "posy": 1938,
     "details": {
       "name": "Skopski Petrovac (LWSK)",
-      "elev": "",
+      "elev": "774 ft",
       "range": "",
       "rwy": "16/34",
       "tcn": "",
@@ -2025,7 +2025,7 @@
     "posy": 306,
     "details": {
       "name": "Sombor Airport (LYSO)",
-      "elev": "",
+      "elev": "275 ft",
       "range": "",
       "rwy": "14/32",
       "tcn": "",
@@ -2046,7 +2046,7 @@
     "posy": 2301,
     "details": {
       "name": "St. Paul the Apostle Airport (LWOH)",
-      "elev": "",
+      "elev": "2286 ft",
       "range": "25 NM",
       "rwy": "01/19",
       "tcn": "072X",
@@ -2067,7 +2067,7 @@
     "posy": 62,
     "details": {
       "name": "Szeged AirStrip (LHUD)",
-      "elev": "",
+      "elev": "252 ft",
       "range": "40 NM",
       "rwy": "17/35",
       "tcn": "085X",
@@ -2088,7 +2088,7 @@
     "posy": 19,
     "details": {
       "name": "Taszar Airbase (LHTA)",
-      "elev": "",
+      "elev": "475 ft",
       "range": "40 NM",
       "rwy": "17/35",
       "tcn": "089X",
@@ -2109,7 +2109,7 @@
     "posy": 384,
     "details": {
       "name": "Tessera Airport (LIPZ)",
-      "elev": "",
+      "elev": "22 ft",
       "range": "40 NM",
       "rwy": "04/22 - 05/23",
       "tcn": "100X",
@@ -2130,7 +2130,7 @@
     "posy": 2213,
     "details": {
       "name": "Tirana Airport (LATI)",
-      "elev": "",
+      "elev": "108 ft",
       "range": "200 NM",
       "rwy": "17/35",
       "tcn": "124X",
@@ -2151,7 +2151,7 @@
     "posy": 1787,
     "details": {
       "name": "Tivat Airport (LYTV)",
-      "elev": "",
+      "elev": "0 ft",
       "range": "25 NM",
       "rwy": "14/32",
       "tcn": "050X",
@@ -2172,7 +2172,7 @@
     "posy": 837,
     "details": {
       "name": "Udbina Airport (LDZU)",
-      "elev": "",
+      "elev": "2362 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -2193,7 +2193,7 @@
     "posy": 1966,
     "details": {
       "name": "Urbe Airstrip (LIRU)",
-      "elev": "",
+      "elev": "52 ft",
       "range": "",
       "rwy": "16/34",
       "tcn": "",
@@ -2214,7 +2214,7 @@
     "posy": 63,
     "details": {
       "name": "Varazdin Airport (LDVA)",
-      "elev": "",
+      "elev": "541 ft",
       "range": "",
       "rwy": "16/34",
       "tcn": "",
@@ -2256,7 +2256,7 @@
     "posy": 406,
     "details": {
       "name": "Villafranca Airport (LIPX)",
-      "elev": "",
+      "elev": "209 ft",
       "range": "80 NM",
       "rwy": "05/23",
       "tcn": "081X",
@@ -2277,7 +2277,7 @@
     "posy": 2576,
     "details": {
       "name": "Vlora Airport (LAVL)",
-      "elev": "",
+      "elev": "65530 ft",
       "range": "",
       "rwy": "13/31",
       "tcn": "",
@@ -2298,7 +2298,7 @@
     "posy": 526,
     "details": {
       "name": "Vrsac Airstrip (LYVR)",
-      "elev": "",
+      "elev": "272 ft",
       "range": "",
       "rwy": "01/19",
       "tcn": "",
@@ -2319,7 +2319,7 @@
     "posy": 705,
     "details": {
       "name": "Zeljava Airbase (LYBI)",
-      "elev": "",
+      "elev": "1118 ft",
       "range": "",
       "rwy": "14/32 - 15/33",
       "tcn": "",
@@ -2340,7 +2340,7 @@
     "posy": 1030,
     "details": {
       "name": "Zemunik Airbase (LDZD)",
-      "elev": "",
+      "elev": "219 ft",
       "range": "100 NM",
       "rwy": "04/22 - 14/32",
       "tcn": "023X",
