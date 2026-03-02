@@ -5,8 +5,10 @@
     "name": "Adnan Menderes Airport",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 2800,
-    "posy": 1909,
+    "pos": {
+      "x": 2296399.187,
+      "y": 1793404.527
+    },
     "details": {
       "name": "Adnan Menderes Airport",
       "elev": "410 ft",
@@ -26,8 +28,10 @@
     "name": "Afyon Karahisar Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 4000,
-    "posy": 1668,
+    "pos": {
+      "x": 3281062.43,
+      "y": 1991525.208
+    },
     "details": {
       "name": "Afyon Karahisar Airbase",
       "elev": "3310 ft",
@@ -47,8 +51,10 @@
     "name": "Agrinio Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 772,
-    "posy": 1755,
+    "pos": {
+      "x": 633183.729,
+      "y": 1919952.617
+    },
     "details": {
       "name": "Agrinio Airport",
       "elev": "154 ft",
@@ -68,8 +74,10 @@
     "name": "Akhisar Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3030,
-    "posy": 1669,
+    "pos": {
+      "x": 2485385.211,
+      "y": 1991016.715
+    },
     "details": {
       "name": "Akhisar Airbase",
       "elev": "265 ft",
@@ -89,8 +97,10 @@
     "name": "Aktio Airbase",
     "country": "Japan",
     "type": "Airbase",
-    "posx": 577,
-    "posy": 1604,
+    "pos": {
+      "x": 473324.093,
+      "y": 2043657.15
+    },
     "details": {
       "name": "Aktio Airbase",
       "elev": "11 ft",
@@ -110,8 +120,10 @@
     "name": "Alexandria Army Airbase",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1197,
-    "posy": 858,
+    "pos": {
+      "x": 981766.935,
+      "y": 2656147.567
+    },
     "details": {
       "name": "Alexandria Army Airbase",
       "elev": "27 ft",
@@ -131,8 +143,10 @@
     "name": "Alexandroupolis Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2373,
-    "posy": 778,
+    "pos": {
+      "x": 1946090.759,
+      "y": 2721602.827
+    },
     "details": {
       "name": "Alexandroupolis Airport",
       "elev": "8 ft",
@@ -152,8 +166,10 @@
     "name": "Amigdaleonas Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 1825,
-    "posy": 726,
+    "pos": {
+      "x": 1496585.958,
+      "y": 2764475.393
+    },
     "details": {
       "name": "Amigdaleonas Airstrip",
       "elev": "0 ft",
@@ -173,8 +189,10 @@
     "name": "Andravida Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 742,
-    "posy": 2053,
+    "pos": {
+      "x": 608236.192,
+      "y": 1675571.187
+    },
     "details": {
       "name": "Andravida Airbase",
       "elev": "55 ft",
@@ -194,8 +212,10 @@
     "name": "Araxos Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 795,
-    "posy": 1955,
+    "pos": {
+      "x": 651846.823,
+      "y": 1755894.561
+    },
     "details": {
       "name": "Araxos Airbase",
       "elev": "46 ft",
@@ -215,8 +235,10 @@
     "name": "Ataturk Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3331,
-    "posy": 705,
+    "pos": {
+      "x": 2731892.003,
+      "y": 2780950.766
+    },
     "details": {
       "name": "Ataturk Airport",
       "elev": "72 ft",
@@ -236,8 +258,10 @@
     "name": "Athens TCN",
     "country": "United States",
     "type": "n/a",
-    "posx": 1627,
-    "posy": 2095,
+    "pos": {
+      "x": 1334423.74,
+      "y": 1641397.054
+    },
     "details": {
       "name": "Athens TCN",
       "elev": "",
@@ -257,8 +281,10 @@
     "name": "Aydin Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3062,
-    "posy": 2114,
+    "pos": {
+      "x": 2511802.023,
+      "y": 1625613.852
+    },
     "details": {
       "name": "Aydin Airport",
       "elev": "0 ft",
@@ -278,8 +304,10 @@
     "name": "Balikesir Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3054,
-    "posy": 1321,
+    "pos": {
+      "x": 2504730.567,
+      "y": 2275791.207
+    },
     "details": {
       "name": "Balikesir Airbase",
       "elev": "331 ft",
@@ -299,8 +327,10 @@
     "name": "Bandirma Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3061,
-    "posy": 1003,
+    "pos": {
+      "x": 2510995.24,
+      "y": 2537139.988
+    },
     "details": {
       "name": "Bandirma Airbase",
       "elev": "170 ft",
@@ -320,8 +350,10 @@
     "name": "Bezmer Airbase",
     "country": "Bulgaria",
     "type": "Airbase",
-    "posx": 2493,
-    "posy": 63,
+    "pos": {
+      "x": 2044746.006,
+      "y": 3307508.87
+    },
     "details": {
       "name": "Bezmer Airbase",
       "elev": "509 ft",
@@ -341,8 +373,10 @@
     "name": "Canakkale Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2534,
-    "posy": 1096,
+    "pos": {
+      "x": 2078215.055,
+      "y": 2460975.546
+    },
     "details": {
       "name": "Canakkale Airport",
       "elev": "30 ft",
@@ -362,8 +396,10 @@
     "name": "Cardak Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3706,
-    "posy": 2100,
+    "pos": {
+      "x": 3039501.634,
+      "y": 1636851.047
+    },
     "details": {
       "name": "Cardak Airport",
       "elev": "2794 ft",
@@ -383,8 +419,10 @@
     "name": "Chios Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2446,
-    "posy": 1894,
+    "pos": {
+      "x": 2006550.775,
+      "y": 1806409.536
+    },
     "details": {
       "name": "Chios Airport",
       "elev": "15 ft",
@@ -402,10 +440,12 @@
     "campId": 9,
     "ocdIdx": 101,
     "name": "Chryssoupolis Airport",
-    "country": "KTO",
+    "country": "n/a",
     "type": "Airbase",
-    "posx": 1918,
-    "posy": 755,
+    "pos": {
+      "x": 1573308.041,
+      "y": 2740488.937
+    },
     "details": {
       "name": "Chryssoupolis Airport",
       "elev": "18 ft",
@@ -425,8 +465,10 @@
     "name": "Cigli Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2749,
-    "posy": 1821,
+    "pos": {
+      "x": 2254786.243,
+      "y": 1866118.425
+    },
     "details": {
       "name": "Cigli Airbase",
       "elev": "11 ft",
@@ -446,8 +488,10 @@
     "name": "Corfu Intl Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 298,
-    "posy": 1287,
+    "pos": {
+      "x": 244361.787,
+      "y": 2304195.746
+    },
     "details": {
       "name": "Corfu Intl Airport",
       "elev": "65496 ft",
@@ -467,8 +511,10 @@
     "name": "Corlu Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3029,
-    "posy": 639,
+    "pos": {
+      "x": 2484332.19,
+      "y": 2835788.732
+    },
     "details": {
       "name": "Corlu Airport",
       "elev": "570 ft",
@@ -488,8 +534,10 @@
     "name": "Dalaman Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3402,
-    "posy": 2593,
+    "pos": {
+      "x": 2790101.838,
+      "y": 1233049.456
+    },
     "details": {
       "name": "Dalaman Airbase",
       "elev": "20 ft",
@@ -509,8 +557,10 @@
     "name": "Diagoras Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3156,
-    "posy": 2738,
+    "pos": {
+      "x": 2588986.654,
+      "y": 1114156.688
+    },
     "details": {
       "name": "Diagoras Airport",
       "elev": "0 ft",
@@ -530,8 +580,10 @@
     "name": "Didimon TCN",
     "country": "Greece",
     "type": "n/a",
-    "posx": 1417,
-    "posy": 2274,
+    "pos": {
+      "x": 1162628.282,
+      "y": 1494539.274
+    },
     "details": {
       "name": "Didimon TCN",
       "elev": "",
@@ -551,8 +603,10 @@
     "name": "Elefsina Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1543,
-    "posy": 2015,
+    "pos": {
+      "x": 1265255.581,
+      "y": 1706694.861
+    },
     "details": {
       "name": "Elefsina Airbase",
       "elev": "129 ft",
@@ -572,8 +626,10 @@
     "name": "Eleftherios Venizelos Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1677,
-    "posy": 2075,
+    "pos": {
+      "x": 1375180.855,
+      "y": 1658052.802
+    },
     "details": {
       "name": "Eleftherios Venizelos Airport",
       "elev": "308 ft",
@@ -593,8 +649,10 @@
     "name": "Eskisehir Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3969,
-    "posy": 1196,
+    "pos": {
+      "x": 3255216.172,
+      "y": 2378424.912
+    },
     "details": {
       "name": "Eskisehir Airbase",
       "elev": "2581 ft",
@@ -614,8 +672,10 @@
     "name": "Gaziemir Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2803,
-    "posy": 1897,
+    "pos": {
+      "x": 2299023.331,
+      "y": 1803880.684
+    },
     "details": {
       "name": "Gaziemir Airbase",
       "elev": "433 ft",
@@ -635,8 +695,10 @@
     "name": "Graf Ignatievo Airbase",
     "country": "United States",
     "type": "Airbase",
-    "posx": 1958,
-    "posy": 145,
+    "pos": {
+      "x": 1605674.821,
+      "y": 3240817.011
+    },
     "details": {
       "name": "Graf Ignatievo Airbase",
       "elev": "190 ft",
@@ -656,8 +718,10 @@
     "name": "Heraklion Airport",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 2110,
-    "posy": 3230,
+    "pos": {
+      "x": 1730858.488,
+      "y": 710289.484
+    },
     "details": {
       "name": "Heraklion Airport",
       "elev": "115 ft",
@@ -677,8 +741,10 @@
     "name": "Imroz Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2349,
-    "posy": 1068,
+    "pos": {
+      "x": 1926332.202,
+      "y": 2483718.996
+    },
     "details": {
       "name": "Imroz Airport",
       "elev": "46 ft",
@@ -698,8 +764,10 @@
     "name": "Ioannina Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 615,
-    "posy": 1262,
+    "pos": {
+      "x": 504490.46,
+      "y": 2324574.303
+    },
     "details": {
       "name": "Ioannina Airport",
       "elev": "1558 ft",
@@ -719,8 +787,10 @@
     "name": "Isparta Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3939,
-    "posy": 2056,
+    "pos": {
+      "x": 3230760.662,
+      "y": 1673009.503
+    },
     "details": {
       "name": "Isparta Airport",
       "elev": "2835 ft",
@@ -740,8 +810,10 @@
     "name": "Kaklic Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2737,
-    "posy": 1811,
+    "pos": {
+      "x": 2245080.633,
+      "y": 1874206.866
+    },
     "details": {
       "name": "Kaklic Airbase",
       "elev": "13 ft",
@@ -761,8 +833,10 @@
     "name": "Kalamata Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 989,
-    "posy": 2440,
+    "pos": {
+      "x": 810929.106,
+      "y": 1358328.316
+    },
     "details": {
       "name": "Kalamata Airbase",
       "elev": "26 ft",
@@ -782,8 +856,10 @@
     "name": "Karpathos Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2826,
-    "posy": 3183,
+    "pos": {
+      "x": 2318322.642,
+      "y": 748645.571
+    },
     "details": {
       "name": "Karpathos Airport",
       "elev": "66 ft",
@@ -803,8 +879,10 @@
     "name": "Kasteli Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2168,
-    "posy": 3293,
+    "pos": {
+      "x": 1778004.997,
+      "y": 658272.303
+    },
     "details": {
       "name": "Kasteli Airbase",
       "elev": "1180 ft",
@@ -824,8 +902,10 @@
     "name": "Kastoria Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 785,
-    "posy": 935,
+    "pos": {
+      "x": 643905.975,
+      "y": 2592843.794
+    },
     "details": {
       "name": "Kastoria Airport",
       "elev": "2167 ft",
@@ -845,8 +925,10 @@
     "name": "Kea TCN",
     "country": "United Kingdom",
     "type": "n/a",
-    "posx": 1800,
-    "posy": 2244,
+    "pos": {
+      "x": 1476525.61,
+      "y": 1519299.88
+    },
     "details": {
       "name": "Kea TCN",
       "elev": "",
@@ -866,8 +948,10 @@
     "name": "Kefallonia Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 470,
-    "posy": 1957,
+    "pos": {
+      "x": 385906.041,
+      "y": 1754353.067
+    },
     "details": {
       "name": "Kefallonia Airport",
       "elev": "59 ft",
@@ -887,8 +971,10 @@
     "name": "Kesan Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2591,
-    "posy": 803,
+    "pos": {
+      "x": 2125158.167,
+      "y": 2700778.237
+    },
     "details": {
       "name": "Kesan Airport",
       "elev": "143 ft",
@@ -908,8 +994,10 @@
     "name": "Kithira Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1335,
-    "posy": 2807,
+    "pos": {
+      "x": 1095014.73,
+      "y": 1057235.903
+    },
     "details": {
       "name": "Kithira Airport",
       "elev": "1045 ft",
@@ -929,8 +1017,10 @@
     "name": "Kithira TCN",
     "country": "Greece",
     "type": "n/a",
-    "posx": 1312,
-    "posy": 2794,
+    "pos": {
+      "x": 1076194.183,
+      "y": 1068299.329
+    },
     "details": {
       "name": "Kithira TCN",
       "elev": "",
@@ -950,8 +1040,10 @@
     "name": "Korfez Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2735,
-    "posy": 1354,
+    "pos": {
+      "x": 2243014.23,
+      "y": 2248652.496
+    },
     "details": {
       "name": "Korfez Airport",
       "elev": "50 ft",
@@ -971,8 +1063,10 @@
     "name": "Kos Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2793,
-    "posy": 2573,
+    "pos": {
+      "x": 2291167.715,
+      "y": 1248996.718
+    },
     "details": {
       "name": "Kos Airport",
       "elev": "412 ft",
@@ -992,8 +1086,10 @@
     "name": "Kozani Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 973,
-    "posy": 1012,
+    "pos": {
+      "x": 797920.744,
+      "y": 2529330.417
+    },
     "details": {
       "name": "Kozani Airport",
       "elev": "2059 ft",
@@ -1013,8 +1109,10 @@
     "name": "Krumovo Airbase",
     "country": "Bulgaria",
     "type": "Airbase",
-    "posx": 1999,
-    "posy": 239,
+    "pos": {
+      "x": 1639586.599,
+      "y": 3163803.146
+    },
     "details": {
       "name": "Krumovo Airbase",
       "elev": "520 ft",
@@ -1034,8 +1132,10 @@
     "name": "Kucove Airbase",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 324,
-    "posy": 764,
+    "pos": {
+      "x": 265353.664,
+      "y": 2733210.681
+    },
     "details": {
       "name": "Kucove Airbase",
       "elev": "135 ft",
@@ -1055,8 +1155,10 @@
     "name": "Kukes Airport",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 531,
-    "posy": 213,
+    "pos": {
+      "x": 435374.701,
+      "y": 3184906.405
+    },
     "details": {
       "name": "Kukes Airport",
       "elev": "1160 ft",
@@ -1076,8 +1178,10 @@
     "name": "Kutahya Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3775,
-    "posy": 1365,
+    "pos": {
+      "x": 3095953.364,
+      "y": 2240387.083
+    },
     "details": {
       "name": "Kutahya Airport",
       "elev": "3026 ft",
@@ -1097,8 +1201,10 @@
     "name": "Larissa Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1173,
-    "posy": 1300,
+    "pos": {
+      "x": 962234.598,
+      "y": 2293125.813
+    },
     "details": {
       "name": "Larissa Airbase",
       "elev": "240 ft",
@@ -1118,8 +1224,10 @@
     "name": "Leros Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2688,
-    "posy": 2404,
+    "pos": {
+      "x": 2204412.204,
+      "y": 1387648.042
+    },
     "details": {
       "name": "Leros Airport",
       "elev": "39 ft",
@@ -1139,8 +1247,10 @@
     "name": "Limnos Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2132,
-    "posy": 1190,
+    "pos": {
+      "x": 1748632.721,
+      "y": 2383308.847
+    },
     "details": {
       "name": "Limnos Airbase",
       "elev": "32 ft",
@@ -1160,8 +1270,10 @@
     "name": "Makedonia Airport",
     "country": "North Macedonia",
     "type": "Airbase",
-    "posx": 1362,
-    "posy": 923,
+    "pos": {
+      "x": 1117180.82,
+      "y": 2602346.006
+    },
     "details": {
       "name": "Makedonia Airport",
       "elev": "22 ft",
@@ -1181,8 +1293,10 @@
     "name": "Maritsa Airstrip",
     "country": "Bulgaria",
     "type": "Airstrip",
-    "posx": 3164,
-    "posy": 2747,
+    "pos": {
+      "x": 2595008.692,
+      "y": 1106212.587
+    },
     "details": {
       "name": "Maritsa Airstrip",
       "elev": "204 ft",
@@ -1202,8 +1316,10 @@
     "name": "Megara Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1474,
-    "posy": 2051,
+    "pos": {
+      "x": 1209197.432,
+      "y": 1677221.086
+    },
     "details": {
       "name": "Megara Airport",
       "elev": "12 ft",
@@ -1223,8 +1339,10 @@
     "name": "Megisti Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 3695,
-    "posy": 2834,
+    "pos": {
+      "x": 3030865.461,
+      "y": 1035319.155
+    },
     "details": {
       "name": "Megisti Airstrip",
       "elev": "528 ft",
@@ -1244,8 +1362,10 @@
     "name": "Mikonos Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2171,
-    "posy": 2299,
+    "pos": {
+      "x": 1780628.941,
+      "y": 1474318.169
+    },
     "details": {
       "name": "Mikonos Airport",
       "elev": "405 ft",
@@ -1265,8 +1385,10 @@
     "name": "Milas Bodrum Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2993,
-    "posy": 2365,
+    "pos": {
+      "x": 2455176.523,
+      "y": 1419381.808
+    },
     "details": {
       "name": "Milas Bodrum Airport",
       "elev": "21 ft",
@@ -1286,8 +1408,10 @@
     "name": "Mytilene Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2600,
-    "posy": 1572,
+    "pos": {
+      "x": 2132793.769,
+      "y": 2070218.502
+    },
     "details": {
       "name": "Mytilene Airport",
       "elev": "60 ft",
@@ -1307,8 +1431,10 @@
     "name": "Nea Anchialos Airbase",
     "country": "Norway",
     "type": "Airbase",
-    "posx": 1286,
-    "posy": 1500,
+    "pos": {
+      "x": 1054690.635,
+      "y": 2129284.367
+    },
     "details": {
       "name": "Nea Anchialos Airbase",
       "elev": "83 ft",
@@ -1328,8 +1454,10 @@
     "name": "Ohrid Airport",
     "country": "North Macedonia",
     "type": "Airbase",
-    "posx": 620,
-    "posy": 601,
+    "pos": {
+      "x": 508206.663,
+      "y": 2866387.598
+    },
     "details": {
       "name": "Ohrid Airport",
       "elev": "2296 ft",
@@ -1349,8 +1477,10 @@
     "name": "Olimboi Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 2376,
-    "posy": 1942,
+    "pos": {
+      "x": 1949056.034,
+      "y": 1767092.418
+    },
     "details": {
       "name": "Olimboi Airstrip",
       "elev": "669 ft",
@@ -1370,8 +1500,10 @@
     "name": "Paleochora TCN",
     "country": "Greece",
     "type": "n/a",
-    "posx": 1568,
-    "posy": 3275,
+    "pos": {
+      "x": 1285886.583,
+      "y": 673366.787
+    },
     "details": {
       "name": "Paleochora TCN",
       "elev": "",
@@ -1391,8 +1523,10 @@
     "name": "Polatkan Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3938,
-    "posy": 1185,
+    "pos": {
+      "x": 3230176.696,
+      "y": 2387261.279
+    },
     "details": {
       "name": "Polatkan Airport",
       "elev": "2599 ft",
@@ -1412,8 +1546,10 @@
     "name": "Polichnitos Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 2461,
-    "posy": 1562,
+    "pos": {
+      "x": 2018860.51,
+      "y": 2078070.715
+    },
     "details": {
       "name": "Polichnitos Airstrip",
       "elev": "236 ft",
@@ -1433,8 +1569,10 @@
     "name": "Rhodos TCN",
     "country": "Greece",
     "type": "n/a",
-    "posx": 3154,
-    "posy": 2767,
+    "pos": {
+      "x": 2587310.429,
+      "y": 1089943.914
+    },
     "details": {
       "name": "Rhodos TCN",
       "elev": "",
@@ -1454,8 +1592,10 @@
     "name": "Sabiha Gokcen Airport",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 3495,
-    "posy": 725,
+    "pos": {
+      "x": 2866925.519,
+      "y": 2764714.825
+    },
     "details": {
       "name": "Sabiha Gokcen Airport",
       "elev": "312 ft",
@@ -1475,8 +1615,10 @@
     "name": "Samandira Army Airbase",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3466,
-    "posy": 682,
+    "pos": {
+      "x": 2843221.137,
+      "y": 2800033.667
+    },
     "details": {
       "name": "Samandira Army Airbase",
       "elev": "400 ft",
@@ -1496,8 +1638,10 @@
     "name": "Samos Airport",
     "country": "Spain",
     "type": "Airbase",
-    "posx": 2722,
-    "posy": 2179,
+    "pos": {
+      "x": 2232613.546,
+      "y": 1572386.348
+    },
     "details": {
       "name": "Samos Airport",
       "elev": "19 ft",
@@ -1517,8 +1661,10 @@
     "name": "Santorini Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 2221,
-    "posy": 2759,
+    "pos": {
+      "x": 1821513.98,
+      "y": 1096769.531
+    },
     "details": {
       "name": "Santorini Airport",
       "elev": "101 ft",
@@ -1538,8 +1684,10 @@
     "name": "Sitia Airport",
     "country": "Chad",
     "type": "Airbase",
-    "posx": 2449,
-    "posy": 3279,
+    "pos": {
+      "x": 2008331.702,
+      "y": 670427.888
+    },
     "details": {
       "name": "Sitia Airport",
       "elev": "232 ft",
@@ -1559,8 +1707,10 @@
     "name": "Sitia TCN",
     "country": "Chad",
     "type": "n/a",
-    "posx": 2482,
-    "posy": 3346,
+    "pos": {
+      "x": 2035434.178,
+      "y": 614960.161
+    },
     "details": {
       "name": "Sitia TCN",
       "elev": "",
@@ -1580,8 +1730,10 @@
     "name": "Skiathos Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1531,
-    "posy": 1521,
+    "pos": {
+      "x": 1255910.921,
+      "y": 2112002.012
+    },
     "details": {
       "name": "Skiathos Airport",
       "elev": "54 ft",
@@ -1601,8 +1753,10 @@
     "name": "Skiros Airbase",
     "country": "Ecuador",
     "type": "Airbase",
-    "posx": 1872,
-    "posy": 1614,
+    "pos": {
+      "x": 1535719.399,
+      "y": 2035634.372
+    },
     "details": {
       "name": "Skiros Airbase",
       "elev": "65496 ft",
@@ -1622,8 +1776,10 @@
     "name": "Skopelos TCN",
     "country": "Turkey",
     "type": "n/a",
-    "posx": 1570,
-    "posy": 1520,
+    "pos": {
+      "x": 1287523.37,
+      "y": 2112530.124
+    },
     "details": {
       "name": "Skopelos TCN",
       "elev": "",
@@ -1643,8 +1799,10 @@
     "name": "Skopje Airport",
     "country": "North Macedonia",
     "type": "Airbase",
-    "posx": 931,
-    "posy": 268,
+    "pos": {
+      "x": 763211.993,
+      "y": 3139754.23
+    },
     "details": {
       "name": "Skopje Airport",
       "elev": "781 ft",
@@ -1664,8 +1822,10 @@
     "name": "Souda Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1736,
-    "posy": 3142,
+    "pos": {
+      "x": 1424141.022,
+      "y": 782691.779
+    },
     "details": {
       "name": "Souda Airbase",
       "elev": "490 ft",
@@ -1685,8 +1845,10 @@
     "name": "Sparta Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 1166,
-    "posy": 2494,
+    "pos": {
+      "x": 956150.199,
+      "y": 1313654.904
+    },
     "details": {
       "name": "Sparta Airstrip",
       "elev": "541 ft",
@@ -1706,8 +1868,10 @@
     "name": "Tanagra Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1545,
-    "posy": 1893,
+    "pos": {
+      "x": 1267420.379,
+      "y": 1807013.121
+    },
     "details": {
       "name": "Tanagra Airbase",
       "elev": "486 ft",
@@ -1727,8 +1891,10 @@
     "name": "Tatoi Airbase",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1621,
-    "posy": 1997,
+    "pos": {
+      "x": 1329543.208,
+      "y": 1721366.286
+    },
     "details": {
       "name": "Tatoi Airbase",
       "elev": "785 ft",
@@ -1748,8 +1914,10 @@
     "name": "Timbaki Airport",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 1965,
-    "posy": 3350,
+    "pos": {
+      "x": 1612110.16,
+      "y": 612044.284
+    },
     "details": {
       "name": "Timbaki Airport",
       "elev": "7 ft",
@@ -1769,8 +1937,10 @@
     "name": "Tirana Airport",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 283,
-    "posy": 479,
+    "pos": {
+      "x": 231953.632,
+      "y": 2967023.966
+    },
     "details": {
       "name": "Tirana Airport",
       "elev": "109 ft",
@@ -1790,8 +1960,10 @@
     "name": "Topel Airport",
     "country": "Slovakia",
     "type": "Airbase",
-    "posx": 3760,
-    "posy": 784,
+    "pos": {
+      "x": 3083705.89,
+      "y": 2716692.667
+    },
     "details": {
       "name": "Topel Airport",
       "elev": "188 ft",
@@ -1811,8 +1983,10 @@
     "name": "Tripolis Airport",
     "country": "Libya",
     "type": "Airbase",
-    "posx": 1129,
-    "posy": 2245,
+    "pos": {
+      "x": 926420.476,
+      "y": 1518355.164
+    },
     "details": {
       "name": "Tripolis Airport",
       "elev": "2113 ft",
@@ -1832,8 +2006,10 @@
     "name": "Tripolis TCN",
     "country": "Libya",
     "type": "n/a",
-    "posx": 1106,
-    "posy": 2299,
+    "pos": {
+      "x": 907383.519,
+      "y": 1473596.57
+    },
     "details": {
       "name": "Tripolis TCN",
       "elev": "",
@@ -1853,8 +2029,10 @@
     "name": "Usak Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3603,
-    "posy": 1707,
+    "pos": {
+      "x": 2954865.178,
+      "y": 1959079.551
+    },
     "details": {
       "name": "Usak Airport",
       "elev": "2898 ft",
@@ -1872,10 +2050,12 @@
     "campId": 28,
     "ocdIdx": 661,
     "name": "Yenihesir Airbase",
-    "country": "KTO",
+    "country": "n/a",
     "type": "Airbase",
-    "posx": 3604,
-    "posy": 1005,
+    "pos": {
+      "x": 2956327.996,
+      "y": 2535555.652
+    },
     "details": {
       "name": "Yenihesir Airbase",
       "elev": "763 ft",
@@ -1895,8 +2075,10 @@
     "name": "Zafer Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 3822,
-    "posy": 1504,
+    "pos": {
+      "x": 3134716.145,
+      "y": 2126161.74
+    },
     "details": {
       "name": "Zafer Airport",
       "elev": "3327 ft",
@@ -1914,10 +2096,12 @@
     "campId": 83,
     "ocdIdx": 834,
     "name": "Zakinthos Airport",
-    "country": "KTO",
+    "country": "n/a",
     "type": "Airbase",
-    "posx": 597,
-    "posy": 2126,
+    "pos": {
+      "x": 489950.313,
+      "y": 1615924.759
+    },
     "details": {
       "name": "Zakinthos Airport",
       "elev": "16 ft",

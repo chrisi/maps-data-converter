@@ -6,8 +6,7 @@ type Station struct {
 	Name    string   `json:"name"`
 	Country string   `json:"country"`
 	Type    string   `json:"type"`
-	PosX    int      `json:"posx"`
-	PosY    int      `json:"posy"`
+	Pos     Position `json:"pos"` // raw BMS position in feet
 	Details *Details `json:"details,omitempty"`
 }
 

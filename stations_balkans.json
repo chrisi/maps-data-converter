@@ -5,8 +5,10 @@
     "name": "Aktion Airbase (LGPZ)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3551,
-    "posy": 3303,
+    "pos": {
+      "x": 2912769.766,
+      "y": 650383.955
+    },
     "details": {
       "name": "Aktion Airbase (LGPZ)",
       "elev": "3 ft",
@@ -26,8 +28,10 @@
     "name": "Amendola Airbase (LIBA)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1813,
-    "posy": 2175,
+    "pos": {
+      "x": 1487001.866,
+      "y": 1575800.758
+    },
     "details": {
       "name": "Amendola Airbase (LIBA)",
       "elev": "167 ft",
@@ -47,8 +51,10 @@
     "name": "Ampugnano Airport (LIQS)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 370,
-    "posy": 1364,
+    "pos": {
+      "x": 303594.939,
+      "y": 2240947.826
+    },
     "details": {
       "name": "Ampugnano Airport (LIQS)",
       "elev": "613 ft",
@@ -68,8 +74,10 @@
     "name": "Anna Pollatou Airport (LGKF)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3483,
-    "posy": 3665,
+    "pos": {
+      "x": 2857026.522,
+      "y": 353870.482
+    },
     "details": {
       "name": "Anna Pollatou Airport (LGKF)",
       "elev": "193 ft",
@@ -89,8 +97,10 @@
     "name": "Aristotelis Airport (LGKA)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3697,
-    "posy": 2618,
+    "pos": {
+      "x": 3032682.623,
+      "y": 1212520.053
+    },
     "details": {
       "name": "Aristotelis Airport (LGKA)",
       "elev": "2142 ft",
@@ -110,8 +120,10 @@
     "name": "Asiago Airport (LIDA)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 522,
-    "posy": 200,
+    "pos": {
+      "x": 427774.983,
+      "y": 3195881.246
+    },
     "details": {
       "name": "Asiago Airport (LIDA)",
       "elev": "3392 ft",
@@ -131,8 +143,10 @@
     "name": "Aviano Airbase (LIPA)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 863,
-    "posy": 153,
+    "pos": {
+      "x": 707760.633,
+      "y": 3234207.804
+    },
     "details": {
       "name": "Aviano Airbase (LIPA)",
       "elev": "367 ft",
@@ -152,8 +166,10 @@
     "name": "Banja Luka Airport (LQBK)",
     "country": "Bosnia and Herzegovina",
     "type": "Airbase",
-    "posx": 2323,
-    "posy": 667,
+    "pos": {
+      "x": 1905547.051,
+      "y": 2812287.547
+    },
     "details": {
       "name": "Banja Luka Airport (LQBK)",
       "elev": "367 ft",
@@ -173,8 +189,10 @@
     "name": "Batajnica Airbase (LYBT)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3261,
-    "posy": 644,
+    "pos": {
+      "x": 2674400.464,
+      "y": 2830990.079
+    },
     "details": {
       "name": "Batajnica Airbase (LYBT)",
       "elev": "259 ft",
@@ -194,8 +212,10 @@
     "name": "Birgi Airbase (LICT)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 667,
-    "posy": 3764,
+    "pos": {
+      "x": 546772.653,
+      "y": 272402.347
+    },
     "details": {
       "name": "Birgi Airbase (LICT)",
       "elev": "16 ft",
@@ -215,8 +235,10 @@
     "name": "Blagorodovac Airstrip (LDVD)",
     "country": "Croatia",
     "type": "Airstrip",
-    "posx": 2240,
-    "posy": 391,
+    "pos": {
+      "x": 1837175.764,
+      "y": 3038596.356
+    },
     "details": {
       "name": "Blagorodovac Airstrip (LDVD)",
       "elev": "442 ft",
@@ -236,8 +258,10 @@
     "name": "Bologna Borgo Panigale Airport (LIPE)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 417,
-    "posy": 796,
+    "pos": {
+      "x": 341921.522,
+      "y": 2706819.895
+    },
     "details": {
       "name": "Bologna Borgo Panigale Airport (LIPE)",
       "elev": "95 ft",
@@ -257,8 +281,10 @@
     "name": "Brac Airstrip (LDSB)",
     "country": "Croatia",
     "type": "Airstrip",
-    "posx": 2132,
-    "posy": 1403,
+    "pos": {
+      "x": 1748908.188,
+      "y": 2208630.294
+    },
     "details": {
       "name": "Brac Airstrip (LDSB)",
       "elev": "1722 ft",
@@ -278,8 +304,10 @@
     "name": "Brescia Airport (LIPO)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 143,
-    "posy": 378,
+    "pos": {
+      "x": 117360.958,
+      "y": 3049174.412
+    },
     "details": {
       "name": "Brescia Airport (LIPO)",
       "elev": "341 ft",
@@ -299,8 +327,10 @@
     "name": "Brnik Airport (LJLJ)",
     "country": "Slovenia",
     "type": "Airbase",
-    "posx": 1441,
-    "posy": 86,
+    "pos": {
+      "x": 1181524.202,
+      "y": 3289114.637
+    },
     "details": {
       "name": "Brnik Airport (LJLJ)",
       "elev": "1299 ft",
@@ -320,8 +350,10 @@
     "name": "Capodichino Airport (LIRN)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1327,
-    "posy": 2458,
+    "pos": {
+      "x": 1088198.922,
+      "y": 1343348.593
+    },
     "details": {
       "name": "Capodichino Airport (LIRN)",
       "elev": "288 ft",
@@ -341,8 +373,10 @@
     "name": "Casale Airbase (LIBR)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2562,
-    "posy": 2561,
+    "pos": {
+      "x": 2101115.857,
+      "y": 1259010.426
+    },
     "details": {
       "name": "Casale Airbase (LIBR)",
       "elev": "16 ft",
@@ -362,8 +396,10 @@
     "name": "Cepin Airstrip (LDOC)",
     "country": "Croatia",
     "type": "Airstrip",
-    "posx": 2739,
-    "posy": 390,
+    "pos": {
+      "x": 2246796.096,
+      "y": 3039524.656
+    },
     "details": {
       "name": "Cepin Airstrip (LDOC)",
       "elev": "285 ft",
@@ -383,8 +419,10 @@
     "name": "Cerklje Ob Krki Airbase (LJCE)",
     "country": "Slovenia",
     "type": "Airbase",
-    "posx": 1771,
-    "posy": 240,
+    "pos": {
+      "x": 1452991.793,
+      "y": 3163038.805
+    },
     "details": {
       "name": "Cerklje Ob Krki Airbase (LJCE)",
       "elev": "501 ft",
@@ -404,8 +442,10 @@
     "name": "Cervia Airbase (LIPC)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 733,
-    "posy": 952,
+    "pos": {
+      "x": 601069.444,
+      "y": 2578365.957
+    },
     "details": {
       "name": "Cervia Airbase (LIPC)",
       "elev": "6 ft",
@@ -425,8 +465,10 @@
     "name": "Chioggia",
     "country": "Italy",
     "type": "n/a",
-    "posx": 745,
-    "posy": 576,
+    "pos": {
+      "x": 611152.119,
+      "y": 2886998.981
+    },
     "details": {
       "name": "Chioggia",
       "elev": "",
@@ -446,8 +488,10 @@
     "name": "Ciampino Airbase (LIRA)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 776,
-    "posy": 2038,
+    "pos": {
+      "x": 636644.134,
+      "y": 1687713.659
+    },
     "details": {
       "name": "Ciampino Airbase (LIRA)",
       "elev": "413 ft",
@@ -467,8 +511,10 @@
     "name": "Ciljuge Airstrip (LQCG)",
     "country": "Bosnia and Herzegovina",
     "type": "Airstrip",
-    "posx": 2770,
-    "posy": 882,
+    "pos": {
+      "x": 2271996.128,
+      "y": 2636457.678
+    },
     "details": {
       "name": "Ciljuge Airstrip (LQCG)",
       "elev": "728 ft",
@@ -488,8 +534,10 @@
     "name": "Crotone Airport (LIBC)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2277,
-    "posy": 3306,
+    "pos": {
+      "x": 1867571.433,
+      "y": 647746.848
+    },
     "details": {
       "name": "Crotone Airport (LIBC)",
       "elev": "518 ft",
@@ -509,8 +557,10 @@
     "name": "Dionisios Solomos Airport (LGZA)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3618,
-    "posy": 3820,
+    "pos": {
+      "x": 2967122.461,
+      "y": 226541.66
+    },
     "details": {
       "name": "Dionisios Solomos Airport (LGZA)",
       "elev": "3 ft",
@@ -530,8 +580,10 @@
     "name": "Divaca Airstrip (LJDI)",
     "country": "Slovenia",
     "type": "Airstrip",
-    "posx": 1296,
-    "posy": 327,
+    "pos": {
+      "x": 1062756.155,
+      "y": 3091518.865
+    },
     "details": {
       "name": "Divaca Airstrip (LJDI)",
       "elev": "1394 ft",
@@ -551,8 +603,10 @@
     "name": "Djakovica Airbase (LYDK)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3367,
-    "posy": 1749,
+    "pos": {
+      "x": 2761720.121,
+      "y": 1924656.178
+    },
     "details": {
       "name": "Djakovica Airbase (LYDK)",
       "elev": "1354 ft",
@@ -572,8 +626,10 @@
     "name": "Dolac Airport (LYBR)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3169,
-    "posy": 1578,
+    "pos": {
+      "x": 2599580.925,
+      "y": 2065436.266
+    },
     "details": {
       "name": "Dolac Airport (LYBR)",
       "elev": "2349 ft",
@@ -593,8 +649,10 @@
     "name": "Dubrave AB (LQTZ)",
     "country": "Bosnia and Herzegovina",
     "type": "Airbase",
-    "posx": 2782,
-    "posy": 868,
+    "pos": {
+      "x": 2281622.861,
+      "y": 2647435.921
+    },
     "details": {
       "name": "Dubrave AB (LQTZ)",
       "elev": "849 ft",
@@ -614,8 +672,10 @@
     "name": "Dubrovnik Airport (LDDU)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 2654,
-    "posy": 1715,
+    "pos": {
+      "x": 2177086.712,
+      "y": 1952604.874
+    },
     "details": {
       "name": "Dubrovnik Airport (LDDU)",
       "elev": "511 ft",
@@ -635,8 +695,10 @@
     "name": "Falconara Airport (LIPY)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1061,
-    "posy": 1237,
+    "pos": {
+      "x": 870083.557,
+      "y": 2344687.203
+    },
     "details": {
       "name": "Falconara Airport (LIPY)",
       "elev": "19 ft",
@@ -656,8 +718,10 @@
     "name": "Fiumicino Airport (LIRF)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 662,
-    "posy": 2031,
+    "pos": {
+      "x": 542672.678,
+      "y": 1693683.246
+    },
     "details": {
       "name": "Fiumicino Airport (LIRF)",
       "elev": "65527 ft",
@@ -677,8 +741,10 @@
     "name": "Fontanarossa Airport (LICC)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1566,
-    "posy": 3981,
+    "pos": {
+      "x": 1284243.39,
+      "y": 94037.026
+    },
     "details": {
       "name": "Fontanarossa Airport (LICC)",
       "elev": "52 ft",
@@ -698,8 +764,10 @@
     "name": "Forli Airbase (LIPK)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 657,
-    "posy": 959,
+    "pos": {
+      "x": 539163.125,
+      "y": 2572750.713
+    },
     "details": {
       "name": "Forli Airbase (LIPK)",
       "elev": "72 ft",
@@ -719,8 +787,10 @@
     "name": "Galatina Airbase (LIBN)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2629,
-    "posy": 2752,
+    "pos": {
+      "x": 2156721.368,
+      "y": 1102644.027
+    },
     "details": {
       "name": "Galatina Airbase (LIBN)",
       "elev": "160 ft",
@@ -740,8 +810,10 @@
     "name": "Ghedi Airport (LIPL)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 123,
-    "posy": 375,
+    "pos": {
+      "x": 100924.986,
+      "y": 3051998.35
+    },
     "details": {
       "name": "Ghedi Airport (LIPL)",
       "elev": "324 ft",
@@ -761,8 +833,10 @@
     "name": "Gino Lisa Airport (LIBF)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1752,
-    "posy": 2224,
+    "pos": {
+      "x": 1437356.134,
+      "y": 1535588.271
+    },
     "details": {
       "name": "Gino Lisa Airport (LIBF)",
       "elev": "259 ft",
@@ -782,8 +856,10 @@
     "name": "Gioia del Colle Airbase (LIBV)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2214,
-    "posy": 2520,
+    "pos": {
+      "x": 1816220.047,
+      "y": 1292476.071
+    },
     "details": {
       "name": "Gioia del Colle Airbase (LIBV)",
       "elev": "1148 ft",
@@ -803,8 +879,10 @@
     "name": "Gjader Airbase (LAGJ)",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 3101,
-    "posy": 2001,
+    "pos": {
+      "x": 2543079.947,
+      "y": 1718260.074
+    },
     "details": {
       "name": "Gjader Airbase (LAGJ)",
       "elev": "19 ft",
@@ -824,8 +902,10 @@
     "name": "Glamoc Airstrip (LQGL)",
     "country": "Bosnia and Herzegovina",
     "type": "Airstrip",
-    "posx": 2174,
-    "posy": 1047,
+    "pos": {
+      "x": 1783400.629,
+      "y": 2501063.411
+    },
     "details": {
       "name": "Glamoc Airstrip (LQGL)",
       "elev": "2982 ft",
@@ -845,8 +925,10 @@
     "name": "Grazzanise Airbase (LIRM)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1262,
-    "posy": 2381,
+    "pos": {
+      "x": 1035023.968,
+      "y": 1406724.336
+    },
     "details": {
       "name": "Grazzanise Airbase (LIRM)",
       "elev": "16 ft",
@@ -866,8 +948,10 @@
     "name": "Grobnicko Polje Airport (LDRG)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1446,
-    "posy": 466,
+    "pos": {
+      "x": 1186335.967,
+      "y": 2977729.745
+    },
     "details": {
       "name": "Grobnicko Polje Airport (LDRG)",
       "elev": "958 ft",
@@ -887,8 +971,10 @@
     "name": "Grosseto Airbase (LIRS)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 295,
-    "posy": 1581,
+    "pos": {
+      "x": 242193.71,
+      "y": 2063140.24
+    },
     "details": {
       "name": "Grosseto Airbase (LIRS)",
       "elev": "3 ft",
@@ -908,8 +994,10 @@
     "name": "Grottaglie Airbase (LIBG)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2382,
-    "posy": 2633,
+    "pos": {
+      "x": 1953848.079,
+      "y": 1199557.586
+    },
     "details": {
       "name": "Grottaglie Airbase (LIBG)",
       "elev": "183 ft",
@@ -929,8 +1017,10 @@
     "name": "Guidonia Airbase (LIRG)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 829,
-    "posy": 1953,
+    "pos": {
+      "x": 680038.255,
+      "y": 1757675.688
+    },
     "details": {
       "name": "Guidonia Airbase (LIRG)",
       "elev": "262 ft",
@@ -950,8 +1040,10 @@
     "name": "Ioannis Kapodistrias Airport (LGKR)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3250,
-    "posy": 3016,
+    "pos": {
+      "x": 2665728.256,
+      "y": 885663.461
+    },
     "details": {
       "name": "Ioannis Kapodistrias Airport (LGKR)",
       "elev": "55 ft",
@@ -971,8 +1063,10 @@
     "name": "Istrana Airbase (LIPS)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 695,
-    "posy": 297,
+    "pos": {
+      "x": 570096.616,
+      "y": 3116020.42
+    },
     "details": {
       "name": "Istrana Airbase (LIPS)",
       "elev": "144 ft",
@@ -992,8 +1086,10 @@
     "name": "Kaposujlak AirStrip (LHKV)",
     "country": "Hungary",
     "type": "Airstrip",
-    "posx": 2456,
-    "posy": 22,
+    "pos": {
+      "x": 2014101.296,
+      "y": 3341345.075
+    },
     "details": {
       "name": "Kaposujlak AirStrip (LHKV)",
       "elev": "495 ft",
@@ -1013,8 +1109,10 @@
     "name": "Kastela Airport (LDSP)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 2005,
-    "posy": 1288,
+    "pos": {
+      "x": 1644657.415,
+      "y": 2302742.737
+    },
     "details": {
       "name": "Kastela Airport (LDSP)",
       "elev": "127 ft",
@@ -1034,8 +1132,10 @@
     "name": "King Pyrros Airport (LGIO)",
     "country": "Greece",
     "type": "Airbase",
-    "posx": 3556,
-    "posy": 2959,
+    "pos": {
+      "x": 2916613.893,
+      "y": 932203.082
+    },
     "details": {
       "name": "King Pyrros Airport (LGIO)",
       "elev": "1561 ft",
@@ -1055,8 +1155,10 @@
     "name": "Klisa Airport (LDOS)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 2795,
-    "posy": 425,
+    "pos": {
+      "x": 2292345.257,
+      "y": 3010857.663
+    },
     "details": {
       "name": "Klisa Airport (LDOS)",
       "elev": "265 ft",
@@ -1076,8 +1178,10 @@
     "name": "Korce Airstrip (LAKO)",
     "country": "Albania",
     "type": "Airstrip",
-    "posx": 3516,
-    "posy": 2519,
+    "pos": {
+      "x": 2884076.547,
+      "y": 1293161.636
+    },
     "details": {
       "name": "Korce Airstrip (LAKO)",
       "elev": "2680 ft",
@@ -1097,8 +1201,10 @@
     "name": "Kovin Airbase (LY87)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3485,
-    "posy": 699,
+    "pos": {
+      "x": 2858732.176,
+      "y": 2785949.412
+    },
     "details": {
       "name": "Kovin Airbase (LY87)",
       "elev": "239 ft",
@@ -1118,8 +1224,10 @@
     "name": "Krusevac Airstrip (LYKS)",
     "country": "Serbia and Montenegro",
     "type": "Airstrip",
-    "posx": 3652,
-    "posy": 1232,
+    "pos": {
+      "x": 2995405.682,
+      "y": 2348691.885
+    },
     "details": {
       "name": "Krusevac Airstrip (LYKS)",
       "elev": "830 ft",
@@ -1139,8 +1247,10 @@
     "name": "Kucova Airbase (LAKV)",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 3225,
-    "posy": 2493,
+    "pos": {
+      "x": 2645166.121,
+      "y": 1314845.559
+    },
     "details": {
       "name": "Kucova Airbase (LAKV)",
       "elev": "108 ft",
@@ -1160,8 +1270,10 @@
     "name": "Kukes Airbase (LAKU)",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 3371,
-    "posy": 1927,
+    "pos": {
+      "x": 2764796.904,
+      "y": 1778824.992
+    },
     "details": {
       "name": "Kukes Airbase (LAKU)",
       "elev": "1138 ft",
@@ -1181,8 +1293,10 @@
     "name": "Ladevci Airbase (LYKV)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3386,
-    "posy": 1131,
+    "pos": {
+      "x": 2777290.217,
+      "y": 2431580.447
+    },
     "details": {
       "name": "Ladevci Airbase (LYKV)",
       "elev": "682 ft",
@@ -1202,8 +1316,10 @@
     "name": "Lamezia Terme Airport (LICA)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1988,
-    "posy": 3348,
+    "pos": {
+      "x": 1630268.165,
+      "y": 613605.548
+    },
     "details": {
       "name": "Lamezia Terme Airport (LICA)",
       "elev": "22 ft",
@@ -1223,8 +1339,10 @@
     "name": "Latina Airbase (LIRL)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 875,
-    "posy": 2149,
+    "pos": {
+      "x": 717790.807,
+      "y": 1596825.442
+    },
     "details": {
       "name": "Latina Airbase (LIRL)",
       "elev": "104 ft",
@@ -1244,8 +1362,10 @@
     "name": "Lesce-Bled Airstrip (LJBL)",
     "country": "Slovenia",
     "type": "Airstrip",
-    "posx": 1357,
-    "posy": 29,
+    "pos": {
+      "x": 1113264.523,
+      "y": 3336074.164
+    },
     "details": {
       "name": "Lesce-Bled Airstrip (LJBL)",
       "elev": "1656 ft",
@@ -1265,8 +1385,10 @@
     "name": "Mattarello Airport",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 408,
-    "posy": 132,
+    "pos": {
+      "x": 334610.434,
+      "y": 3251434.305
+    },
     "details": {
       "name": "Mattarello Airport",
       "elev": "600 ft",
@@ -1286,8 +1408,10 @@
     "name": "Mattei Airstrip (MTPIC)",
     "country": "Italy",
     "type": "Airstrip",
-    "posx": 2090,
-    "posy": 2669,
+    "pos": {
+      "x": 1714215.953,
+      "y": 1170198.422
+    },
     "details": {
       "name": "Mattei Airstrip (MTPIC)",
       "elev": "164 ft",
@@ -1307,8 +1431,10 @@
     "name": "Miramare Airbase (LIPR)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 827,
-    "posy": 1046,
+    "pos": {
+      "x": 678004.684,
+      "y": 2501837.562
+    },
     "details": {
       "name": "Miramare Airbase (LIPR)",
       "elev": "9 ft",
@@ -1328,8 +1454,10 @@
     "name": "Mostar Airport (LQMO)",
     "country": "Bosnia and Herzegovina",
     "type": "Airbase",
-    "posx": 2509,
-    "posy": 1401,
+    "pos": {
+      "x": 2057675.742,
+      "y": 2210637.64
+    },
     "details": {
       "name": "Mostar Airport (LQMO)",
       "elev": "160 ft",
@@ -1349,8 +1477,10 @@
     "name": "Nikola Tesla Airport (LYBE)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3278,
-    "posy": 690,
+    "pos": {
+      "x": 2688370.007,
+      "y": 2793788.612
+    },
     "details": {
       "name": "Nikola Tesla Airport (LYBE)",
       "elev": "321 ft",
@@ -1370,8 +1500,10 @@
     "name": "Niksic Airstrip (LYNK)",
     "country": "Serbia and Montenegro",
     "type": "Airstrip",
-    "posx": 2865,
-    "posy": 1616,
+    "pos": {
+      "x": 2349990.945,
+      "y": 2033918.909
+    },
     "details": {
       "name": "Niksic Airstrip (LYNK)",
       "elev": "2007 ft",
@@ -1391,8 +1523,10 @@
     "name": "Nis Airbase (LYNI)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3809,
-    "posy": 1322,
+    "pos": {
+      "x": 3123820.182,
+      "y": 2275204.038
+    },
     "details": {
       "name": "Nis Airbase (LYNI)",
       "elev": "636 ft",
@@ -1412,8 +1546,10 @@
     "name": "Novo Mesto Airstrip (LJNM)",
     "country": "Slovenia",
     "type": "Airstrip",
-    "posx": 1640,
-    "posy": 282,
+    "pos": {
+      "x": 1344785.186,
+      "y": 3128625.24
+    },
     "details": {
       "name": "Novo Mesto Airstrip (LJNM)",
       "elev": "547 ft",
@@ -1433,8 +1569,10 @@
     "name": "Padova Airstrip (LIPU)",
     "country": "Italy",
     "type": "Airstrip",
-    "posx": 612,
-    "posy": 425,
+    "pos": {
+      "x": 502099.341,
+      "y": 3011316.908
+    },
     "details": {
       "name": "Padova Airstrip (LIPU)",
       "elev": "42 ft",
@@ -1454,8 +1592,10 @@
     "name": "Palese Airport (LIBD)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 2161,
-    "posy": 2357,
+    "pos": {
+      "x": 1772671.827,
+      "y": 1426643.648
+    },
     "details": {
       "name": "Palese Airport (LIBD)",
       "elev": "137 ft",
@@ -1475,8 +1615,10 @@
     "name": "Parma Airport (LIMP)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 112,
-    "posy": 645,
+    "pos": {
+      "x": 92016.561,
+      "y": 2830389.897
+    },
     "details": {
       "name": "Parma Airport (LIMP)",
       "elev": "134 ft",
@@ -1496,8 +1638,10 @@
     "name": "Peretola Airport (LIRQ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 370,
-    "posy": 1117,
+    "pos": {
+      "x": 303883.594,
+      "y": 2443601.501
+    },
     "details": {
       "name": "Peretola Airport (LIRQ)",
       "elev": "108 ft",
@@ -1517,8 +1661,10 @@
     "name": "Pescara Airport (LIBP)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1311,
-    "posy": 1772,
+    "pos": {
+      "x": 1075387.401,
+      "y": 1906032.522
+    },
     "details": {
       "name": "Pescara Airport (LIBP)",
       "elev": "26 ft",
@@ -1538,8 +1684,10 @@
     "name": "Pescara VORTAC",
     "country": "Italy",
     "type": "VORTAC",
-    "posx": 1313,
-    "posy": 1771,
+    "pos": {
+      "x": 1076666.541,
+      "y": 1907374.022
+    },
     "details": {
       "name": "Pescara VORTAC",
       "elev": "",
@@ -1559,8 +1707,10 @@
     "name": "Pleso Airbase (LDZA)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1935,
-    "posy": 309,
+    "pos": {
+      "x": 1587434.837,
+      "y": 3106275.572
+    },
     "details": {
       "name": "Pleso Airbase (LDZA)",
       "elev": "351 ft",
@@ -1580,8 +1730,10 @@
     "name": "Podgorica Airbase (LYPG)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 2979,
-    "posy": 1796,
+    "pos": {
+      "x": 2443257.168,
+      "y": 1886349.239
+    },
     "details": {
       "name": "Podgorica Airbase (LYPG)",
       "elev": "108 ft",
@@ -1601,8 +1753,10 @@
     "name": "Pogany AirStrip (LHPP)",
     "country": "Hungary",
     "type": "Airstrip",
-    "posx": 2611,
-    "posy": 196,
+    "pos": {
+      "x": 2141649.755,
+      "y": 3198488.974
+    },
     "details": {
       "name": "Pogany AirStrip (LHPP)",
       "elev": "629 ft",
@@ -1622,8 +1776,10 @@
     "name": "Ponikve Airport (LYUZ)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3100,
-    "posy": 1107,
+    "pos": {
+      "x": 2542640.521,
+      "y": 2451457.117
+    },
     "details": {
       "name": "Ponikve Airport (LYUZ)",
       "elev": "3005 ft",
@@ -1643,8 +1799,10 @@
     "name": "Pratica di Mare Airbase (LIRE)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 724,
-    "posy": 2094,
+    "pos": {
+      "x": 594037.176,
+      "y": 1641957.998
+    },
     "details": {
       "name": "Pratica di Mare Airbase (LIRE)",
       "elev": "75 ft",
@@ -1664,8 +1822,10 @@
     "name": "Pristina Airport (BKPR)",
     "country": "Kosovo",
     "type": "Airbase",
-    "posx": 3561,
-    "posy": 1677,
+    "pos": {
+      "x": 2920559.718,
+      "y": 1984027.138
+    },
     "details": {
       "name": "Pristina Airport (BKPR)",
       "elev": "1788 ft",
@@ -1685,8 +1845,10 @@
     "name": "Pula Airport (LDPL)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1256,
-    "posy": 674,
+    "pos": {
+      "x": 1030356.543,
+      "y": 2806829.655
+    },
     "details": {
       "name": "Pula Airport (LDPL)",
       "elev": "213 ft",
@@ -1706,8 +1868,10 @@
     "name": "Punta Raisi Airport (LICJ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 882,
-    "posy": 3649,
+    "pos": {
+      "x": 723104.409,
+      "y": 366898.563
+    },
     "details": {
       "name": "Punta Raisi Airport (LICJ)",
       "elev": "19 ft",
@@ -1727,8 +1891,10 @@
     "name": "Ravenna Airstrip",
     "country": "Italy",
     "type": "Airstrip",
-    "posx": 711,
-    "posy": 890,
+    "pos": {
+      "x": 583436.299,
+      "y": 2629960.178
+    },
     "details": {
       "name": "Ravenna Airstrip",
       "elev": "65533 ft",
@@ -1748,8 +1914,10 @@
     "name": "Reggio Calabria Airport (LICR)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1776,
-    "posy": 3711,
+    "pos": {
+      "x": 1456540.734,
+      "y": 315698.073
+    },
     "details": {
       "name": "Reggio Calabria Airport (LICR)",
       "elev": "88 ft",
@@ -1769,8 +1937,10 @@
     "name": "Rijeka Airbase (LDRI)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1467,
-    "posy": 534,
+    "pos": {
+      "x": 1202873.601,
+      "y": 2921464.996
+    },
     "details": {
       "name": "Rijeka Airbase (LDRI)",
       "elev": "298 ft",
@@ -1790,8 +1960,10 @@
     "name": "Rivolto Airbase (LIPI)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1003,
-    "posy": 186,
+    "pos": {
+      "x": 822287.718,
+      "y": 3206741.375
+    },
     "details": {
       "name": "Rivolto Airbase (LIPI)",
       "elev": "160 ft",
@@ -1811,8 +1983,10 @@
     "name": "Ronchi dei Legionari Airport (LIPQ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1130,
-    "posy": 257,
+    "pos": {
+      "x": 926974.813,
+      "y": 3149023.416
+    },
     "details": {
       "name": "Ronchi dei Legionari Airport (LIPQ)",
       "elev": "39 ft",
@@ -1832,8 +2006,10 @@
     "name": "S. Angelo Airbase (LIPH)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 730,
-    "posy": 318,
+    "pos": {
+      "x": 598917.808,
+      "y": 3098400.337
+    },
     "details": {
       "name": "S. Angelo Airbase (LIPH)",
       "elev": "45 ft",
@@ -1853,8 +2029,10 @@
     "name": "S. Francesco Airport (LIRZ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 773,
-    "posy": 1456,
+    "pos": {
+      "x": 633921.745,
+      "y": 2165147.537
+    },
     "details": {
       "name": "S. Francesco Airport (LIRZ)",
       "elev": "669 ft",
@@ -1874,8 +2052,10 @@
     "name": "S.Giusto Airport (LIRP)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 106,
-    "posy": 1157,
+    "pos": {
+      "x": 86607.874,
+      "y": 2410991.886
+    },
     "details": {
       "name": "S.Giusto Airport (LIRP)",
       "elev": "6 ft",
@@ -1895,8 +2075,10 @@
     "name": "Sarajevo Airport (LQSA)",
     "country": "Bosnia and Herzegovina",
     "type": "Airbase",
-    "posx": 2665,
-    "posy": 1155,
+    "pos": {
+      "x": 2185801.561,
+      "y": 2411969.434
+    },
     "details": {
       "name": "Sarajevo Airport (LQSA)",
       "elev": "1679 ft",
@@ -1916,8 +2098,10 @@
     "name": "Secovlje Airport (LJPZ)",
     "country": "Slovenia",
     "type": "Airbase",
-    "posx": 1166,
-    "posy": 423,
+    "pos": {
+      "x": 956117.468,
+      "y": 3012664.815
+    },
     "details": {
       "name": "Secovlje Airport (LJPZ)",
       "elev": "354 ft",
@@ -1937,8 +2121,10 @@
     "name": "Sepurine Airstrip (LD57)",
     "country": "Croatia",
     "type": "Airstrip",
-    "posx": 1646,
-    "posy": 987,
+    "pos": {
+      "x": 1350433.362,
+      "y": 2549987.644
+    },
     "details": {
       "name": "Sepurine Airstrip (LD57)",
       "elev": "18 ft",
@@ -1958,8 +2144,10 @@
     "name": "Sigonella Airbase (LICZ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1520,
-    "posy": 4011,
+    "pos": {
+      "x": 1246644.937,
+      "y": 69338.775
+    },
     "details": {
       "name": "Sigonella Airbase (LICZ)",
       "elev": "72 ft",
@@ -1979,8 +2167,10 @@
     "name": "Sjenica Airport (LYSJ)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 3226,
-    "posy": 1380,
+    "pos": {
+      "x": 2646058.186,
+      "y": 2227565.652
+    },
     "details": {
       "name": "Sjenica Airport (LYSJ)",
       "elev": "3267 ft",
@@ -2000,8 +2190,10 @@
     "name": "Skopski Petrovac (LWSK)",
     "country": "North Macedonia",
     "type": "Airbase",
-    "posx": 3772,
-    "posy": 1938,
+    "pos": {
+      "x": 3094198.663,
+      "y": 1769739.384
+    },
     "details": {
       "name": "Skopski Petrovac (LWSK)",
       "elev": "774 ft",
@@ -2021,8 +2213,10 @@
     "name": "Sombor Airport (LYSO)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 2868,
-    "posy": 306,
+    "pos": {
+      "x": 2352755.825,
+      "y": 3108961.776
+    },
     "details": {
       "name": "Sombor Airport (LYSO)",
       "elev": "275 ft",
@@ -2042,8 +2236,10 @@
     "name": "St. Paul the Apostle Airport (LWOH)",
     "country": "North Macedonia",
     "type": "Airbase",
-    "posx": 3496,
-    "posy": 2301,
+    "pos": {
+      "x": 2867784.952,
+      "y": 1471927.051
+    },
     "details": {
       "name": "St. Paul the Apostle Airport (LWOH)",
       "elev": "2286 ft",
@@ -2063,8 +2259,10 @@
     "name": "Szeged AirStrip (LHUD)",
     "country": "Hungary",
     "type": "Airstrip",
-    "posx": 3177,
-    "posy": 62,
+    "pos": {
+      "x": 2605901.453,
+      "y": 3308486.218
+    },
     "details": {
       "name": "Szeged AirStrip (LHUD)",
       "elev": "252 ft",
@@ -2084,8 +2282,10 @@
     "name": "Taszar Airbase (LHTA)",
     "country": "Hungary",
     "type": "Airbase",
-    "posx": 2505,
-    "posy": 19,
+    "pos": {
+      "x": 2054973.121,
+      "y": 3343657.517
+    },
     "details": {
       "name": "Taszar Airbase (LHTA)",
       "elev": "475 ft",
@@ -2105,8 +2305,10 @@
     "name": "Tessera Airport (LIPZ)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 777,
-    "posy": 384,
+    "pos": {
+      "x": 637139.414,
+      "y": 3044484.064
+    },
     "details": {
       "name": "Tessera Airport (LIPZ)",
       "elev": "22 ft",
@@ -2126,8 +2328,10 @@
     "name": "Tirana Airport (LATI)",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 3151,
-    "posy": 2213,
+    "pos": {
+      "x": 2584788.184,
+      "y": 1544257.176
+    },
     "details": {
       "name": "Tirana Airport (LATI)",
       "elev": "108 ft",
@@ -2147,8 +2351,10 @@
     "name": "Tivat Airport (LYTV)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 2805,
-    "posy": 1787,
+    "pos": {
+      "x": 2300909.159,
+      "y": 1894191.642
+    },
     "details": {
       "name": "Tivat Airport (LYTV)",
       "elev": "0 ft",
@@ -2168,8 +2374,10 @@
     "name": "Udbina Airport (LDZU)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1844,
-    "posy": 837,
+    "pos": {
+      "x": 1512467.656,
+      "y": 2673003.309
+    },
     "details": {
       "name": "Udbina Airport (LDZU)",
       "elev": "2362 ft",
@@ -2189,8 +2397,10 @@
     "name": "Urbe Airstrip (LIRU)",
     "country": "Italy",
     "type": "Airstrip",
-    "posx": 748,
-    "posy": 1966,
+    "pos": {
+      "x": 613618.661,
+      "y": 1746655.003
+    },
     "details": {
       "name": "Urbe Airstrip (LIRU)",
       "elev": "52 ft",
@@ -2210,8 +2420,10 @@
     "name": "Varazdin Airport (LDVA)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 2038,
-    "posy": 63,
+    "pos": {
+      "x": 1671576.213,
+      "y": 3307597.356
+    },
     "details": {
       "name": "Varazdin Airport (LDVA)",
       "elev": "541 ft",
@@ -2231,8 +2443,10 @@
     "name": "Vicenza",
     "country": "Italy",
     "type": "n/a",
-    "posx": 569,
-    "posy": 314,
+    "pos": {
+      "x": 467049.46,
+      "y": 3101968.997
+    },
     "details": {
       "name": "Vicenza",
       "elev": "",
@@ -2252,8 +2466,10 @@
     "name": "Villafranca Airport (LIPX)",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 316,
-    "posy": 406,
+    "pos": {
+      "x": 259118.418,
+      "y": 3026539.267
+    },
     "details": {
       "name": "Villafranca Airport (LIPX)",
       "elev": "209 ft",
@@ -2273,8 +2489,10 @@
     "name": "Vlora Airport (LAVL)",
     "country": "Albania",
     "type": "Airbase",
-    "posx": 3066,
-    "posy": 2576,
+    "pos": {
+      "x": 2515065.787,
+      "y": 1246579.374
+    },
     "details": {
       "name": "Vlora Airport (LAVL)",
       "elev": "65530 ft",
@@ -2294,8 +2512,10 @@
     "name": "Vrsac Airstrip (LYVR)",
     "country": "Serbia and Montenegro",
     "type": "Airstrip",
-    "posx": 3586,
-    "posy": 526,
+    "pos": {
+      "x": 2941272.8,
+      "y": 2928143.07
+    },
     "details": {
       "name": "Vrsac Airstrip (LYVR)",
       "elev": "272 ft",
@@ -2315,8 +2535,10 @@
     "name": "Zeljava Airbase (LYBI)",
     "country": "Serbia and Montenegro",
     "type": "Airbase",
-    "posx": 1843,
-    "posy": 705,
+    "pos": {
+      "x": 1511739.45,
+      "y": 2781039.251
+    },
     "details": {
       "name": "Zeljava Airbase (LYBI)",
       "elev": "1118 ft",
@@ -2336,8 +2558,10 @@
     "name": "Zemunik Airbase (LDZD)",
     "country": "Croatia",
     "type": "Airbase",
-    "posx": 1699,
-    "posy": 1030,
+    "pos": {
+      "x": 1393164.89,
+      "y": 2514901.628
+    },
     "details": {
       "name": "Zemunik Airbase (LDZD)",
       "elev": "219 ft",

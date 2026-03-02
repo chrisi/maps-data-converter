@@ -4,7 +4,6 @@ import (
 	"flag"
 	"fmt"
 	"maps-data-converter/model"
-	"math"
 	"sort"
 	"strings"
 )
@@ -12,12 +11,10 @@ import (
 const MapFeet = 3358699.5 // Falcon const
 const BmsMapScale = 1 / MapFeet * 1024000
 
-const MapPixels = 4096
-
 func main() {
 	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 8-bit grayscale PNG (1 unit = 100ft)")
 	exportOut := flag.String("export-out", "heightmap.png", "Output PNG path for -export-heightmap")
-	theater := flag.String("theater", "israel", "Theater key to use (korea|balkans|israel|hellas)")
+	theater := flag.String("theater", "korea", "Theater key to use (korea|balkans|israel|hellas)")
 	flag.Parse()
 
 	configs := []model.Config{
@@ -139,11 +136,6 @@ func main() {
 		ExtractRunwayData(phd.PHDs, pdx.PDs, abRecord)
 		fmt.Printf("%d: %s, Pos x:%.5f y:%.5f, OcdIdx:%d\n", abRecord.Id, abRecord.Name, abRecord.Pos.X, abRecord.Pos.Y, abRecord.OcdIdx)
 
-		fac := MapFeet / MapPixels
-		px := int(math.Round(abRecord.Pos.X / fac))
-		py := int(math.Round(MapPixels - abRecord.Pos.Y/fac))
-		fmt.Printf("Map-Pos x:%d y:%d\n", px, py)
-
 		for idx, rw := range abRecord.Runways {
 			fmt.Printf("Runway %d, Length %f, Width %f, Heading %f\n", idx, rw.Length, rw.Width, rw.Heading)
 		}
@@ -198,8 +190,7 @@ func main() {
 			Name:    abRecord.Name,
 			Country: "n/a",
 			Type:    tp,
-			PosX:    px,
-			PosY:    py,
+			Pos:     abRecord.Pos,
 			Details: &detail,
 		}
 
@@ -208,12 +199,6 @@ func main() {
 
 	for _, nbObj := range *beaconObjects {
 		nbRecord := CreateAirbaseRecord(&nbObj)
-
-		fac := MapFeet / MapPixels
-
-		px := int(math.Round(nbRecord.Pos.X / fac))
-		py := int(math.Round(MapPixels - nbRecord.Pos.Y/fac))
-		fmt.Printf("Map-Pos x:%d y:%d\n", px, py)
 
 		detail := model.Details{
 			Name: nbRecord.Name,
@@ -245,8 +230,7 @@ func main() {
 			Name:    nbRecord.Name,
 			Country: "n/a",
 			Type:    tp,
-			PosX:    px,
-			PosY:    py,
+			Pos:     nbRecord.Pos,
 			Details: &detail,
 		}
 

@@ -5,8 +5,10 @@
     "name": "Abu Rudeis Airport",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1347,
-    "posy": 3417,
+    "pos": {
+      "x": 1104808.826,
+      "y": 556750.376
+    },
     "details": {
       "name": "Abu Rudeis Airport",
       "elev": "65 ft",
@@ -26,8 +28,10 @@
     "name": "Abu Suwayr Airbase",
     "country": "Yemen",
     "type": "Airbase",
-    "posx": 935,
-    "posy": 2668,
+    "pos": {
+      "x": 766577.256,
+      "y": 1171520.303
+    },
     "details": {
       "name": "Abu Suwayr Airbase",
       "elev": "59 ft",
@@ -47,8 +51,10 @@
     "name": "Abu ad-Duhur Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2804,
-    "posy": 382,
+    "pos": {
+      "x": 2300187.66,
+      "y": 3046133.864
+    },
     "details": {
       "name": "Abu ad-Duhur Airbase",
       "elev": "853 ft",
@@ -68,8 +74,10 @@
     "name": "Akrotiri RAF Airbase",
     "country": "Cyprus",
     "type": "Airbase",
-    "posx": 1309,
-    "posy": 890,
+    "pos": {
+      "x": 1074039.294,
+      "y": 2629989.607
+    },
     "details": {
       "name": "Akrotiri RAF Airbase",
       "elev": "59 ft",
@@ -89,8 +97,10 @@
     "name": "Al Bir Highway Strip",
     "country": "Saudi Arabia",
     "type": "Airstrip",
-    "posx": 2500,
-    "posy": 3426,
+    "pos": {
+      "x": 2050689.368,
+      "y": 549344.146
+    },
     "details": {
       "name": "Al Bir Highway Strip",
       "elev": "2385 ft",
@@ -110,8 +120,10 @@
     "name": "Al Jouf Airforce Base",
     "country": "Yemen",
     "type": "Airbase",
-    "posx": 4022,
-    "posy": 2986,
+    "pos": {
+      "x": 3298567.601,
+      "y": 910191.141
+    },
     "details": {
       "name": "Al Jouf Airforce Base",
       "elev": "2201 ft",
@@ -131,8 +143,10 @@
     "name": "Al Mansurha Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 685,
-    "posy": 2484,
+    "pos": {
+      "x": 561611.289,
+      "y": 1321841.742
+    },
     "details": {
       "name": "Al Mansurha Airbase",
       "elev": "13 ft",
@@ -152,8 +166,10 @@
     "name": "Al Minya Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 370,
-    "posy": 3746,
+    "pos": {
+      "x": 303083.268,
+      "y": 286755.538
+    },
     "details": {
       "name": "Al Minya Airbase",
       "elev": "118 ft",
@@ -173,8 +189,10 @@
     "name": "Al Nouza Airfield",
     "country": "Japan",
     "type": "Airbase",
-    "posx": 122,
-    "posy": 2366,
+    "pos": {
+      "x": 99760.594,
+      "y": 1419080.015
+    },
     "details": {
       "name": "Al Nouza Airfield",
       "elev": "65477 ft",
@@ -194,8 +212,10 @@
     "name": "Al Qusayr Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2626,
-    "posy": 905,
+    "pos": {
+      "x": 2154008.738,
+      "y": 2617679.872
+    },
     "details": {
       "name": "Al Qusayr Airbase",
       "elev": "1732 ft",
@@ -215,8 +235,10 @@
     "name": "Al Rhamaniya Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 392,
-    "posy": 2440,
+    "pos": {
+      "x": 321775.866,
+      "y": 1358456.14
+    },
     "details": {
       "name": "Al Rhamaniya Airbase",
       "elev": "9 ft",
@@ -236,8 +258,10 @@
     "name": "Al Shigar VORTAC (ASH) 112X Nav Beacon",
     "country": "Pakistan",
     "type": "VORTAC",
-    "posx": 3528,
-    "posy": 2894,
+    "pos": {
+      "x": 2894077.243,
+      "y": 985647.097
+    },
     "details": {
       "name": "Al Shigar VORTAC (ASH) 112X Nav Beacon",
       "elev": "",
@@ -257,8 +281,10 @@
     "name": "Al-Muzabin Airstrip",
     "country": "n/a",
     "type": "Airstrip",
-    "posx": 3464,
-    "posy": 3665,
+    "pos": {
+      "x": 2841056.439,
+      "y": 353135.769
+    },
     "details": {
       "name": "Al-Muzabin Airstrip",
       "elev": "2880 ft",
@@ -278,8 +304,10 @@
     "name": "Aleppo International Airport",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2843,
-    "posy": 182,
+    "pos": {
+      "x": 2332180.477,
+      "y": 3210303.428
+    },
     "details": {
       "name": "Aleppo International Airport",
       "elev": "1318 ft",
@@ -299,8 +327,10 @@
     "name": "Alismaylia Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 987,
-    "posy": 2656,
+    "pos": {
+      "x": 809446.568,
+      "y": 1181199.487
+    },
     "details": {
       "name": "Alismaylia Airbase",
       "elev": "36 ft",
@@ -320,8 +350,10 @@
     "name": "Amman Civil Airport",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2421,
-    "posy": 2059,
+    "pos": {
+      "x": 1985486.754,
+      "y": 1670392.166
+    },
     "details": {
       "name": "Amman Civil Airport",
       "elev": "2496 ft",
@@ -341,8 +373,10 @@
     "name": "An Nasariyah Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 2737,
-    "posy": 1187,
+    "pos": {
+      "x": 2245136.487,
+      "y": 2386169.02
+    },
     "details": {
       "name": "An Nasariyah Airbase",
       "elev": "2785 ft",
@@ -362,8 +396,10 @@
     "name": "Aqaba INT Airport",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2055,
-    "posy": 3107,
+    "pos": {
+      "x": 1685388.204,
+      "y": 811020.995
+    },
     "details": {
       "name": "Aqaba INT Airport",
       "elev": "147 ft",
@@ -383,8 +419,10 @@
     "name": "Ar Rutbah South Airstrip",
     "country": "Iraq",
     "type": "Airstrip",
-    "posx": 4052,
-    "posy": 1627,
+    "pos": {
+      "x": 3323167.451,
+      "y": 2024971.034
+    },
     "details": {
       "name": "Ar Rutbah South Airstrip",
       "elev": "2378 ft",
@@ -404,8 +442,10 @@
     "name": "As Salihiya Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 917,
-    "posy": 2567,
+    "pos": {
+      "x": 752361.824,
+      "y": 1253785.46
+    },
     "details": {
       "name": "As Salihiya Airbase",
       "elev": "29 ft",
@@ -425,8 +465,10 @@
     "name": "As Suwayda Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2577,
-    "posy": 1735,
+    "pos": {
+      "x": 2113924.075,
+      "y": 1936821.572
+    },
     "details": {
       "name": "As Suwayda Airbase",
       "elev": "2398 ft",
@@ -446,8 +488,10 @@
     "name": "At-Tawrah Airstrip",
     "country": "Yemen",
     "type": "Airstrip",
-    "posx": 3233,
-    "posy": 325,
+    "pos": {
+      "x": 2651854.005,
+      "y": 3093158.855
+    },
     "details": {
       "name": "At-Tawrah Airstrip",
       "elev": "1118 ft",
@@ -467,8 +511,10 @@
     "name": "Ben Gurion INT Airport",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2005,
-    "posy": 2044,
+    "pos": {
+      "x": 1644273.643,
+      "y": 1682964.254
+    },
     "details": {
       "name": "Ben Gurion INT Airport",
       "elev": "121 ft",
@@ -488,8 +534,10 @@
     "name": "Beni Suef Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 497,
-    "posy": 3262,
+    "pos": {
+      "x": 407606.404,
+      "y": 684197.288
+    },
     "details": {
       "name": "Beni Suef Airbase",
       "elev": "95 ft",
@@ -509,8 +557,10 @@
     "name": "Bilbays 2 Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 771,
-    "posy": 2729,
+    "pos": {
+      "x": 632412.932,
+      "y": 1121490.799
+    },
     "details": {
       "name": "Bilbays 2 Airbase",
       "elev": "144 ft",
@@ -530,8 +580,10 @@
     "name": "Bilbays Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 742,
-    "posy": 2736,
+    "pos": {
+      "x": 608616.661,
+      "y": 1115737.621
+    },
     "details": {
       "name": "Bilbays Airbase",
       "elev": "91 ft",
@@ -551,8 +603,10 @@
     "name": "Bir Gifgafa Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1338,
-    "posy": 2748,
+    "pos": {
+      "x": 1097409.152,
+      "y": 1105884.569
+    },
     "details": {
       "name": "Bir Gifgafa Airbase",
       "elev": "1046 ft",
@@ -572,8 +626,10 @@
     "name": "Bir Hassana Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 1426,
-    "posy": 2798,
+    "pos": {
+      "x": 1169312.863,
+      "y": 1064353.504
+    },
     "details": {
       "name": "Bir Hassana Airbase",
       "elev": "1676 ft",
@@ -593,8 +649,10 @@
     "name": "Borg El Arab Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 18,
-    "posy": 2480,
+    "pos": {
+      "x": 15140.388,
+      "y": 1325692.475
+    },
     "details": {
       "name": "Borg El Arab Airbase",
       "elev": "144 ft",
@@ -614,8 +672,10 @@
     "name": "Cairo Almaza Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 644,
-    "posy": 2870,
+    "pos": {
+      "x": 528591.726,
+      "y": 1005281.032
+    },
     "details": {
       "name": "Cairo Almaza Airbase",
       "elev": "246 ft",
@@ -635,8 +695,10 @@
     "name": "Cairo INT Airfield",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 665,
-    "posy": 2859,
+    "pos": {
+      "x": 545529.548,
+      "y": 1014330.506
+    },
     "details": {
       "name": "Cairo INT Airfield",
       "elev": "298 ft",
@@ -656,8 +718,10 @@
     "name": "Cairo West Airbase",
     "country": "United States",
     "type": "Airbase",
-    "posx": 473,
-    "posy": 2855,
+    "pos": {
+      "x": 388264.352,
+      "y": 1017968.032
+    },
     "details": {
       "name": "Cairo West Airbase",
       "elev": "485 ft",
@@ -677,8 +741,10 @@
     "name": "Damascus INTL Airport",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2613,
-    "posy": 1419,
+    "pos": {
+      "x": 2143463.714,
+      "y": 2195949.8
+    },
     "details": {
       "name": "Damascus INTL Airport",
       "elev": "2001 ft",
@@ -698,8 +764,10 @@
     "name": "Deir Ez Zor Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 3932,
-    "posy": 542,
+    "pos": {
+      "x": 3225105.979,
+      "y": 2915026.353
+    },
     "details": {
       "name": "Deir Ez Zor Airbase",
       "elev": "675 ft",
@@ -719,8 +787,10 @@
     "name": "Dumyar Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 2697,
-    "posy": 1327,
+    "pos": {
+      "x": 2212379.329,
+      "y": 2271418.968
+    },
     "details": {
       "name": "Dumyar Airbase",
       "elev": "2066 ft",
@@ -740,8 +810,10 @@
     "name": "Eilat old Airport",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2032,
-    "posy": 3130,
+    "pos": {
+      "x": 1666928.507,
+      "y": 792554.691
+    },
     "details": {
       "name": "Eilat old Airport",
       "elev": "42 ft",
@@ -761,8 +833,10 @@
     "name": "Ein Shemer Airstrip",
     "country": "Israel",
     "type": "Airstrip",
-    "posx": 2051,
-    "posy": 1853,
+    "pos": {
+      "x": 1682058.977,
+      "y": 1840055.556
+    },
     "details": {
       "name": "Ein Shemer Airstrip",
       "elev": "95 ft",
@@ -782,8 +856,10 @@
     "name": "El Arish Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1604,
-    "posy": 2457,
+    "pos": {
+      "x": 1315485.179,
+      "y": 1344398.21
+    },
     "details": {
       "name": "El Arish Airbase",
       "elev": "114 ft",
@@ -803,8 +879,10 @@
     "name": "El Firouz Airfield",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 1287,
-    "posy": 2820,
+    "pos": {
+      "x": 1055320.446,
+      "y": 1046228.331
+    },
     "details": {
       "name": "El Firouz Airfield",
       "elev": "1952 ft",
@@ -824,8 +902,10 @@
     "name": "El Gora Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1722,
-    "posy": 2453,
+    "pos": {
+      "x": 1412569.303,
+      "y": 1347310.834
+    },
     "details": {
       "name": "El Gora Airbase",
       "elev": "318 ft",
@@ -845,8 +925,10 @@
     "name": "El Tor Airfield",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1516,
-    "posy": 3725,
+    "pos": {
+      "x": 1243446.937,
+      "y": 303926.235
+    },
     "details": {
       "name": "El Tor Airfield",
       "elev": "91 ft",
@@ -866,8 +948,10 @@
     "name": "Ercan Uluslararas Airport",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 1502,
-    "posy": 642,
+    "pos": {
+      "x": 1231701.349,
+      "y": 2832918.749
+    },
     "details": {
       "name": "Ercan Uluslararas Airport",
       "elev": "347 ft",
@@ -887,8 +971,10 @@
     "name": "Faid Airbase",
     "country": "Germany",
     "type": "Airbase",
-    "posx": 999,
-    "posy": 2776,
+    "pos": {
+      "x": 819230.754,
+      "y": 1082541.037
+    },
     "details": {
       "name": "Faid Airbase",
       "elev": "52 ft",
@@ -908,8 +994,10 @@
     "name": "Fayoum Airport",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 455,
-    "posy": 3103,
+    "pos": {
+      "x": 373556.918,
+      "y": 814317.341
+    },
     "details": {
       "name": "Fayoum Airport",
       "elev": "6 ft",
@@ -929,8 +1017,10 @@
     "name": "Gaza City Heliport",
     "country": "Palestinian Territories",
     "type": "Airbase",
-    "posx": 1834,
-    "posy": 2259,
+    "pos": {
+      "x": 1504106.95,
+      "y": 1506553.822
+    },
     "details": {
       "name": "Gaza City Heliport",
       "elev": "104 ft",
@@ -950,8 +1040,10 @@
     "name": "Gaza International Airport",
     "country": "Turkmenistan",
     "type": "Airbase",
-    "posx": 1771,
-    "posy": 2384,
+    "pos": {
+      "x": 1452585.099,
+      "y": 1404579.257
+    },
     "details": {
       "name": "Gaza International Airport",
       "elev": "308 ft",
@@ -971,8 +1063,10 @@
     "name": "Gazipasa Alanya Airport",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 1075,
-    "posy": 128,
+    "pos": {
+      "x": 881934.146,
+      "y": 3254484.662
+    },
     "details": {
       "name": "Gazipasa Alanya Airport",
       "elev": "59 ft",
@@ -992,8 +1086,10 @@
     "name": "Gebeil El Seikh Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 769,
-    "posy": 2652,
+    "pos": {
+      "x": 630825.443,
+      "y": 1184138.337
+    },
     "details": {
       "name": "Gebeil El Seikh Airbase",
       "elev": "39 ft",
@@ -1013,8 +1109,10 @@
     "name": "Gebel El Basur Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 343,
-    "posy": 2663,
+    "pos": {
+      "x": 281720.757,
+      "y": 1175006.883
+    },
     "details": {
       "name": "Gebel El Basur Airbase",
       "elev": "85 ft",
@@ -1034,8 +1132,10 @@
     "name": "Gecitakale Gazimagusa VORTAC (GKE) 114X Nav Beacon",
     "country": "n/a",
     "type": "VORTAC",
-    "posx": 1598,
-    "posy": 610,
+    "pos": {
+      "x": 1310611.153,
+      "y": 2858902.741
+    },
     "details": {
       "name": "Gecitakale Gazimagusa VORTAC (GKE) 114X Nav Beacon",
       "elev": "",
@@ -1055,8 +1155,10 @@
     "name": "Gecitkale Airfield",
     "country": "Cyprus",
     "type": "Airbase",
-    "posx": 1578,
-    "posy": 606,
+    "pos": {
+      "x": 1294358.797,
+      "y": 2862231.969
+    },
     "details": {
       "name": "Gecitkale Airfield",
       "elev": "164 ft",
@@ -1076,8 +1178,10 @@
     "name": "Gurayat Domestic Airport",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 2914,
-    "posy": 2300,
+    "pos": {
+      "x": 2390223.15,
+      "y": 1473419.498
+    },
     "details": {
       "name": "Gurayat Domestic Airport",
       "elev": "1679 ft",
@@ -1097,8 +1201,10 @@
     "name": "H 3 North-West Airbase",
     "country": "United States",
     "type": "Airbase",
-    "posx": 3763,
-    "posy": 1534,
+    "pos": {
+      "x": 3086634.93,
+      "y": 2101466.798
+    },
     "details": {
       "name": "H 3 North-West Airbase",
       "elev": "2565 ft",
@@ -1118,8 +1224,10 @@
     "name": "H3 Airbase",
     "country": "Germany",
     "type": "Airbase",
-    "posx": 3824,
-    "posy": 1597,
+    "pos": {
+      "x": 3136372.551,
+      "y": 2049734.843
+    },
     "details": {
       "name": "H3 Airbase",
       "elev": "2572 ft",
@@ -1139,8 +1247,10 @@
     "name": "H3 Highway Strip",
     "country": "Germany",
     "type": "Airstrip",
-    "posx": 3661,
-    "posy": 1640,
+    "pos": {
+      "x": 3002401.865,
+      "y": 2014222.613
+    },
     "details": {
       "name": "H3 Highway Strip",
       "elev": "2703 ft",
@@ -1160,8 +1270,10 @@
     "name": "H3 South-West Airbase",
     "country": "Malaysia",
     "type": "Airbase",
-    "posx": 3775,
-    "posy": 1681,
+    "pos": {
+      "x": 3096675.064,
+      "y": 1981068.47
+    },
     "details": {
       "name": "H3 South-West Airbase",
       "elev": "2664 ft",
@@ -1181,8 +1293,10 @@
     "name": "H4 Airbase",
     "country": "Japan",
     "type": "Airbase",
-    "posx": 3249,
-    "posy": 1791,
+    "pos": {
+      "x": 2664537.702,
+      "y": 1890544.306
+    },
     "details": {
       "name": "H4 Airbase",
       "elev": "2253 ft",
@@ -1202,8 +1316,10 @@
     "name": "Haifa Airport",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2064,
-    "posy": 1688,
+    "pos": {
+      "x": 1692948.534,
+      "y": 1974964.552
+    },
     "details": {
       "name": "Haifa Airport",
       "elev": "22 ft",
@@ -1223,8 +1339,10 @@
     "name": "Hamah Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2672,
-    "posy": 660,
+    "pos": {
+      "x": 2191508.694,
+      "y": 2818329.405
+    },
     "details": {
       "name": "Hamah Airbase",
       "elev": "984 ft",
@@ -1244,8 +1362,10 @@
     "name": "Hatay Airfield",
     "country": "Turkey",
     "type": "Airbase",
-    "posx": 2508,
-    "posy": 112,
+    "pos": {
+      "x": 2057278.957,
+      "y": 3267545.525
+    },
     "details": {
       "name": "Hatay Airfield",
       "elev": "252 ft",
@@ -1265,8 +1385,10 @@
     "name": "Hatzerim Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 1915,
-    "posy": 2386,
+    "pos": {
+      "x": 1570362.586,
+      "y": 1402739.173
+    },
     "details": {
       "name": "Hatzerim Airbase",
       "elev": "692 ft",
@@ -1286,8 +1408,10 @@
     "name": "Hatzor Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 1946,
-    "posy": 2154,
+    "pos": {
+      "x": 1595720.07,
+      "y": 1592440.09
+    },
     "details": {
       "name": "Hatzor Airbase",
       "elev": "124 ft",
@@ -1307,8 +1431,10 @@
     "name": "Herzeliya Airstrip",
     "country": "Israel",
     "type": "Airstrip",
-    "posx": 1985,
-    "posy": 1968,
+    "pos": {
+      "x": 1628172.233,
+      "y": 1745470.855
+    },
     "details": {
       "name": "Herzeliya Airstrip",
       "elev": "101 ft",
@@ -1328,8 +1454,10 @@
     "name": "Hulwan Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 630,
-    "posy": 2990,
+    "pos": {
+      "x": 516327.886,
+      "y": 906871.823
+    },
     "details": {
       "name": "Hulwan Airbase",
       "elev": "121 ft",
@@ -1349,8 +1477,10 @@
     "name": "Inshas Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 683,
-    "posy": 2765,
+    "pos": {
+      "x": 559889.32,
+      "y": 1091426.451
+    },
     "details": {
       "name": "Inshas Airbase",
       "elev": "127 ft",
@@ -1370,8 +1500,10 @@
     "name": "Jinkalis New Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 208,
-    "posy": 2532,
+    "pos": {
+      "x": 170194.881,
+      "y": 1283042.926
+    },
     "details": {
       "name": "Jinkalis New Airbase",
       "elev": "3 ft",
@@ -1391,8 +1523,10 @@
     "name": "Jirah Airbase",
     "country": "Yemen",
     "type": "Airbase",
-    "posx": 3105,
-    "posy": 213,
+    "pos": {
+      "x": 2546888.039,
+      "y": 3185162.254
+    },
     "details": {
       "name": "Jirah Airbase",
       "elev": "1177 ft",
@@ -1412,8 +1546,10 @@
     "name": "Kalhalhak Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 2629,
-    "posy": 1571,
+    "pos": {
+      "x": 2156573.624,
+      "y": 2071310.561
+    },
     "details": {
       "name": "Kalhalhak Airbase",
       "elev": "2358 ft",
@@ -1433,8 +1569,10 @@
     "name": "Kastelorizo Airstrip",
     "country": "Greece",
     "type": "Airstrip",
-    "posx": 97,
-    "posy": 156,
+    "pos": {
+      "x": 79906.871,
+      "y": 3231977.441
+    },
     "details": {
       "name": "Kastelorizo Airstrip",
       "elev": "793 ft",
@@ -1454,8 +1592,10 @@
     "name": "King Abdullah II Airbase",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2507,
-    "posy": 2046,
+    "pos": {
+      "x": 2056186.698,
+      "y": 1681780.306
+    },
     "details": {
       "name": "King Abdullah II Airbase",
       "elev": "2342 ft",
@@ -1475,8 +1615,10 @@
     "name": "King Faisal Bin Abdulaziz Airbase",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 2489,
-    "posy": 2780,
+    "pos": {
+      "x": 2041728.481,
+      "y": 1079221.618
+    },
     "details": {
       "name": "King Faisal Bin Abdulaziz Airbase",
       "elev": "2854 ft",
@@ -1496,8 +1638,10 @@
     "name": "King Hussein Airbase",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2522,
-    "posy": 1887,
+    "pos": {
+      "x": 2068729.258,
+      "y": 1811654.221
+    },
     "details": {
       "name": "King Hussein Airbase",
       "elev": "2221 ft",
@@ -1517,8 +1661,10 @@
     "name": "Kingsfield Airstrip",
     "country": "United Kingdom",
     "type": "Airstrip",
-    "posx": 1577,
-    "posy": 710,
+    "pos": {
+      "x": 1293410.878,
+      "y": 2777582.1
+    },
     "details": {
       "name": "Kingsfield Airstrip",
       "elev": "295 ft",
@@ -1538,8 +1684,10 @@
     "name": "Kirban Airbase",
     "country": "Australia",
     "type": "Airbase",
-    "posx": 1083,
-    "posy": 2816,
+    "pos": {
+      "x": 888271.09,
+      "y": 1049626.426
+    },
     "details": {
       "name": "Kirban Airbase",
       "elev": "22 ft",
@@ -1559,8 +1707,10 @@
     "name": "Kiryat Shmona Airstrip",
     "country": "Israel",
     "type": "Airstrip",
-    "posx": 2270,
-    "posy": 1508,
+    "pos": {
+      "x": 1862074.103,
+      "y": 2122609.496
+    },
     "details": {
       "name": "Kiryat Shmona Airstrip",
       "elev": "337 ft",
@@ -1580,8 +1730,10 @@
     "name": "Larnaca International Airport",
     "country": "Cyprus",
     "type": "Airbase",
-    "posx": 1543,
-    "posy": 770,
+    "pos": {
+      "x": 1265593.408,
+      "y": 2727815.05
+    },
     "details": {
       "name": "Larnaca International Airport",
       "elev": "14 ft",
@@ -1601,8 +1753,10 @@
     "name": "Lattakia AirBase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2393,
-    "posy": 538,
+    "pos": {
+      "x": 1962569.535,
+      "y": 2918660.677
+    },
     "details": {
       "name": "Lattakia AirBase",
       "elev": "164 ft",
@@ -1622,8 +1776,10 @@
     "name": "Marj Ruhayyil Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2589,
-    "posy": 1475,
+    "pos": {
+      "x": 2123787.037,
+      "y": 2150020.271
+    },
     "details": {
       "name": "Marj Ruhayyil Airbase",
       "elev": "2162 ft",
@@ -1643,8 +1799,10 @@
     "name": "Megiddo Airfield",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2134,
-    "posy": 1783,
+    "pos": {
+      "x": 1749997.244,
+      "y": 1896986.351
+    },
     "details": {
       "name": "Megiddo Airfield",
       "elev": "177 ft",
@@ -1664,8 +1822,10 @@
     "name": "Menagh Airstrip",
     "country": "United Kingdom",
     "type": "Airstrip",
-    "posx": 2781,
-    "posy": 35,
+    "pos": {
+      "x": 2281071.927,
+      "y": 3330616.273
+    },
     "details": {
       "name": "Menagh Airstrip",
       "elev": "1601 ft",
@@ -1685,8 +1845,10 @@
     "name": "Mezze Airbase",
     "country": "France",
     "type": "Airbase",
-    "posx": 2501,
-    "posy": 1391,
+    "pos": {
+      "x": 2051620.871,
+      "y": 2218896.647
+    },
     "details": {
       "name": "Mezze Airbase",
       "elev": "2378 ft",
@@ -1706,8 +1868,10 @@
     "name": "Negev Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2057,
-    "posy": 2408,
+    "pos": {
+      "x": 1687395.551,
+      "y": 1384719.002
+    },
     "details": {
       "name": "Negev Airbase",
       "elev": "1358 ft",
@@ -1727,8 +1891,10 @@
     "name": "Neom Bay INTL Airport",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 2164,
-    "posy": 3856,
+    "pos": {
+      "x": 1774990.675,
+      "y": 197169.433
+    },
     "details": {
       "name": "Neom Bay INTL Airport",
       "elev": "36 ft",
@@ -1748,8 +1914,10 @@
     "name": "Nevatim Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2053,
-    "posy": 2400,
+    "pos": {
+      "x": 1683876.138,
+      "y": 1391295.378
+    },
     "details": {
       "name": "Nevatim Airbase",
       "elev": "1269 ft",
@@ -1769,8 +1937,10 @@
     "name": "Nicosia International Airport",
     "country": "Cyprus",
     "type": "Airbase",
-    "posx": 1418,
-    "posy": 646,
+    "pos": {
+      "x": 1163139.978,
+      "y": 2830071.589
+    },
     "details": {
       "name": "Nicosia International Airport",
       "elev": "728 ft",
@@ -1790,8 +1960,10 @@
     "name": "Ovda Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2021,
-    "posy": 2962,
+    "pos": {
+      "x": 1657626.489,
+      "y": 930146.588
+    },
     "details": {
       "name": "Ovda Airbase",
       "elev": "1466 ft",
@@ -1811,8 +1983,10 @@
     "name": "Palmachim Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 1931,
-    "posy": 2091,
+    "pos": {
+      "x": 1584128.632,
+      "y": 1644132.607
+    },
     "details": {
       "name": "Palmachim Airbase",
       "elev": "39 ft",
@@ -1832,8 +2006,10 @@
     "name": "Palmyra Airbase",
     "country": "United States",
     "type": "Airbase",
-    "posx": 3265,
-    "posy": 894,
+    "pos": {
+      "x": 2678005.159,
+      "y": 2626188.121
+    },
     "details": {
       "name": "Palmyra Airbase",
       "elev": "1299 ft",
@@ -1853,8 +2029,10 @@
     "name": "Paphos International Airport",
     "country": "Cyprus",
     "type": "Airbase",
-    "posx": 1127,
-    "posy": 829,
+    "pos": {
+      "x": 923986.716,
+      "y": 2679868.365
+    },
     "details": {
       "name": "Paphos International Airport",
       "elev": "49 ft",
@@ -1874,8 +2052,10 @@
     "name": "Port Said Airport",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 997,
-    "posy": 2354,
+    "pos": {
+      "x": 817662.934,
+      "y": 1428772.412
+    },
     "details": {
       "name": "Port Said Airport",
       "elev": "19 ft",
@@ -1895,8 +2075,10 @@
     "name": "Prince Hassan Airbase",
     "country": "India",
     "type": "Airbase",
-    "posx": 2859,
-    "posy": 1969,
+    "pos": {
+      "x": 2344874.184,
+      "y": 1744677.086
+    },
     "details": {
       "name": "Prince Hassan Airbase",
       "elev": "2198 ft",
@@ -1916,8 +2098,10 @@
     "name": "Quaswyina Airfield",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 563,
-    "posy": 2652,
+    "pos": {
+      "x": 461516.146,
+      "y": 1184305.699
+    },
     "details": {
       "name": "Quaswyina Airfield",
       "elev": "26 ft",
@@ -1937,8 +2121,10 @@
     "name": "Queen Alia INT Airport",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2423,
-    "posy": 2169,
+    "pos": {
+      "x": 1987562.966,
+      "y": 1580310.73
+    },
     "details": {
       "name": "Queen Alia INT Airport",
       "elev": "2365 ft",
@@ -1958,8 +2144,10 @@
     "name": "Rafic Hariri Intl Airport",
     "country": "Lebanon",
     "type": "Airbase",
-    "posx": 2230,
-    "posy": 1242,
+    "pos": {
+      "x": 1828683.931,
+      "y": 2341289.108
+    },
     "details": {
       "name": "Rafic Hariri Intl Airport",
       "elev": "29 ft",
@@ -1979,8 +2167,10 @@
     "name": "Ramat David Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2115,
-    "posy": 1752,
+    "pos": {
+      "x": 1734755.266,
+      "y": 1922917.692
+    },
     "details": {
       "name": "Ramat David Airbase",
       "elev": "160 ft",
@@ -2000,8 +2190,10 @@
     "name": "Ramon Airbase",
     "country": "Italy",
     "type": "Airbase",
-    "posx": 1921,
-    "posy": 2590,
+    "pos": {
+      "x": 1575758.117,
+      "y": 1235178.12
+    },
     "details": {
       "name": "Ramon Airbase",
       "elev": "2073 ft",
@@ -2021,8 +2213,10 @@
     "name": "Ramon-Eilat INTL Airport",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 2053,
-    "posy": 3057,
+    "pos": {
+      "x": 1684000.859,
+      "y": 852165.084
+    },
     "details": {
       "name": "Ramon-Eilat INTL Airport",
       "elev": "275 ft",
@@ -2042,8 +2236,10 @@
     "name": "Ras Jimsha New Airstrip",
     "country": "n/a",
     "type": "Airstrip",
-    "posx": 1467,
-    "posy": 3891,
+    "pos": {
+      "x": 1203546.053,
+      "y": 168338.419
+    },
     "details": {
       "name": "Ras Jimsha New Airstrip",
       "elev": "45 ft",
@@ -2063,8 +2259,10 @@
     "name": "Ras Shukhayar New Airstrip",
     "country": "n/a",
     "type": "Airstrip",
-    "posx": 1344,
-    "posy": 3728,
+    "pos": {
+      "x": 1102069.97,
+      "y": 301492.476
+    },
     "details": {
       "name": "Ras Shukhayar New Airstrip",
       "elev": "39 ft",
@@ -2084,8 +2282,10 @@
     "name": "Ras Sudr Airstrip",
     "country": "Egypt",
     "type": "Airstrip",
-    "posx": 1152,
-    "posy": 3104,
+    "pos": {
+      "x": 945195.078,
+      "y": 813697.44
+    },
     "details": {
       "name": "Ras Sudr Airstrip",
       "elev": "16 ft",
@@ -2105,8 +2305,10 @@
     "name": "Rene Mouawad Airport",
     "country": "Lebanon",
     "type": "Airbase",
-    "posx": 2419,
-    "posy": 898,
+    "pos": {
+      "x": 1984053.364,
+      "y": 2623045.875
+    },
     "details": {
       "name": "Rene Mouawad Airport",
       "elev": "16 ft",
@@ -2126,8 +2328,10 @@
     "name": "Riyaq Airbase",
     "country": "Uganda",
     "type": "Airbase",
-    "posx": 2414,
-    "posy": 1225,
+    "pos": {
+      "x": 1979773.014,
+      "y": 2354812.419
+    },
     "details": {
       "name": "Riyaq Airbase",
       "elev": "2988 ft",
@@ -2147,8 +2351,10 @@
     "name": "Rosh Pina Airstrip",
     "country": "Israel",
     "type": "Airstrip",
-    "posx": 2262,
-    "posy": 1613,
+    "pos": {
+      "x": 1855074.717,
+      "y": 2036936.435
+    },
     "details": {
       "name": "Rosh Pina Airstrip",
       "elev": "875 ft",
@@ -2168,8 +2374,10 @@
     "name": "Ruwayshid Airbase",
     "country": "United Arab Emirates",
     "type": "Airbase",
-    "posx": 3600,
-    "posy": 1840,
+    "pos": {
+      "x": 2952933.105,
+      "y": 1850794.368
+    },
     "details": {
       "name": "Ruwayshid Airbase",
       "elev": "2975 ft",
@@ -2189,8 +2397,10 @@
     "name": "Sayqal Airbase",
     "country": "Uzbekistan",
     "type": "Airbase",
-    "posx": 2869,
-    "posy": 1291,
+    "pos": {
+      "x": 2353392.242,
+      "y": 2300905.956
+    },
     "details": {
       "name": "Sayqal Airbase",
       "elev": "2283 ft",
@@ -2210,8 +2420,10 @@
     "name": "Sde Teiman Airstrip",
     "country": "Israel",
     "type": "Airstrip",
-    "posx": 1942,
-    "posy": 2364,
+    "pos": {
+      "x": 1593174.802,
+      "y": 1420506.899
+    },
     "details": {
       "name": "Sde Teiman Airstrip",
       "elev": "659 ft",
@@ -2231,8 +2443,10 @@
     "name": "Shaheed Mwaffaq Airbase",
     "country": "n/a",
     "type": "Airbase",
-    "posx": 2724,
-    "posy": 2120,
+    "pos": {
+      "x": 2234355.235,
+      "y": 1620841.425
+    },
     "details": {
       "name": "Shaheed Mwaffaq Airbase",
       "elev": "1686 ft",
@@ -2252,8 +2466,10 @@
     "name": "Sharm El Sheikh INTL Airfield",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 1809,
-    "posy": 3830,
+    "pos": {
+      "x": 1483725.19,
+      "y": 218013.717
+    },
     "details": {
       "name": "Sharm El Sheikh INTL Airfield",
       "elev": "141 ft",
@@ -2273,8 +2489,10 @@
     "name": "Shayrat Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 2749,
-    "posy": 936,
+    "pos": {
+      "x": 2254579.442,
+      "y": 2591564.754
+    },
     "details": {
       "name": "Shayrat Airbase",
       "elev": "2650 ft",
@@ -2294,8 +2512,10 @@
     "name": "Sphinx INTL Airport",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 465,
-    "posy": 2858,
+    "pos": {
+      "x": 381799.509,
+      "y": 1015645.781
+    },
     "details": {
       "name": "Sphinx INTL Airport",
       "elev": "498 ft",
@@ -2315,8 +2535,10 @@
     "name": "St Cathrine Airfield",
     "country": "Australia",
     "type": "Airbase",
-    "posx": 1681,
-    "posy": 3514,
+    "pos": {
+      "x": 1379133.186,
+      "y": 477105.91
+    },
     "details": {
       "name": "St Cathrine Airfield",
       "elev": "4347 ft",
@@ -2336,8 +2558,10 @@
     "name": "T2 Airstrip",
     "country": "Italy",
     "type": "Airstrip",
-    "posx": 3945,
-    "posy": 938,
+    "pos": {
+      "x": 3235798.746,
+      "y": 2590393.618
+    },
     "details": {
       "name": "T2 Airstrip",
       "elev": "1266 ft",
@@ -2357,8 +2581,10 @@
     "name": "Tabe INT Airport",
     "country": "Philippines",
     "type": "Airbase",
-    "posx": 1961,
-    "posy": 3114,
+    "pos": {
+      "x": 1608515.275,
+      "y": 805126.83
+    },
     "details": {
       "name": "Tabe INT Airport",
       "elev": "2421 ft",
@@ -2378,8 +2604,10 @@
     "name": "Tabuk Airbase",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 2681,
-    "posy": 3654,
+    "pos": {
+      "x": 2199118.272,
+      "y": 362319.698
+    },
     "details": {
       "name": "Tabuk Airbase",
       "elev": "2522 ft",
@@ -2399,8 +2627,10 @@
     "name": "Taftanaz Military Airstrip",
     "country": "n/a",
     "type": "Airstrip",
-    "posx": 2688,
-    "posy": 279,
+    "pos": {
+      "x": 2204891.069,
+      "y": 3130537.494
+    },
     "details": {
       "name": "Taftanaz Military Airstrip",
       "elev": "1023 ft",
@@ -2420,8 +2650,10 @@
     "name": "Tanta Airbase",
     "country": "Australia",
     "type": "Airbase",
-    "posx": 493,
-    "posy": 2535,
+    "pos": {
+      "x": 404188.641,
+      "y": 1280084.357
+    },
     "details": {
       "name": "Tanta Airbase",
       "elev": "29 ft",
@@ -2441,8 +2673,10 @@
     "name": "Tel Nof Airbase",
     "country": "Israel",
     "type": "Airbase",
-    "posx": 1980,
-    "posy": 2124,
+    "pos": {
+      "x": 1623944.334,
+      "y": 1617774.652
+    },
     "details": {
       "name": "Tel Nof Airbase",
       "elev": "203 ft",
@@ -2462,8 +2696,10 @@
     "name": "Tiran Airstrip",
     "country": "Albania",
     "type": "Airstrip",
-    "posx": 1889,
-    "posy": 3846,
+    "pos": {
+      "x": 1549042.716,
+      "y": 205110.269
+    },
     "details": {
       "name": "Tiran Airstrip",
       "elev": "10 ft",
@@ -2483,8 +2719,10 @@
     "name": "Tiyas T4 Airbase",
     "country": "Syria",
     "type": "Airbase",
-    "posx": 3014,
-    "posy": 917,
+    "pos": {
+      "x": 2472104.535,
+      "y": 2607590.691
+    },
     "details": {
       "name": "Tiyas T4 Airbase",
       "elev": "1791 ft",
@@ -2504,8 +2742,10 @@
     "name": "Turaif Airport",
     "country": "Saudi Arabia",
     "type": "Airbase",
-    "posx": 3465,
-    "posy": 2160,
+    "pos": {
+      "x": 2841709.071,
+      "y": 1588261.439
+    },
     "details": {
       "name": "Turaif Airport",
       "elev": "2808 ft",
@@ -2525,8 +2765,10 @@
     "name": "Wadi Abu Rish Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 760,
-    "posy": 3372,
+    "pos": {
+      "x": 623222.422,
+      "y": 594089.677
+    },
     "details": {
       "name": "Wadi Abu Rish Airbase",
       "elev": "1053 ft",
@@ -2546,8 +2788,10 @@
     "name": "Wadi Al Asalah Airstrip",
     "country": "Yemen",
     "type": "Airstrip",
-    "posx": 2018,
-    "posy": 3761,
+    "pos": {
+      "x": 1655586.311,
+      "y": 274554.008
+    },
     "details": {
       "name": "Wadi Al Asalah Airstrip",
       "elev": "85 ft",
@@ -2567,8 +2811,10 @@
     "name": "Wadi Al Jandali Airbase",
     "country": "Egypt",
     "type": "Airbase",
-    "posx": 826,
-    "posy": 2894,
+    "pos": {
+      "x": 677611.052,
+      "y": 985568.421
+    },
     "details": {
       "name": "Wadi Al Jandali Airbase",
       "elev": "813 ft",
@@ -2588,8 +2834,10 @@
     "name": "Wujah Al Hajar Airstrip",
     "country": "Lebanon",
     "type": "Airstrip",
-    "posx": 2299,
-    "posy": 1035,
+    "pos": {
+      "x": 1885339.059,
+      "y": 2510601.659
+    },
     "details": {
       "name": "Wujah Al Hajar Airstrip",
       "elev": "639 ft",
@@ -2609,8 +2857,10 @@
     "name": "Zamlat Alsaeada Highstrip",
     "country": "n/a",
     "type": "Airstrip",
-    "posx": 3094,
-    "posy": 1863,
+    "pos": {
+      "x": 2538068.288,
+      "y": 1831350.517
+    },
     "details": {
       "name": "Zamlat Alsaeada Highstrip",
       "elev": "2532 ft",
@@ -2630,8 +2880,10 @@
     "name": "Zarqa Airport",
     "country": "Jordan",
     "type": "Airbase",
-    "posx": 2480,
-    "posy": 2034,
+    "pos": {
+      "x": 2034158.341,
+      "y": 1690947.794
+    },
     "details": {
       "name": "Zarqa Airport",
       "elev": "2168 ft",
