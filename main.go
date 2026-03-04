@@ -8,9 +8,6 @@ import (
 	"strings"
 )
 
-const MapFeet = 3358699.5 // Falcon const
-const BmsMapScale = 1 / MapFeet * 1024000
-
 func main() {
 	parseCharts := flag.Bool("parse-charts", false, "Parse Charts")
 	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 8-bit grayscale PNG (1 unit = 100ft)")
@@ -90,7 +87,9 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	defer hmReader.Close()
+	defer func(hmReader *HeightmapReader) {
+		_ = hmReader.Close()
+	}(hmReader)
 
 	loader := DataLoader{}
 

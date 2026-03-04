@@ -21,7 +21,9 @@ func ParseCharts() error {
 	if err != nil {
 		return err
 	}
-	defer file.Close()
+	defer func(file *os.File) {
+		_ = file.Close()
+	}(file)
 
 	var charts []model.Chart
 	scanner := bufio.NewScanner(file)
@@ -67,7 +69,9 @@ func ParseCharts() error {
 	if err != nil {
 		return err
 	}
-	defer output.Close()
+	defer func(output *os.File) {
+		_ = output.Close()
+	}(output)
 
 	encoder := json.NewEncoder(output)
 	encoder.SetIndent("", "  ")
