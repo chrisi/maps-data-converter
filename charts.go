@@ -39,10 +39,7 @@ func ParseCharts() error {
 		if icao == "" {
 			station = matches[6]
 		}
-		key := icao
-		if icao == "" {
-			key = buildKeyName(station)
-		}
+		key := buildKeyName(station)
 		if key == "" {
 			fmt.Printf("invalid chart: %s\n", line)
 		}
@@ -58,6 +55,7 @@ func ParseCharts() error {
 			Icao:    icao,
 			Path:    matches[2] + "/" + matches[3],
 			File:    matches[7],
+			Name:    sanitizeChartName(matches[3], matches[7]),
 		})
 	}
 
@@ -97,4 +95,24 @@ func sanitizeCountryName(country string) (string, string) {
 		return matches[4], ""
 	}
 	return matches[2], matches[3]
+}
+
+func sanitizeChartName(path, filename string) string {
+	name := strings.ReplaceAll(filename, path, "")
+	name = TrimFromFirstDot(name)
+	name = strings.ReplaceAll(name, "_", " ")
+	name = strings.ReplaceAll(name, " - ", " ")
+	name = strings.TrimSpace(name)
+	if name == "" {
+		name = "noname"
+		fmt.Printf("invalid chart: %s\n", filename)
+	}
+	return name
+}
+
+func TrimFromFirstDot(name string) string {
+	if i := strings.IndexByte(name, '.'); i >= 0 {
+		return name[:i]
+	}
+	return name
 }

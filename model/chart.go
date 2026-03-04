@@ -9,4 +9,5 @@ type Chart struct {
 	Icao    string `json:"icao"`
 	Path    string `json:"path"`
 	File    string `json:"file"`
+	Name    string `json:"name"`
 }
