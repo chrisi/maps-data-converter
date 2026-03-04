@@ -15,7 +15,7 @@ import (
 var reCharts = regexp.MustCompile(`^./maps/([^/]+)/[^/]+/([^/]+)/(([^/]+)\s+\(([A-Z]{4})\)|([^/]+))/([^/\n]+\..+)$`)
 
 var remove = []string{
-	"(", ")", "_", "-", "'", "INT", "Int", "Intl", "MCAS", "AB", "AAF",
+	"(", ")", "_", "-", "'", "Intl", "INT", "Int", "MCAS", "AB", "AAF",
 	"Airstrips", "Airstrip", "Airport", "Range", "Highwaystrip", "Highway", "Strip", "Elite"}
 
 func ParseCharts() error {

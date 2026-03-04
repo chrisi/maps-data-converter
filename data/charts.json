@@ -11792,7 +11792,7 @@
     "name": "APC RWY29"
   },
   {
-    "key": "YASSERARAFATL",
+    "key": "YASSERARAFAT",
     "theater": "03_ITO",
     "code": "",
     "country": "PA",
@@ -11803,7 +11803,7 @@
     "name": "Airport"
   },
   {
-    "key": "YASSERARAFATL",
+    "key": "YASSERARAFAT",
     "theater": "03_ITO",
     "code": "",
     "country": "PA",
@@ -11814,7 +11814,7 @@
     "name": "APC RWY18"
   },
   {
-    "key": "YASSERARAFATL",
+    "key": "YASSERARAFAT",
     "theater": "03_ITO",
     "code": "",
     "country": "PA",
@@ -12496,7 +12496,7 @@
     "name": "APC RWY20"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12507,7 +12507,7 @@
     "name": "ADC"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12518,7 +12518,7 @@
     "name": "ILS"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12529,7 +12529,7 @@
     "name": "SID"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12540,7 +12540,7 @@
     "name": "STAR"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12551,7 +12551,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12562,7 +12562,7 @@
     "name": "AGC"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12573,7 +12573,7 @@
     "name": "APC RWY06L"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12584,7 +12584,7 @@
     "name": "APC RWY06R"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12595,7 +12595,7 @@
     "name": "APC RWY24L"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12606,7 +12606,7 @@
     "name": "APC RWY24R"
   },
   {
-    "key": "CHEONGJUL",
+    "key": "CHEONGJU",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12892,7 +12892,7 @@
     "name": "EOR"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12903,7 +12903,7 @@
     "name": "ADC"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12914,7 +12914,7 @@
     "name": "ILS"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12925,7 +12925,7 @@
     "name": "SID"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12936,7 +12936,7 @@
     "name": "STAR"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12947,7 +12947,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12958,7 +12958,7 @@
     "name": "AGC"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12969,7 +12969,7 @@
     "name": "APC RWY18L"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12980,7 +12980,7 @@
     "name": "APC RWY18R"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -12991,7 +12991,7 @@
     "name": "APC RWY36L"
   },
   {
-    "key": "GIMHAEL",
+    "key": "GIMHAE",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13002,7 +13002,7 @@
     "name": "APC RWY36R"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13013,7 +13013,7 @@
     "name": "ADC"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13024,7 +13024,7 @@
     "name": "ILS"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13035,7 +13035,7 @@
     "name": "SID"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13046,7 +13046,7 @@
     "name": "STAR"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13057,7 +13057,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13068,7 +13068,7 @@
     "name": "AGC"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13079,7 +13079,7 @@
     "name": "APC RWY14L"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13090,7 +13090,7 @@
     "name": "APC RWY14R"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13101,7 +13101,7 @@
     "name": "APC RWY32L"
   },
   {
-    "key": "GIMPOL",
+    "key": "GIMPO",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13354,7 +13354,7 @@
     "name": "EOR"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13365,7 +13365,7 @@
     "name": "ADC"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13376,7 +13376,7 @@
     "name": "ILS"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13387,7 +13387,7 @@
     "name": "SID"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13398,7 +13398,7 @@
     "name": "STAR"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13409,7 +13409,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13420,7 +13420,7 @@
     "name": "AGC"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13431,7 +13431,7 @@
     "name": "APC RWY15L"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13442,7 +13442,7 @@
     "name": "APC RWY15R"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13453,7 +13453,7 @@
     "name": "APC RWY33L"
   },
   {
-    "key": "INCHEONL",
+    "key": "INCHEON",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13629,7 +13629,7 @@
     "name": "KOTAR Range Restrictions"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13640,7 +13640,7 @@
     "name": "ADC"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13651,7 +13651,7 @@
     "name": "ILS"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13662,7 +13662,7 @@
     "name": "SID"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13673,7 +13673,7 @@
     "name": "STAR"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13684,7 +13684,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13695,7 +13695,7 @@
     "name": "AGC"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -13706,7 +13706,7 @@
     "name": "APC RWY01"
   },
   {
-    "key": "MUANL",
+    "key": "MUAN",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14641,7 +14641,7 @@
     "name": "APC RWY22"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14652,7 +14652,7 @@
     "name": "ADC"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14663,7 +14663,7 @@
     "name": "ILS"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14674,7 +14674,7 @@
     "name": "SID"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14685,7 +14685,7 @@
     "name": "STAR"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14696,7 +14696,7 @@
     "name": "VISUAL"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14707,7 +14707,7 @@
     "name": "AGC"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -14718,7 +14718,7 @@
     "name": "APC RWY15"
   },
   {
-    "key": "YANGYANGL",
+    "key": "YANGYANG",
     "theater": "04_KTO",
     "code": "",
     "country": "South Korea (ROK-US)",
@@ -16148,7 +16148,7 @@
     "name": "APC RWY32"
   },
   {
-    "key": "SUNANL",
+    "key": "SUNAN",
     "theater": "04_KTO",
     "code": "DPRK",
     "country": "North Korea",
@@ -16159,7 +16159,7 @@
     "name": "AGC"
   },
   {
-    "key": "SUNANL",
+    "key": "SUNAN",
     "theater": "04_KTO",
     "code": "DPRK",
     "country": "North Korea",
@@ -16170,7 +16170,7 @@
     "name": "APC RWY01"
   },
   {
-    "key": "SUNANL",
+    "key": "SUNAN",
     "theater": "04_KTO",
     "code": "DPRK",
     "country": "North Korea",
@@ -16181,7 +16181,7 @@
     "name": "APC RWY17"
   },
   {
-    "key": "SUNANL",
+    "key": "SUNAN",
     "theater": "04_KTO",
     "code": "DPRK",
     "country": "North Korea",
@@ -16192,7 +16192,7 @@
     "name": "APC RWY19"
   },
   {
-    "key": "SUNANL",
+    "key": "SUNAN",
     "theater": "04_KTO",
     "code": "DPRK",
     "country": "North Korea",
