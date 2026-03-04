@@ -69,7 +69,7 @@ func (dl DataLoader) LoadPDX(filePath string) (*model.PDRecords, error) {
 	return &records, nil
 }
 
-func (dl DataLoader) LoadCharts(chartsDir, airbaseKey string) ([]*model.Chart, error) {
+func (dl DataLoader) LoadCharts(chartsDir, airbaseKey string) ([]*model.ChartRef, error) {
 	filePath := chartsDir + "\\" + strings.ToUpper(airbaseKey) + ".json"
 	data, err := os.ReadFile(filePath)
 	if err != nil {
@@ -79,7 +79,7 @@ func (dl DataLoader) LoadCharts(chartsDir, airbaseKey string) ([]*model.Chart, e
 		return nil, fmt.Errorf("read charts file %q: %w", filePath, err)
 	}
 
-	var charts []*model.Chart
+	var charts []*model.ChartRef
 	if err := json.Unmarshal(data, &charts); err != nil {
 		return nil, fmt.Errorf("unmarshal charts json: %w", err)
 	}

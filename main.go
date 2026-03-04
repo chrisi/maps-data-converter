@@ -12,10 +12,20 @@ const MapFeet = 3358699.5 // Falcon const
 const BmsMapScale = 1 / MapFeet * 1024000
 
 func main() {
+	parseCharts := flag.Bool("parse-charts", false, "Parse Charts")
 	exportHM := flag.Bool("export-heightmap", false, "Export a 1024x1024 max-downsampled heightmap as 8-bit grayscale PNG (1 unit = 100ft)")
 	exportOut := flag.String("export-out", "heightmap.png", "Output PNG path for -export-heightmap")
 	theater := flag.String("theater", "korea", "Theater key to use (korea|balkans|israel|hellas)")
 	flag.Parse()
+
+	if *parseCharts {
+		fmt.Println("Parsing Charts")
+		err := ParseCharts()
+		if err != nil {
+			panic(err)
+		}
+		return
+	}
 
 	configs := []model.Config{
 		{

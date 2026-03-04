@@ -11,20 +11,20 @@ type Station struct {
 }
 
 type Details struct {
-	Name   string   `json:"name"`
-	Elev   string   `json:"elev"`
-	Range  string   `json:"range"`
-	Rwy    string   `json:"rwy"`
-	Tcn    string   `json:"tcn"`
-	Atis   string   `json:"atis"`
-	Ops    string   `json:"ops"`
-	Gnd    string   `json:"gnd"`
-	Twr    string   `json:"twr"`
-	AppDep string   `json:"appdep"`
-	Charts []*Chart `json:"charts,omitempty"`
+	Name   string      `json:"name"`
+	Elev   string      `json:"elev"`
+	Range  string      `json:"range"`
+	Rwy    string      `json:"rwy"`
+	Tcn    string      `json:"tcn"`
+	Atis   string      `json:"atis"`
+	Ops    string      `json:"ops"`
+	Gnd    string      `json:"gnd"`
+	Twr    string      `json:"twr"`
+	AppDep string      `json:"appdep"`
+	Charts []*ChartRef `json:"charts,omitempty"`
 }
 
-type Chart struct {
+type ChartRef struct {
 	Name   string `json:"name"`
 	URL    string `json:"url"`
 	Page   *int   `json:"page,omitempty"`
