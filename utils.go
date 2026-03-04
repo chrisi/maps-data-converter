@@ -36,16 +36,6 @@ func getName(s string) string {
 	return m[1]
 }
 
-func getKey(s string) string {
-	n := strings.Replace(getName(s), " ", "-", -1)
-	return strings.ToUpper(n)
-}
-
-func replaceABWithAirbase(s string) string {
-	re := regexp.MustCompile(`(?i)\bAB\b`)
-	return re.ReplaceAllString(s, "Airbase")
-}
-
 func writeRecordsJSON(path string, records any) error {
 	f, err := os.Create(path)
 	if err != nil {
@@ -60,4 +50,12 @@ func writeRecordsJSON(path string, records any) error {
 		return fmt.Errorf("json schreiben: %w", err)
 	}
 	return nil
+}
+
+var reIcao = regexp.MustCompile(`\(\s*[A-Za-z]{4}\s*\)`)
+
+func removeICAO(s string) string {
+	out := reIcao.ReplaceAllString(s, "")
+	out = strings.Join(strings.Fields(out), " ")
+	return out
 }

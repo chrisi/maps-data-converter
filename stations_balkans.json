@@ -19,7 +19,21 @@
       "ops": "",
       "gnd": "395.200",
       "twr": "243.100",
-      "appdep": "362.550"
+      "appdep": "362.550",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "GREECE/Aktion/Aktion_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "GREECE/Aktion/Aktion_APC_RWY26.png"
+        },
+        {
+          "name": "Airbase",
+          "url": "GREECE/Aktion/Aktion_Airbase.png"
+        }
+      ]
     }
   },
   {
@@ -42,7 +56,29 @@
       "ops": "",
       "gnd": "389.150",
       "twr": "234.500",
-      "appdep": "362.250"
+      "appdep": "362.250",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "NATO/Amendola/Amendola_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "NATO/Amendola/Amendola_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Amendola/Amendola_Airport.png"
+        },
+        {
+          "name": "ILS 29",
+          "url": "NATO/Amendola/Amendola_ILS_29.png"
+        },
+        {
+          "name": "TCN 29",
+          "url": "NATO/Amendola/Amendola_TCN_29.png"
+        }
+      ]
     }
   },
   {
@@ -65,7 +101,21 @@
       "ops": "",
       "gnd": "227.500",
       "twr": "246.400",
-      "appdep": "359.150"
+      "appdep": "359.150",
+      "charts": [
+        {
+          "name": "APC RWY18",
+          "url": "NATO/Ampugnano/Ampugnano_APC_RWY18.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "NATO/Ampugnano/Ampugnano_APC_RWY36.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Ampugnano/Ampugnano_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -88,7 +138,21 @@
       "ops": "",
       "gnd": "249.500",
       "twr": "257.900",
-      "appdep": "362.400"
+      "appdep": "362.400",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "GREECE/Anna Pollatou/Anna Pollatou_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "GREECE/Anna Pollatou/Anna Pollatou_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "GREECE/Anna Pollatou/Anna Pollatou_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -134,7 +198,29 @@
       "ops": "",
       "gnd": "260.800",
       "twr": "277.800",
-      "appdep": "245.350"
+      "appdep": "245.350",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "NATO/Asiago/Asiago_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "NATO/Asiago/Asiago_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "NATO/Asiago/Asiago_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "NATO/Asiago/Asiago_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Asiago/Asiago_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -157,7 +243,33 @@
       "ops": "",
       "gnd": "376.650",
       "twr": "284.650",
-      "appdep": "363.250"
+      "appdep": "363.250",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "NATO/Aviano/Aviano_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "NATO/Aviano/Aviano_APC_RWY23.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Aviano/Aviano_Airport.png"
+        },
+        {
+          "name": "DEP 05",
+          "url": "NATO/Aviano/Aviano_DEP_05.png"
+        },
+        {
+          "name": "DEP 23",
+          "url": "NATO/Aviano/Aviano_DEP_23.png"
+        },
+        {
+          "name": "ILS 05",
+          "url": "NATO/Aviano/Aviano_ILS_05.png"
+        }
+      ]
     }
   },
   {
@@ -180,7 +292,21 @@
       "ops": "",
       "gnd": "273.200",
       "twr": "252.500",
-      "appdep": "266.100"
+      "appdep": "266.100",
+      "charts": [
+        {
+          "name": "APC RWY17",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Banja Luka/Banja Luka_APC_RWY17.png"
+        },
+        {
+          "name": "APC RWY35",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Banja Luka/Banja Luka_APC_RWY35.png"
+        },
+        {
+          "name": "Airport",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Banja Luka/Banja Luka_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -203,7 +329,29 @@
       "ops": "",
       "gnd": "304.200",
       "twr": "320.700",
-      "appdep": "377.300"
+      "appdep": "377.300",
+      "charts": [
+        {
+          "name": "APC RWY14L",
+          "url": "FRY/Batajnica/Batajnica_APC_RWY14L.png"
+        },
+        {
+          "name": "APC RWY14R",
+          "url": "FRY/Batajnica/Batajnica_APC_RWY14R.png"
+        },
+        {
+          "name": "APC RWY32L",
+          "url": "FRY/Batajnica/Batajnica_APC_RWY32L.png"
+        },
+        {
+          "name": "APC RWY32R",
+          "url": "FRY/Batajnica/Batajnica_APC_RWY32R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Batajnica/Batajnica_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -226,7 +374,29 @@
       "ops": "",
       "gnd": "240.200",
       "twr": "396.850",
-      "appdep": "389.100"
+      "appdep": "389.100",
+      "charts": [
+        {
+          "name": "APC RWY14L",
+          "url": "NATO/Birgi/Birgi_APC_RWY14L.png"
+        },
+        {
+          "name": "APC RWY14R",
+          "url": "NATO/Birgi/Birgi_APC_RWY14R.png"
+        },
+        {
+          "name": "APC RWY32L",
+          "url": "NATO/Birgi/Birgi_APC_RWY32L.png"
+        },
+        {
+          "name": "APC RWY32R",
+          "url": "NATO/Birgi/Birgi_APC_RWY32R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Birgi/Birgi_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -341,7 +511,21 @@
       "ops": "",
       "gnd": "271.900",
       "twr": "246.300",
-      "appdep": "236.000"
+      "appdep": "236.000",
+      "charts": [
+        {
+          "name": "APC RWY13",
+          "url": "SLOVENIA/Brnik/Brnik_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "SLOVENIA/Brnik/Brnik_APC_RWY31.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SLOVENIA/Brnik/Brnik_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -364,7 +548,21 @@
       "ops": "",
       "gnd": "257.300",
       "twr": "257.825",
-      "appdep": "234.050"
+      "appdep": "234.050",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Capodichino/Capodichino_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Capodichino/Capodichino_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Capodichino/Capodichino_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -387,7 +585,29 @@
       "ops": "",
       "gnd": "313.550",
       "twr": "386.875",
-      "appdep": "379.750"
+      "appdep": "379.750",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "NATO/Casale/Casale_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY13",
+          "url": "NATO/Casale/Casale_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "NATO/Casale/Casale_APC_RWY23.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "NATO/Casale/Casale_APC_RWY31.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Casale/Casale_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -433,7 +653,21 @@
       "ops": "",
       "gnd": "233.600",
       "twr": "272.600",
-      "appdep": "241.500"
+      "appdep": "241.500",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "SLOVENIA/Cerklje Ob Krki/Cerklje Ob Krki_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "SLOVENIA/Cerklje Ob Krki/Cerklje Ob Krki_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SLOVENIA/Cerklje Ob Krki/Cerklje Ob Krki_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -456,7 +690,21 @@
       "ops": "",
       "gnd": "272.400",
       "twr": "338.225",
-      "appdep": "379.500"
+      "appdep": "379.500",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "NATO/Cervia/Cervia_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "NATO/Cervia/Cervia_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Cervia/Cervia_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -502,7 +750,21 @@
       "ops": "",
       "gnd": "300.100",
       "twr": "308.775",
-      "appdep": "292.500"
+      "appdep": "292.500",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "NATO/Ciampino/Ciampino_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "NATO/Ciampino/Ciampino_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Ciampino/Ciampino_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -548,7 +810,21 @@
       "ops": "",
       "gnd": "289.500",
       "twr": "261.700",
-      "appdep": "238.050"
+      "appdep": "238.050",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "NATO/Crotone/Crotone_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "NATO/Crotone/Crotone_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Crotone/Crotone_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -640,7 +916,21 @@
       "ops": "",
       "gnd": "232.700",
       "twr": "235.500",
-      "appdep": "247.300"
+      "appdep": "247.300",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "FRY/Dolac/Dolac_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "FRY/Dolac/Dolac_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Dolac/Dolac_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -663,7 +953,21 @@
       "ops": "",
       "gnd": "341.900",
       "twr": "351.800",
-      "appdep": "267.500"
+      "appdep": "267.500",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Dubrave/Dubrave_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Dubrave/Dubrave_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Dubrave/Dubrave_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -686,7 +990,21 @@
       "ops": "",
       "gnd": "225.600",
       "twr": "255.700",
-      "appdep": "236.800"
+      "appdep": "236.800",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "CROATIA/Dubrovnik/Dubrovnik_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "CROATIA/Dubrovnik/Dubrovnik_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Dubrovnik/Dubrovnik_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -709,7 +1027,21 @@
       "ops": "",
       "gnd": "316.700",
       "twr": "302.200",
-      "appdep": "338.600"
+      "appdep": "338.600",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "NATO/Falconara/Falconara_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "NATO/Falconara/Falconara_APC_RWY23.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Falconara/Falconara_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -732,7 +1064,29 @@
       "ops": "",
       "gnd": "259.500",
       "twr": "253.900",
-      "appdep": "255.250"
+      "appdep": "255.250",
+      "charts": [
+        {
+          "name": "APC RWY14L",
+          "url": "NATO/Fiumicino/Fiumicino_APC_RWY14L.png"
+        },
+        {
+          "name": "APC RWY14R",
+          "url": "NATO/Fiumicino/Fiumicino_APC_RWY14R.png"
+        },
+        {
+          "name": "APC RWY32L",
+          "url": "NATO/Fiumicino/Fiumicino_APC_RWY32L.png"
+        },
+        {
+          "name": "APC RWY32R",
+          "url": "NATO/Fiumicino/Fiumicino_APC_RWY32R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Fiumicino/Fiumicino_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -755,7 +1109,21 @@
       "ops": "",
       "gnd": "247.900",
       "twr": "234.525",
-      "appdep": "340.150"
+      "appdep": "340.150",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Fontanarossa/Fontanarossa_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Fontanarossa/Fontanarossa_APC_RWY26.png"
+        },
+        {
+          "name": "Fonatanarossa Airport",
+          "url": "NATO/Fontanarossa/Fonatanarossa_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -778,7 +1146,21 @@
       "ops": "",
       "gnd": "228.400",
       "twr": "225.100",
-      "appdep": "338.700"
+      "appdep": "338.700",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "NATO/Forli/Forli_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "NATO/Forli/Forli_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Forli/Forli_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -801,7 +1183,21 @@
       "ops": "",
       "gnd": "280.550",
       "twr": "234.600",
-      "appdep": "362.500"
+      "appdep": "362.500",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "NATO/Galatina/Galatina_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "NATO/Galatina/Galatina_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Galatina/Galatina_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -847,7 +1243,21 @@
       "ops": "",
       "gnd": "255.300",
       "twr": "288.600",
-      "appdep": "362.150"
+      "appdep": "362.150",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "NATO/Gino Lisa/Gino Lisa_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "NATO/Gino Lisa/Gino Lisa_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Gino Lisa/Gino Lisa_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -870,7 +1280,33 @@
       "ops": "",
       "gnd": "369.475",
       "twr": "275.325",
-      "appdep": "379.525"
+      "appdep": "379.525",
+      "charts": [
+        {
+          "name": "APC RWY14L",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_APC_RWY14L.png"
+        },
+        {
+          "name": "APC RWY14R",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_APC_RWY14R.png"
+        },
+        {
+          "name": "APC RWY32L",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_APC_RWY32L.png"
+        },
+        {
+          "name": "APC RWY32R",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_APC_RWY32R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_Airport.png"
+        },
+        {
+          "name": "ILS 32L",
+          "url": "NATO/Gioia del Colle/Gioia del Colle_ILS_32L.png"
+        }
+      ]
     }
   },
   {
@@ -893,7 +1329,21 @@
       "ops": "",
       "gnd": "234.025",
       "twr": "342.400",
-      "appdep": "274.000"
+      "appdep": "274.000",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "ALBANIA/Gjader/Gjader_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "ALBANIA/Gjader/Gjader_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ALBANIA/Gjader/Gjader_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -939,7 +1389,21 @@
       "ops": "",
       "gnd": "233.800",
       "twr": "234.650",
-      "appdep": "362.600"
+      "appdep": "362.600",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Grazzanise/Grazzanise_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Grazzanise/Grazzanise_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Grazzanise/Grazzanise_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -962,7 +1426,21 @@
       "ops": "",
       "gnd": "263.200",
       "twr": "241.900",
-      "appdep": "249.050"
+      "appdep": "249.050",
+      "charts": [
+        {
+          "name": "Grobnicko Polje APC RWY09",
+          "url": "CROATIA/Grobnicko Polje (Airstrip)/Grobnicko Polje_APC_RWY09.png"
+        },
+        {
+          "name": "Grobnicko Polje APC RWY27",
+          "url": "CROATIA/Grobnicko Polje (Airstrip)/Grobnicko Polje_APC_RWY27.png"
+        },
+        {
+          "name": "Grobnicko Polje Airport",
+          "url": "CROATIA/Grobnicko Polje (Airstrip)/Grobnicko Polje_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -985,7 +1463,25 @@
       "ops": "",
       "gnd": "280.350",
       "twr": "264.750",
-      "appdep": "275.300"
+      "appdep": "275.300",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "NATO/Grosseto/Grosseto_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "NATO/Grosseto/Grosseto_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Grosseto/Grosseto_Airport.png"
+        },
+        {
+          "name": "TCN 02",
+          "url": "NATO/Grosseto/Grosseto_TCN_02.png"
+        }
+      ]
     }
   },
   {
@@ -1008,7 +1504,21 @@
       "ops": "",
       "gnd": "264.300",
       "twr": "257.875",
-      "appdep": "237.400"
+      "appdep": "237.400",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "NATO/Grottaglie/Grottaglie_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "NATO/Grottaglie/Grottaglie_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Grottaglie/Grottaglie_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1031,7 +1541,21 @@
       "ops": "",
       "gnd": "319.800",
       "twr": "257.925",
-      "appdep": "258.100"
+      "appdep": "258.100",
+      "charts": [
+        {
+          "name": "APC RWY18",
+          "url": "NATO/Guidonia/Guidonia_APC_RWY18.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "NATO/Guidonia/Guidonia_APC_RWY36.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Guidonia/Guidonia_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1077,7 +1601,21 @@
       "ops": "",
       "gnd": "279.050",
       "twr": "387.675",
-      "appdep": "336.825"
+      "appdep": "336.825",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Istrana/Istrana_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Istrana/Istrana_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Istrana/Istrana_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1123,7 +1661,21 @@
       "ops": "",
       "gnd": "226.300",
       "twr": "238.700",
-      "appdep": "260.900"
+      "appdep": "260.900",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "CROATIA/Kastela/Kastela_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "CROATIA/Kastela/Kastela_APC_RWY23.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Kastela/Kastela_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1146,7 +1698,21 @@
       "ops": "",
       "gnd": "232.900",
       "twr": "257.600",
-      "appdep": "258.050"
+      "appdep": "258.050",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "GREECE/King Pyrros/King Pyrros_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "GREECE/King Pyrros/King Pyrros_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "GREECE/King Pyrros/King Pyrros_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1169,7 +1735,29 @@
       "ops": "",
       "gnd": "252.800",
       "twr": "263.400",
-      "appdep": "240.600"
+      "appdep": "240.600",
+      "charts": [
+        {
+          "name": "APC RWY02L",
+          "url": "CROATIA/Klisa/Klisa_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "CROATIA/Klisa/Klisa_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "CROATIA/Klisa/Klisa_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "CROATIA/Klisa/Klisa_APC_RWY20R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Klisa/Klisa_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1261,7 +1849,21 @@
       "ops": "",
       "gnd": "303.500",
       "twr": "334.300",
-      "appdep": "262.700"
+      "appdep": "262.700",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "ALBANIA/Kucova/Kucova_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "ALBANIA/Kucova/Kucova_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ALBANIA/Kucova/Kucova_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1284,7 +1886,21 @@
       "ops": "",
       "gnd": "285.700",
       "twr": "292.200",
-      "appdep": "239.600"
+      "appdep": "239.600",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "ALBANIA/Kukes/Kukes_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "ALBANIA/Kukes/Kukes_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ALBANIA/Kukes/Kukes_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1307,7 +1923,21 @@
       "ops": "",
       "gnd": "317.900",
       "twr": "365.900",
-      "appdep": "382.500"
+      "appdep": "382.500",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "FRY/Ladevci/Ladevci_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "FRY/Ladevci/Ladevci_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Ladevci/Ladevci_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1330,7 +1960,21 @@
       "ops": "",
       "gnd": "287.500",
       "twr": "241.600",
-      "appdep": "258.200"
+      "appdep": "258.200",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "NATO/Lamezia Terme/Lamezia Terme_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "NATO/Lamezia Terme/Lamezia Terme_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Lamezia Terme/Lamezia Terme_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1353,7 +1997,21 @@
       "ops": "",
       "gnd": "249.200",
       "twr": "275.375",
-      "appdep": "339.250"
+      "appdep": "339.250",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "NATO/Latina/Latina_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "NATO/Latina/Latina_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Latina/Latina_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1399,7 +2057,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY18",
+          "url": "NATO/Mattarello/Mattarello_APC_RWY18.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "NATO/Mattarello/Mattarello_APC_RWY36.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Mattarello/Mattarello_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1445,7 +2117,25 @@
       "ops": "",
       "gnd": "309.400",
       "twr": "278.100",
-      "appdep": "305.300"
+      "appdep": "305.300",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "NATO/Miramare/Miramare_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "NATO/Miramare/Miramare_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Miramare/Miramare_Airport.png"
+        },
+        {
+          "name": "ILS 30",
+          "url": "NATO/Miramare/Miramare_ILS_30.png"
+        }
+      ]
     }
   },
   {
@@ -1468,7 +2158,21 @@
       "ops": "",
       "gnd": "318.100",
       "twr": "287.700",
-      "appdep": "368.200"
+      "appdep": "368.200",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Mostar/Mostar_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Mostar/Mostar_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Mostar/Mostar_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1491,7 +2195,21 @@
       "ops": "",
       "gnd": "254.600",
       "twr": "266.350",
-      "appdep": "237.100"
+      "appdep": "237.100",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "FRY/Nikola Tesla/Nikola Tesla_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "FRY/Nikola Tesla/Nikola Tesla_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Nikola Tesla/Nikola Tesla_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1560,7 +2278,21 @@
       "ops": "",
       "gnd": "246.800",
       "twr": "295.800",
-      "appdep": "290.400"
+      "appdep": "290.400",
+      "charts": [
+        {
+          "name": "Novo Mesto APC RWY09",
+          "url": "SLOVENIA/Novo Mesto (Airstrip)/Novo Mesto_APC_RWY09.png"
+        },
+        {
+          "name": "Novo Mesto APC RWY27",
+          "url": "SLOVENIA/Novo Mesto (Airstrip)/Novo Mesto_APC_RWY27.png"
+        },
+        {
+          "name": "Novo Mesto Airport",
+          "url": "SLOVENIA/Novo Mesto (Airstrip)/Novo Mesto_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1583,7 +2315,29 @@
       "ops": "",
       "gnd": "278.700",
       "twr": "231.800",
-      "appdep": "246.600"
+      "appdep": "246.600",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "NATO/Padova/Padova_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "NATO/Padova/Padova_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "NATO/Padova/Padova_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "NATO/Padova/Padova_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Padova/Padova_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1606,7 +2360,21 @@
       "ops": "",
       "gnd": "248.200",
       "twr": "263.300",
-      "appdep": "236.500"
+      "appdep": "236.500",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Palese/Palese_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Palese/Palese_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Palese/Palese_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1652,7 +2420,21 @@
       "ops": "",
       "gnd": "266.500",
       "twr": "257.950",
-      "appdep": "312.900"
+      "appdep": "312.900",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "NATO/Peretola/Peretola_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "NATO/Peretola/Peretola_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Peretola/Peretola_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1675,7 +2457,25 @@
       "ops": "",
       "gnd": "239.100",
       "twr": "257.000",
-      "appdep": "236.900"
+      "appdep": "236.900",
+      "charts": [
+        {
+          "name": "APC RWY04",
+          "url": "NATO/Pescara/Pescara_APC_RWY04.png"
+        },
+        {
+          "name": "APC RWY22",
+          "url": "NATO/Pescara/Pescara_APC_RWY22.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Pescara/Pescara_Airport.png"
+        },
+        {
+          "name": "ILS 22",
+          "url": "NATO/Pescara/Pescara_ILS_22.png"
+        }
+      ]
     }
   },
   {
@@ -1721,7 +2521,25 @@
       "ops": "",
       "gnd": "334.600",
       "twr": "226.900",
-      "appdep": "238.100"
+      "appdep": "238.100",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "CROATIA/Pleso/Pleso_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "CROATIA/Pleso/Pleso_APC_RWY23.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Pleso/Pleso_Airport.png"
+        },
+        {
+          "name": "ILS 23",
+          "url": "CROATIA/Pleso/Pleso_ILS_23.png"
+        }
+      ]
     }
   },
   {
@@ -1744,7 +2562,29 @@
       "ops": "",
       "gnd": "315.300",
       "twr": "344.000",
-      "appdep": "358.825"
+      "appdep": "358.825",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "FRY/Podgorica/Podgorica_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "FRY/Podgorica/Podgorica_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "FRY/Podgorica/Podgorica_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "FRY/Podgorica/Podgorica_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Podgorica/Podgorica_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1790,7 +2630,21 @@
       "ops": "",
       "gnd": "398.200",
       "twr": "270.800",
-      "appdep": "253.500"
+      "appdep": "253.500",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "FRY/Ponikve/Ponikve_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "FRY/Ponikve/Ponikve_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Ponikve/Ponikve_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1813,7 +2667,21 @@
       "ops": "",
       "gnd": "231.750",
       "twr": "358.900",
-      "appdep": "377.200"
+      "appdep": "377.200",
+      "charts": [
+        {
+          "name": "Airport",
+          "url": "NATO/Pratica Di Mare/Pratica Di Mare_Airport.png"
+        },
+        {
+          "name": "Pratica di Mare APC RWY11",
+          "url": "NATO/Pratica Di Mare/Pratica di Mare_APC_RWY11.png"
+        },
+        {
+          "name": "Pratica di Mare APC RWY29",
+          "url": "NATO/Pratica Di Mare/Pratica di Mare_APC_RWY29.png"
+        }
+      ]
     }
   },
   {
@@ -1859,7 +2727,21 @@
       "ops": "",
       "gnd": "270.100",
       "twr": "281.300",
-      "appdep": "264.000"
+      "appdep": "264.000",
+      "charts": [
+        {
+          "name": "APC RWY09",
+          "url": "CROATIA/Pula/Pula_APC_RWY09.png"
+        },
+        {
+          "name": "APC RWY27",
+          "url": "CROATIA/Pula/Pula_APC_RWY27.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Pula/Pula_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1882,7 +2764,29 @@
       "ops": "",
       "gnd": "250.900",
       "twr": "258.000",
-      "appdep": "387.450"
+      "appdep": "387.450",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "NATO/Punta Raisi/Punta Raisi_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "NATO/Punta Raisi/Punta Raisi_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "NATO/Punta Raisi/Punta Raisi_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "NATO/Punta Raisi/Punta Raisi_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Punta Raisi/Punta Raisi_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1905,7 +2809,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "NATO/Ravenna/Ravenna_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "NATO/Ravenna/Ravenna_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Ravenna/Ravenna_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1928,7 +2846,29 @@
       "ops": "",
       "gnd": "227.300",
       "twr": "246.100",
-      "appdep": "236.600"
+      "appdep": "236.600",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "NATO/Reggio Calabria/Reggio Calabria_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "NATO/Reggio Calabria/Reggio Calabria_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "NATO/Reggio Calabria/Reggio Calabria_APC_RWY19.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "NATO/Reggio Calabria/Reggio Calabria_APC_RWY33.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Reggio Calabria/Reggio Calabria_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1951,7 +2891,21 @@
       "ops": "",
       "gnd": "356.025",
       "twr": "356.000",
-      "appdep": "356.750"
+      "appdep": "356.750",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "CROATIA/Rijeka/Rijeka_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "CROATIA/Rijeka/Rijeka_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Rijeka/Rijeka_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1974,7 +2928,37 @@
       "ops": "",
       "gnd": "354.000",
       "twr": "242.475",
-      "appdep": "275.350"
+      "appdep": "275.350",
+      "charts": [
+        {
+          "name": "APC RWY06",
+          "url": "NATO/Rivolto/Rivolto_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "NATO/Rivolto/Rivolto_APC_RWY24.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Rivolto/Rivolto_Airport.png"
+        },
+        {
+          "name": "DEP CHI1C-D",
+          "url": "NATO/Rivolto/Rivolto_DEP_CHI1C-D.png"
+        },
+        {
+          "name": "DEP ISA1A-B",
+          "url": "NATO/Rivolto/Rivolto_DEP_ISA1A-B.png"
+        },
+        {
+          "name": "DEP ROSKA1C-D",
+          "url": "NATO/Rivolto/Rivolto_DEP_ROSKA1C-D.png"
+        },
+        {
+          "name": "TCN 06",
+          "url": "NATO/Rivolto/Rivolto_TCN_06.png"
+        }
+      ]
     }
   },
   {
@@ -1997,7 +2981,21 @@
       "ops": "",
       "gnd": "286.500",
       "twr": "278.900",
-      "appdep": "260.400"
+      "appdep": "260.400",
+      "charts": [
+        {
+          "name": "Ronchi dei Legionari APC RWY11",
+          "url": "NATO/Ronchi Dei Legionari/Ronchi dei Legionari_APC_RWY11.png"
+        },
+        {
+          "name": "Ronchi dei Legionari APC RWY29",
+          "url": "NATO/Ronchi Dei Legionari/Ronchi dei Legionari_APC_RWY29.png"
+        },
+        {
+          "name": "Ronchi dei Legionari Airport",
+          "url": "NATO/Ronchi Dei Legionari/Ronchi dei Legionari_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2020,7 +3018,21 @@
       "ops": "",
       "gnd": "326.200",
       "twr": "278.200",
-      "appdep": "251.500"
+      "appdep": "251.500",
+      "charts": [
+        {
+          "name": "S",
+          "url": "NATO/S.Angelo/S. Angelo_APC_RWY08.png"
+        },
+        {
+          "name": "S",
+          "url": "NATO/S.Angelo/S. Angelo_APC_RWY26.png"
+        },
+        {
+          "name": "S",
+          "url": "NATO/S.Angelo/S. Angelo_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2043,7 +3055,21 @@
       "ops": "",
       "gnd": "240.700",
       "twr": "226.200",
-      "appdep": "236.100"
+      "appdep": "236.100",
+      "charts": [
+        {
+          "name": "S",
+          "url": "NATO/S.Francesco/S. Francesco_APC_RWY01.png"
+        },
+        {
+          "name": "S",
+          "url": "NATO/S.Francesco/S. Francesco_APC_RWY19.png"
+        },
+        {
+          "name": "S",
+          "url": "NATO/S.Francesco/S. Francesco_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2089,7 +3115,21 @@
       "ops": "",
       "gnd": "256.500",
       "twr": "265.950",
-      "appdep": "236.400"
+      "appdep": "236.400",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Sarajevo/Sarajevo_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Sarajevo/Sarajevo_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Sarajevo/Sarajevo_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2112,7 +3152,21 @@
       "ops": "",
       "gnd": "280.100",
       "twr": "229.150",
-      "appdep": "233.100"
+      "appdep": "233.100",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "SLOVENIA/Secovlje/Secovlje_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "SLOVENIA/Secovlje/Secovlje_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SLOVENIA/Secovlje/Secovlje_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2158,7 +3212,33 @@
       "ops": "",
       "gnd": "279.175",
       "twr": "337.600",
-      "appdep": "340.100"
+      "appdep": "340.100",
+      "charts": [
+        {
+          "name": "APC RWY10L",
+          "url": "NATO/Sigonella/Sigonella_APC_RWY10L.png"
+        },
+        {
+          "name": "APC RWY10R",
+          "url": "NATO/Sigonella/Sigonella_APC_RWY10R.png"
+        },
+        {
+          "name": "APC RWY28L",
+          "url": "NATO/Sigonella/Sigonella_APC_RWY28L.png"
+        },
+        {
+          "name": "APC RWY28R",
+          "url": "NATO/Sigonella/Sigonella_APC_RWY28R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Sigonella/Sigonella_Airport.png"
+        },
+        {
+          "name": "ILS 10R",
+          "url": "NATO/Sigonella/Sigonella_ILS_10R.png"
+        }
+      ]
     }
   },
   {
@@ -2181,7 +3261,21 @@
       "ops": "",
       "gnd": "307.100",
       "twr": "277.200",
-      "appdep": "260.100"
+      "appdep": "260.100",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "FRY/Sjenica/Sjenica_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "FRY/Sjenica/Sjenica_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Sjenica/Sjenica_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2227,7 +3321,21 @@
       "ops": "",
       "gnd": "230.800",
       "twr": "325.300",
-      "appdep": "269.100"
+      "appdep": "269.100",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "FRY/Sombor/Sombor_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "FRY/Sombor/Sombor_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Sombor/Sombor_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2250,7 +3358,21 @@
       "ops": "",
       "gnd": "229.900",
       "twr": "259.400",
-      "appdep": "238.900"
+      "appdep": "238.900",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "FRY/St. Paul the Apostle/St. Paul the Apostle_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "FRY/St. Paul the Apostle/St. Paul the Apostle_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/St. Paul the Apostle/St. Paul the Apostle_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2296,7 +3418,29 @@
       "ops": "",
       "gnd": "316.900",
       "twr": "344.300",
-      "appdep": "376.800"
+      "appdep": "376.800",
+      "charts": [
+        {
+          "name": "APC RWY16L",
+          "url": "HUNGARY/Taszar/Taszar_APC_RWY16L.png"
+        },
+        {
+          "name": "APC RWY16R",
+          "url": "HUNGARY/Taszar/Taszar_APC_RWY16R.png"
+        },
+        {
+          "name": "APC RWY34L",
+          "url": "HUNGARY/Taszar/Taszar_APC_RWY34L.png"
+        },
+        {
+          "name": "APC RWY34R",
+          "url": "HUNGARY/Taszar/Taszar_APC_RWY34R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "HUNGARY/Taszar/Taszar_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2342,7 +3486,21 @@
       "ops": "",
       "gnd": "237.900",
       "twr": "226.600",
-      "appdep": "247.600"
+      "appdep": "247.600",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "ALBANIA/Tirana/Tirana_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "ALBANIA/Tirana/Tirana_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ALBANIA/Tirana/Tirana_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2365,7 +3523,21 @@
       "ops": "",
       "gnd": "272.800",
       "twr": "237.500",
-      "appdep": "238.500"
+      "appdep": "238.500",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "FRY/Tivat/Tivat_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "FRY/Tivat/Tivat_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "FRY/Tivat/Tivat_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2388,7 +3560,21 @@
       "ops": "",
       "gnd": "390.400",
       "twr": "362.900",
-      "appdep": "321.900"
+      "appdep": "321.900",
+      "charts": [
+        {
+          "name": "APC RWY13",
+          "url": "CROATIA/Udbina/Udbina_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "CROATIA/Udbina/Udbina_APC_RWY31.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Udbina/Udbina_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2411,7 +3597,21 @@
       "ops": "",
       "gnd": "243.300",
       "twr": "257.975",
-      "appdep": "247.200"
+      "appdep": "247.200",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "NATO/Urbe/Urbe_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "NATO/Urbe/Urbe_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "NATO/Urbe/Urbe_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2434,7 +3634,21 @@
       "ops": "",
       "gnd": "241.000",
       "twr": "296.800",
-      "appdep": "232.500"
+      "appdep": "232.500",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "CROATIA/Varazdin/Varazdin_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "CROATIA/Varazdin/Varazdin_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "CROATIA/Varazdin/Varazdin_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2549,7 +3763,21 @@
       "ops": "",
       "gnd": "241.800",
       "twr": "371.400",
-      "appdep": "372.300"
+      "appdep": "372.300",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Zeljava/Zeljava_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Zeljava/Zeljava_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "BOSNIA \u0026 HERZEGOVINA/Zeljava/Zeljava_Airport.png"
+        }
+      ]
     }
   },
   {

@@ -131,6 +131,8 @@ func main() {
 
 	var records []model.Station
 
+	var nocharts = 0
+
 	for _, abObj := range *airbaseObjects {
 		abRecord := CreateAirbaseRecord(&abObj)
 
@@ -182,7 +184,7 @@ func main() {
 			detail.AppDep = freq.Approach
 		}
 
-		abKey := getKey(abRecord.Name)
+		abKey := buildKeyName(removeICAO(abRecord.Name))
 		chartsDir := fmt.Sprintf("data/%s/charts/", cfg.Theater)
 		charts, err := loader.LoadCharts(chartsDir, abKey)
 		if err != nil {
@@ -190,6 +192,9 @@ func main() {
 		} else if len(charts) > 0 {
 			detail.Charts = charts
 			fmt.Printf("Loaded %d charts for %s\n", len(charts), abKey)
+		} else {
+			fmt.Printf("No charts for %s\n", abKey)
+			nocharts++
 		}
 
 		tp := "Airbase"
@@ -258,6 +263,8 @@ func main() {
 	if len(missing) > 0 {
 		fmt.Printf("Missing countries for stations: %v\n", missing)
 	}
+
+	fmt.Printf("No charts for %d stations\n", nocharts)
 
 	err = writeRecordsJSON("stations_"+cfg.Theater+".json", records)
 	if err != nil {

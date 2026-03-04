@@ -16,7 +16,7 @@ var reCharts = regexp.MustCompile(`^./maps/([^/]+)/[^/]+/([^/]+)/(([^/]+)\s+\(([
 
 var remove = []string{
 	"(", ")", "_", "-", "'", "Intl", "INT", "Int", "MCAS", "AB", "AAF",
-	"Airstrips", "Airstrip", "Airport", "Range", "Highwaystrip", "Highway", "Strip", "Elite"}
+	"Airstrips", "Airstrip", "Airport", "Airbase", "Range", "Highwaystrip", "Highway", "Strip", "Elite"}
 
 func ParseCharts() error {
 	file, err := os.Open("data/charts.txt")

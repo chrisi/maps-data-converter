@@ -42,7 +42,25 @@
       "ops": "",
       "gnd": "277.175",
       "twr": "245.275",
-      "appdep": "343.850"
+      "appdep": "343.850",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "EGYPT/Abu Suwayr/Abu Suwayr_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "EGYPT/Abu Suwayr/Abu Suwayr_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Abu Suwayr/Abu Suwayr_Airport.png"
+        },
+        {
+          "name": "TCN 30",
+          "url": "EGYPT/Abu Suwayr/Abu Suwayr_TCN_30.png"
+        }
+      ]
     }
   },
   {
@@ -111,7 +129,21 @@
       "ops": "",
       "gnd": "299.300",
       "twr": "299.300",
-      "appdep": "299.300"
+      "appdep": "299.300",
+      "charts": [
+        {
+          "name": "Al Bir APC RWY09",
+          "url": "SAUDI ARABIA/Al Bir (Airstrip)/Al Bir_APC_RWY09.png"
+        },
+        {
+          "name": "Al Bir APC RWY27",
+          "url": "SAUDI ARABIA/Al Bir (Airstrip)/Al Bir_APC_RWY27.png"
+        },
+        {
+          "name": "Al Bir Airport",
+          "url": "SAUDI ARABIA/Al Bir (Airstrip)/Al Bir_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -157,7 +189,29 @@
       "ops": "",
       "gnd": "293.225",
       "twr": "394.600",
-      "appdep": "324.850"
+      "appdep": "324.850",
+      "charts": [
+        {
+          "name": "APC RWY02L",
+          "url": "EGYPT/Al Mansurha/Al Mansurha_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "EGYPT/Al Mansurha/Al Mansurha_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "EGYPT/Al Mansurha/Al Mansurha_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "EGYPT/Al Mansurha/Al Mansurha_APC_RWY20R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Al Mansurha/Al Mansurha_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -180,7 +234,21 @@
       "ops": "",
       "gnd": "330.375",
       "twr": "256.075",
-      "appdep": "335.025"
+      "appdep": "335.025",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "EGYPT/Al Minya/Al Minya_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "EGYPT/Al Minya/Al Minya_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Al Minya/Al Minya_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -226,7 +294,21 @@
       "ops": "339.700",
       "gnd": "360.600",
       "twr": "339.375",
-      "appdep": "399.250"
+      "appdep": "399.250",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "SYRIA/Al Qusayr/Al Qusayr_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "SYRIA/Al Qusayr/Al Qusayr_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SYRIA/Al Qusayr/Al Qusayr_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -249,7 +331,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "EGYPT/Al Rhamaniya/Al Rhamaniya_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "EGYPT/Al Rhamaniya/Al Rhamaniya_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Al Rhamaniya/Al Rhamaniya_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -341,7 +437,29 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY02L",
+          "url": "EGYPT/Alismaylia/Alismaylia_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "EGYPT/Alismaylia/Alismaylia_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "EGYPT/Alismaylia/Alismaylia_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "EGYPT/Alismaylia/Alismaylia_APC_RWY20R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Alismaylia/Alismaylia_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -410,7 +528,29 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "JORDAN/Aqaba INT/Aqaba INT_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "JORDAN/Aqaba INT/Aqaba INT_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "JORDAN/Aqaba INT/Aqaba INT_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "JORDAN/Aqaba INT/Aqaba INT_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "JORDAN/Aqaba INT/Aqaba INT_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -456,7 +596,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "EGYPT/As Salihiya/As Salihiya_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "EGYPT/As Salihiya/As Salihiya_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/As Salihiya/As Salihiya_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -525,7 +679,49 @@
       "ops": "",
       "gnd": "246.450",
       "twr": "331.000",
-      "appdep": "298.300"
+      "appdep": "298.300",
+      "charts": [
+        {
+          "name": "APC RWY14L",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_APC_RWY14L.png"
+        },
+        {
+          "name": "APC RWY14R",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_APC_RWY14R.png"
+        },
+        {
+          "name": "APC RWY32L",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_APC_RWY32L.png"
+        },
+        {
+          "name": "APC RWY32R",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_APC_RWY32R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_Airport.png"
+        },
+        {
+          "name": "ILS 32R",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_ILS_32R.png"
+        },
+        {
+          "name": "SID 14L+R 1",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_SID_14L+R_1.png"
+        },
+        {
+          "name": "SID 14L+R 2",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_SID_14L+R_2.png"
+        },
+        {
+          "name": "SID 32L+R 1",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_SID_32L+R_1.png"
+        },
+        {
+          "name": "SID 32L+R 2",
+          "url": "ISRAEL/Ben Gurion/Ben Gurion_SID_32L+R_2.png"
+        }
+      ]
     }
   },
   {
@@ -571,7 +767,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "EGYPT/Bilbays 2/Bilbays 2_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "EGYPT/Bilbays 2/Bilbays 2_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Bilbays 2/Bilbays 2_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -594,7 +804,21 @@
       "ops": "",
       "gnd": "296.400",
       "twr": "355.975",
-      "appdep": "306.150"
+      "appdep": "306.150",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "EGYPT/Bilbays/Bilbays_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "EGYPT/Bilbays/Bilbays_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Bilbays/Bilbays_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -617,7 +841,21 @@
       "ops": "",
       "gnd": "288.375",
       "twr": "337.000",
-      "appdep": "365.100"
+      "appdep": "365.100",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "EGYPT/Bir Gifgafa/Bir Gifgafa_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "EGYPT/Bir Gifgafa/Bir Gifgafa_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Bir Gifgafa/Bir Gifgafa_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -640,7 +878,21 @@
       "ops": "",
       "gnd": "370.450",
       "twr": "253.575",
-      "appdep": "337.950"
+      "appdep": "337.950",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "EGYPT/Bir Hassana/Bir Hassana_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "EGYPT/Bir Hassana/Bir Hassana_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Bir Hassana/Bir Hassana_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -686,7 +938,21 @@
       "ops": "",
       "gnd": "366.075",
       "twr": "337.575",
-      "appdep": "257.275"
+      "appdep": "257.275",
+      "charts": [
+        {
+          "name": "APC RWY12",
+          "url": "EGYPT/Cairo Almaza/Cairo Almaza_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "EGYPT/Cairo Almaza/Cairo Almaza_APC_RWY30.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Cairo Almaza/Cairo Almaza_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -732,7 +998,29 @@
       "ops": "",
       "gnd": "344.300",
       "twr": "274.000",
-      "appdep": "315.950"
+      "appdep": "315.950",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "EGYPT/Cairo West/Cairo West_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY18",
+          "url": "EGYPT/Cairo West/Cairo West_APC_RWY18.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "EGYPT/Cairo West/Cairo West_APC_RWY19.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "EGYPT/Cairo West/Cairo West_APC_RWY36.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Cairo West/Cairo West_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -801,7 +1089,21 @@
       "ops": "377.750",
       "gnd": "376.300",
       "twr": "271.875",
-      "appdep": "270.150"
+      "appdep": "270.150",
+      "charts": [
+        {
+          "name": "APC RWY06",
+          "url": "SYRIA/Dumyar/Dumyar_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "SYRIA/Dumyar/Dumyar_APC_RWY24.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SYRIA/Dumyar/Dumyar_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -870,7 +1172,29 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "EGYPT/El Arish/El Arish_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "EGYPT/El Arish/El Arish_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "EGYPT/El Arish/El Arish_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "EGYPT/El Arish/El Arish_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/El Arish/El Arish_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -916,7 +1240,21 @@
       "ops": "",
       "gnd": "395.975",
       "twr": "315.750",
-      "appdep": "344.825"
+      "appdep": "344.825",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "EGYPT/El Gora/El Gora_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "EGYPT/El Gora/El Gora_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/El Gora/El Gora_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -985,7 +1323,21 @@
       "ops": "",
       "gnd": "384.675",
       "twr": "288.925",
-      "appdep": "345.350"
+      "appdep": "345.350",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "EGYPT/Faid/Faid_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "EGYPT/Faid/Faid_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Faid/Faid_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1123,7 +1475,21 @@
       "ops": "",
       "gnd": "231.075",
       "twr": "293.425",
-      "appdep": "368.400"
+      "appdep": "368.400",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "EGYPT/Gebel El Basur/Gebel El Basur_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "EGYPT/Gebel El Basur/Gebel El Basur_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Gebel El Basur/Gebel El Basur_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1215,7 +1581,21 @@
       "ops": "",
       "gnd": "301.900",
       "twr": "328.625",
-      "appdep": "396.175"
+      "appdep": "396.175",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "IRAQ/H-3 Northwest/H-3 Northwest_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "IRAQ/H-3 Northwest/H-3 Northwest_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/H-3 Northwest/H-3 Northwest_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1238,7 +1618,41 @@
       "ops": "",
       "gnd": "304.350",
       "twr": "372.300",
-      "appdep": "374.725"
+      "appdep": "374.725",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "IRAQ/H-3/H-3_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "IRAQ/H-3/H-3_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "IRAQ/H-3/H-3_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "IRAQ/H-3/H-3_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/H-3 (Airstrip)/H-3 (Airstrip)_Airport.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/H-3/H-3_Airport.png"
+        },
+        {
+          "name": "H-3 APC RWY18",
+          "url": "IRAQ/H-3 (Airstrip)/H-3_APC_RWY18.png"
+        },
+        {
+          "name": "H-3 APC RWY36",
+          "url": "IRAQ/H-3 (Airstrip)/H-3_APC_RWY36.png"
+        }
+      ]
     }
   },
   {
@@ -1261,7 +1675,41 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "IRAQ/H-3/H-3_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "IRAQ/H-3/H-3_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "IRAQ/H-3/H-3_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "IRAQ/H-3/H-3_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/H-3 (Airstrip)/H-3 (Airstrip)_Airport.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/H-3/H-3_Airport.png"
+        },
+        {
+          "name": "H-3 APC RWY18",
+          "url": "IRAQ/H-3 (Airstrip)/H-3_APC_RWY18.png"
+        },
+        {
+          "name": "H-3 APC RWY36",
+          "url": "IRAQ/H-3 (Airstrip)/H-3_APC_RWY36.png"
+        }
+      ]
     }
   },
   {
@@ -1307,7 +1755,29 @@
       "ops": "",
       "gnd": "390.150",
       "twr": "283.825",
-      "appdep": "302.800"
+      "appdep": "302.800",
+      "charts": [
+        {
+          "name": "APC RWY02L",
+          "url": "JORDAN/H-4/H-4_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "JORDAN/H-4/H-4_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "JORDAN/H-4/H-4_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "JORDAN/H-4/H-4_APC_RWY20R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "JORDAN/H-4/H-4_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1399,7 +1869,29 @@
       "ops": "",
       "gnd": "290.775",
       "twr": "341.000",
-      "appdep": "352.900"
+      "appdep": "352.900",
+      "charts": [
+        {
+          "name": "APC RWY11L",
+          "url": "ISRAEL/Hatzerim/Hatzerim_APC_RWY11L.png"
+        },
+        {
+          "name": "APC RWY11R",
+          "url": "ISRAEL/Hatzerim/Hatzerim_APC_RWY11R.png"
+        },
+        {
+          "name": "APC RWY29L",
+          "url": "ISRAEL/Hatzerim/Hatzerim_APC_RWY29L.png"
+        },
+        {
+          "name": "APC RWY29R",
+          "url": "ISRAEL/Hatzerim/Hatzerim_APC_RWY29R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Hatzerim/Hatzerim_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1422,7 +1914,41 @@
       "ops": "",
       "gnd": "309.450",
       "twr": "342.050",
-      "appdep": "397.875"
+      "appdep": "397.875",
+      "charts": [
+        {
+          "name": "APC RWY05",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY06",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY11",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY23.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY24.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "ISRAEL/Hatzor/Hatzor_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Hatzor/Hatzor_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1468,7 +1994,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "EGYPT/Hulwan/Hulwan_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "EGYPT/Hulwan/Hulwan_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Hulwan/Hulwan_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1491,7 +2031,21 @@
       "ops": "",
       "gnd": "297.225",
       "twr": "308.500",
-      "appdep": "384.850"
+      "appdep": "384.850",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "EGYPT/Inshas/Inshas_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "EGYPT/Inshas/Inshas_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Inshas/Inshas_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1514,7 +2068,21 @@
       "ops": "",
       "gnd": "266.925",
       "twr": "283.000",
-      "appdep": "357.900"
+      "appdep": "357.900",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "EGYPT/Jinkalis New/Jinkalis New_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "EGYPT/Jinkalis New/Jinkalis New_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Jinkalis New/Jinkalis New_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1652,7 +2220,21 @@
       "ops": "",
       "gnd": "308.725",
       "twr": "313.425",
-      "appdep": "247.675"
+      "appdep": "247.675",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "JORDAN/King Hussein/King Hussein_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "JORDAN/King Hussein/King Hussein_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "JORDAN/King Hussein/King Hussein_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1698,7 +2280,21 @@
       "ops": "",
       "gnd": "275.100",
       "twr": "238.100",
-      "appdep": "352.425"
+      "appdep": "352.425",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "EGYPT/Kirban/Kirban_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "EGYPT/Kirban/Kirban_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Kirban/Kirban_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1790,7 +2386,21 @@
       "ops": "245.025",
       "gnd": "322.450",
       "twr": "273.425",
-      "appdep": "294.050"
+      "appdep": "294.050",
+      "charts": [
+        {
+          "name": "APC RWY06",
+          "url": "SYRIA/Marj Ruhayyil/Marj Ruhayyil_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "SYRIA/Marj Ruhayyil/Marj Ruhayyil_APC_RWY24.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SYRIA/Marj Ruhayyil/Marj Ruhayyil_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1928,7 +2538,33 @@
       "ops": "",
       "gnd": "379.050",
       "twr": "341.500",
-      "appdep": "250.525"
+      "appdep": "250.525",
+      "charts": [
+        {
+          "name": "APC RWY02L",
+          "url": "ISRAEL/Nevatim/Nevatim_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "ISRAEL/Nevatim/Nevatim_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "ISRAEL/Nevatim/Nevatim_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "ISRAEL/Nevatim/Nevatim_APC_RWY20R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Nevatim/Nevatim_Airport.png"
+        },
+        {
+          "name": "ILS 02R",
+          "url": "ISRAEL/Nevatim/Nevatim_ILS_02R.png"
+        }
+      ]
     }
   },
   {
@@ -1974,7 +2610,29 @@
       "ops": "",
       "gnd": "299.725",
       "twr": "340.000",
-      "appdep": "337.625"
+      "appdep": "337.625",
+      "charts": [
+        {
+          "name": "APC RWY03L",
+          "url": "ISRAEL/Ovda/Ovda_APC_RWY03L.png"
+        },
+        {
+          "name": "APC RWY03R",
+          "url": "ISRAEL/Ovda/Ovda_APC_RWY03R.png"
+        },
+        {
+          "name": "APC RWY21L",
+          "url": "ISRAEL/Ovda/Ovda_APC_RWY21L.png"
+        },
+        {
+          "name": "APC RWY21R",
+          "url": "ISRAEL/Ovda/Ovda_APC_RWY21R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Ovda/Ovda_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -1997,7 +2655,21 @@
       "ops": "",
       "gnd": "397.975",
       "twr": "341.350",
-      "appdep": "228.975"
+      "appdep": "228.975",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "ISRAEL/Palmachim/Palmachim_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "ISRAEL/Palmachim/Palmachim_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Palmachim/Palmachim_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2066,7 +2738,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "EGYPT/Port Said/Port Said_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "EGYPT/Port Said/Port Said_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Port Said/Port Said_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2089,7 +2775,21 @@
       "ops": "",
       "gnd": "261.675",
       "twr": "313.600",
-      "appdep": "319.475"
+      "appdep": "319.475",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "JORDAN/Prince Hassan/Prince Hassan_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "JORDAN/Prince Hassan/Prince Hassan_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "JORDAN/Prince Hassan/Prince Hassan_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2135,7 +2835,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "Airport",
+          "url": "JORDAN/Queen Alia Int/Queen Alia Int_Airport.png"
+        },
+        {
+          "name": "Queen Alia INT APC RWY12",
+          "url": "JORDAN/Queen Alia Int/Queen Alia INT_APC_RWY12.png"
+        },
+        {
+          "name": "Queen Alia INT APC RWY30",
+          "url": "JORDAN/Queen Alia Int/Queen Alia INT_APC_RWY30.png"
+        }
+      ]
     }
   },
   {
@@ -2158,7 +2872,33 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "Intl APC RWY05L",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_APC_RWY05L.png"
+        },
+        {
+          "name": "Intl APC RWY05R",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_APC_RWY05R.png"
+        },
+        {
+          "name": "Intl APC RWY23L",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_APC_RWY23L.png"
+        },
+        {
+          "name": "Intl APC RWY23R",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_APC_RWY23R.png"
+        },
+        {
+          "name": "Intl Airport",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_Airport.png"
+        },
+        {
+          "name": "Intl ILS 05Lt",
+          "url": "LEBANON/Rafic Hariri/Rafic Hariri Intl_ILS_05Lt.png"
+        }
+      ]
     }
   },
   {
@@ -2181,7 +2921,37 @@
       "ops": "",
       "gnd": "360.750",
       "twr": "341.400",
-      "appdep": "292.425"
+      "appdep": "292.425",
+      "charts": [
+        {
+          "name": "APC RWY09",
+          "url": "ISRAEL/Ramat David/Ramat David_APC_RWY09.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "ISRAEL/Ramat David/Ramat David_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY27",
+          "url": "ISRAEL/Ramat David/Ramat David_APC_RWY27.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "ISRAEL/Ramat David/Ramat David_APC_RWY33.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Ramat David/Ramat David_Airport.png"
+        },
+        {
+          "name": "ILS 26",
+          "url": "ISRAEL/Ramat David/Ramat David_ILS_26.png"
+        },
+        {
+          "name": "ILS 27",
+          "url": "ISRAEL/Ramat David/Ramat David_ILS_27.png"
+        }
+      ]
     }
   },
   {
@@ -2204,7 +2974,29 @@
       "ops": "",
       "gnd": "364.450",
       "twr": "340.500",
-      "appdep": "289.275"
+      "appdep": "289.275",
+      "charts": [
+        {
+          "name": "APC RWY07L",
+          "url": "ISRAEL/Ramon/Ramon_APC_RWY07L.png"
+        },
+        {
+          "name": "APC RWY07R",
+          "url": "ISRAEL/Ramon/Ramon_APC_RWY07R.png"
+        },
+        {
+          "name": "APC RWY25L",
+          "url": "ISRAEL/Ramon/Ramon_APC_RWY25L.png"
+        },
+        {
+          "name": "APC RWY25R",
+          "url": "ISRAEL/Ramon/Ramon_APC_RWY25R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "ISRAEL/Ramon/Ramon_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2250,7 +3042,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY11",
+          "url": "EGYPT/Ras Jimsha New/Ras Jimsha New_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "EGYPT/Ras Jimsha New/Ras Jimsha New_APC_RWY29.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Ras Jimsha New/Ras Jimsha New_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2273,7 +3079,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY02",
+          "url": "EGYPT/Ras Shukhayar New/Ras Shukhayar New_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "EGYPT/Ras Shukhayar New/Ras Shukhayar New_APC_RWY20.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Ras Shukhayar New/Ras Shukhayar New_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2296,7 +3116,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY16",
+          "url": "EGYPT/Ras Sudr/Ras Sudr_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "EGYPT/Ras Sudr/Ras Sudr_APC_RWY34.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Ras Sudr/Ras Sudr_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2342,7 +3176,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "LEBANON/Riyaq/Riyaq_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "LEBANON/Riyaq/Riyaq_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "LEBANON/Riyaq/Riyaq_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2365,7 +3213,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "Rosh Pina APC RWY18",
+          "url": "ISRAEL/Rosh Pina (Airstrip)/Rosh Pina_APC_RWY18.png"
+        },
+        {
+          "name": "Rosh Pina APC RWY36",
+          "url": "ISRAEL/Rosh Pina (Airstrip)/Rosh Pina_APC_RWY36.png"
+        },
+        {
+          "name": "Rosh Pina Airport",
+          "url": "ISRAEL/Rosh Pina (Airstrip)/Rosh Pina_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2388,7 +3250,21 @@
       "ops": "",
       "gnd": "370.175",
       "twr": "370.650",
-      "appdep": "270.850"
+      "appdep": "270.850",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "IRAQ/Ruwayshid/Ruwayshid_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "IRAQ/Ruwayshid/Ruwayshid_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "IRAQ/Ruwayshid/Ruwayshid_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2411,7 +3287,29 @@
       "ops": "282.900",
       "gnd": "252.825",
       "twr": "302.275",
-      "appdep": "236.875"
+      "appdep": "236.875",
+      "charts": [
+        {
+          "name": "APC RWY06",
+          "url": "SYRIA/Sayqal/Sayqal_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY09",
+          "url": "SYRIA/Sayqal/Sayqal_APC_RWY09.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "SYRIA/Sayqal/Sayqal_APC_RWY24.png"
+        },
+        {
+          "name": "APC RWY27",
+          "url": "SYRIA/Sayqal/Sayqal_APC_RWY27.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SYRIA/Sayqal/Sayqal_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2457,7 +3355,25 @@
       "ops": "",
       "gnd": "262.100",
       "twr": "328.500",
-      "appdep": "339.150"
+      "appdep": "339.150",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "JORDAN/Shaheed Mwaffaq/Shaheed Mwaffaq_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "JORDAN/Shaheed Mwaffaq/Shaheed Mwaffaq_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "JORDAN/Shaheed Mwaffaq/Shaheed Mwaffaq_Airport.psd.png"
+        },
+        {
+          "name": "TCN 08",
+          "url": "JORDAN/Shaheed Mwaffaq/Shaheed Mwaffaq_TCN_08.png"
+        }
+      ]
     }
   },
   {
@@ -2503,7 +3419,21 @@
       "ops": "303.075",
       "gnd": "232.725",
       "twr": "294.375",
-      "appdep": "273.875"
+      "appdep": "273.875",
+      "charts": [
+        {
+          "name": "APC RWY14",
+          "url": "SYRIA/Shayrat/Shayrat_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "SYRIA/Shayrat/Shayrat_APC_RWY32.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SYRIA/Shayrat/Shayrat_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2664,7 +3594,21 @@
       "ops": "",
       "gnd": "386.175",
       "twr": "297.875",
-      "appdep": "314.525"
+      "appdep": "314.525",
+      "charts": [
+        {
+          "name": "APC RWY08",
+          "url": "EGYPT/Tanta/Tanta_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "EGYPT/Tanta/Tanta_APC_RWY26.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Tanta/Tanta_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2687,7 +3631,41 @@
       "ops": "",
       "gnd": "389.075",
       "twr": "342.000",
-      "appdep": "250.825"
+      "appdep": "250.825",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY18",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY18.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY19.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY33.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "ISRAEL/Tel Nof/Tel Nof_APC_RWY36.png"
+        },
+        {
+          "name": "ILS 18",
+          "url": "ISRAEL/Tel Nof/Tel Nof_ILS_18.png"
+        },
+        {
+          "name": "airport",
+          "url": "ISRAEL/Tel Nof/Tel Nof_airport.png"
+        }
+      ]
     }
   },
   {
@@ -2756,7 +3734,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY01",
+          "url": "SAUDI ARABIA/Turaif/Turaif_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "SAUDI ARABIA/Turaif/Turaif_APC_RWY19.png"
+        },
+        {
+          "name": "Airport",
+          "url": "SAUDI ARABIA/Turaif/Turaif_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2825,7 +3817,21 @@
       "ops": "",
       "gnd": "269.750",
       "twr": "361.550",
-      "appdep": "360.200"
+      "appdep": "360.200",
+      "charts": [
+        {
+          "name": "APC RWY03",
+          "url": "EGYPT/Wadi Al Jandali/Wadi Al Jandali_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "EGYPT/Wadi Al Jandali/Wadi Al Jandali_APC_RWY21.png"
+        },
+        {
+          "name": "Airport",
+          "url": "EGYPT/Wadi Al Jandali/Wadi Al Jandali_Airport.png"
+        }
+      ]
     }
   },
   {
@@ -2848,7 +3854,29 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "APC RWY05L",
+          "url": "LEBANON/Wujah Al Hajar/Wujah Al Hajar_APC_RWY05L.png"
+        },
+        {
+          "name": "APC RWY05R",
+          "url": "LEBANON/Wujah Al Hajar/Wujah Al Hajar_APC_RWY05R.png"
+        },
+        {
+          "name": "APC RWY23L",
+          "url": "LEBANON/Wujah Al Hajar/Wujah Al Hajar_APC_RWY23L.png"
+        },
+        {
+          "name": "APC RWY23R",
+          "url": "LEBANON/Wujah Al Hajar/Wujah Al Hajar_APC_RWY23R.png"
+        },
+        {
+          "name": "Airport",
+          "url": "LEBANON/Wujah Al Hajar/Wujah Al Hajar_Airport.png"
+        }
+      ]
     }
   },
   {

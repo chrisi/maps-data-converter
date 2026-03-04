@@ -19,7 +19,21 @@
       "ops": "",
       "gnd": "225.400",
       "twr": "225.450",
-      "appdep": "225.500"
+      "appdep": "225.500",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Anshan (ZYAS)/Anshan (ZYAS)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Anshan (ZYAS)/Anshan (ZYAS)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Anshan (ZYAS)/Anshan (ZYAS)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -88,7 +102,21 @@
       "ops": "",
       "gnd": "225.550",
       "twr": "225.600",
-      "appdep": "225.975"
+      "appdep": "225.975",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Changbaishan (ZYBS)/Changbaishan (ZYBS)_AGC.png"
+        },
+        {
+          "name": "APC RWY02",
+          "url": "04 China (PRC)/Changbaishan (ZYBS)/Changbaishan (ZYBS)_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "04 China (PRC)/Changbaishan (ZYBS)/Changbaishan (ZYBS)_APC_RWY20.png"
+        }
+      ]
     }
   },
   {
@@ -111,7 +139,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Changjin-Up (ZKJN)/Changjin-Up (ZKJN)_AGC.png"
+        },
+        {
+          "name": "APC RWY16",
+          "url": "03 North Korea (DPRK)/Changjin-Up (ZKJN)/Changjin-Up (ZKJN)_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "03 North Korea (DPRK)/Changjin-Up (ZKJN)/Changjin-Up (ZKJN)_APC_RWY34.png"
+        }
+      ]
     }
   },
   {
@@ -134,7 +176,53 @@
       "ops": "305.500",
       "gnd": "275.850",
       "twr": "236.600",
-      "appdep": "265.750"
+      "appdep": "265.750",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_AGC.png"
+        },
+        {
+          "name": "APC RWY06L",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_APC_RWY06L.png"
+        },
+        {
+          "name": "APC RWY06R",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_APC_RWY06R.png"
+        },
+        {
+          "name": "APC RWY24L",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_APC_RWY24L.png"
+        },
+        {
+          "name": "APC RWY24R",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_APC_RWY24R.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU)_EOR.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU) - STAR.pdf"
+        },
+        {
+          "name": "VISUAL",
+          "url": "01 South Korea (ROK-US)/Cheongju Intl (RKTU)/Cheongju Intl (RKTU) - VISUAL.pdf"
+        }
+      ]
     }
   },
   {
@@ -180,7 +268,53 @@
       "ops": "240.600",
       "gnd": "275.800",
       "twr": "365.000",
-      "appdep": "346.300"
+      "appdep": "346.300",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_AGC.png"
+        },
+        {
+          "name": "APC RWY13L",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_APC_RWY13L.png"
+        },
+        {
+          "name": "APC RWY13R",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_APC_RWY13R.png"
+        },
+        {
+          "name": "APC RWY31L",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_APC_RWY31L.png"
+        },
+        {
+          "name": "APC RWY31R",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_APC_RWY31R.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN)_EOR.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN) - STAR.pdf"
+        },
+        {
+          "name": "VISUAL",
+          "url": "01 South Korea (ROK-US)/Daegu AB (RKTN)/Daegu AB (RKTN) - VISUAL.pdf"
+        }
+      ]
     }
   },
   {
@@ -226,7 +360,21 @@
       "ops": "",
       "gnd": "225.850",
       "twr": "225.925",
-      "appdep": "225.975"
+      "appdep": "225.975",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Dalian Sanshilipu (ZYLP)/Dalian Sanshilipu (ZYLP)_AGC.png"
+        },
+        {
+          "name": "APC RWY12",
+          "url": "04 China (PRC)/Dalian Sanshilipu (ZYLP)/Dalian Sanshilipu (ZYLP)_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "04 China (PRC)/Dalian Sanshilipu (ZYLP)/Dalian Sanshilipu (ZYLP)_APC_RWY30.png"
+        }
+      ]
     }
   },
   {
@@ -272,7 +420,21 @@
       "ops": "",
       "gnd": "226.000",
       "twr": "226.025",
-      "appdep": "226.100"
+      "appdep": "226.100",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Dandong Langtou (ZYDD)/Dandong Langtou (ZYDD)_AGC.png"
+        },
+        {
+          "name": "APC RWY01",
+          "url": "04 China (PRC)/Dandong Langtou (ZYDD)/Dandong Langtou (ZYDD)_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "04 China (PRC)/Dandong Langtou (ZYDD)/Dandong Langtou (ZYDD)_APC_RWY19.png"
+        }
+      ]
     }
   },
   {
@@ -341,7 +503,41 @@
       "ops": "",
       "gnd": "226.150",
       "twr": "226.200",
-      "appdep": "226.275"
+      "appdep": "226.275",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_AGC.png"
+        },
+        {
+          "name": "APC RWY02L",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY20R.png"
+        },
+        {
+          "name": "Fuxin AGC",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_AGC.png"
+        },
+        {
+          "name": "Fuxin APC RWY09",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_APC_RWY09.png"
+        },
+        {
+          "name": "Fuxin APC RWY27",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_APC_RWY27.png"
+        }
+      ]
     }
   },
   {
@@ -364,7 +560,41 @@
       "ops": "",
       "gnd": "226.300",
       "twr": "226.350",
-      "appdep": "226.400"
+      "appdep": "226.400",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_AGC.png"
+        },
+        {
+          "name": "APC RWY02L",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY02L.png"
+        },
+        {
+          "name": "APC RWY02R",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY02R.png"
+        },
+        {
+          "name": "APC RWY20L",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY20L.png"
+        },
+        {
+          "name": "APC RWY20R",
+          "url": "04 China (PRC)/Fuxin (ZXFX)/Fuxin (ZXFX)_APC_RWY20R.png"
+        },
+        {
+          "name": "Fuxin AGC",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_AGC.png"
+        },
+        {
+          "name": "Fuxin APC RWY09",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_APC_RWY09.png"
+        },
+        {
+          "name": "Fuxin APC RWY27",
+          "url": "04 China (PRC)/Fuxin Airstrip/Fuxin_APC_RWY27.png"
+        }
+      ]
     }
   },
   {
@@ -387,7 +617,49 @@
       "ops": "226.175",
       "gnd": "275.800",
       "twr": "334.900",
-      "appdep": "304.000"
+      "appdep": "304.000",
+      "charts": [
+        {
+          "name": "1d dep",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - 1d_dep.pdf"
+        },
+        {
+          "name": "3 dep",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - 3_dep.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN)_AGC.png"
+        },
+        {
+          "name": "APC RWY08",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN)_APC_RWY08.png"
+        },
+        {
+          "name": "APC RWY26",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN)_APC_RWY26.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN)_EOR.png"
+        },
+        {
+          "name": "hi tacan y rwy 26",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - hi_tacan_y_rwy_26.pdf"
+        },
+        {
+          "name": "hi tacan z rwy 26",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - hi_tacan_z_rwy_26.pdf"
+        },
+        {
+          "name": "pilit dep",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - pilit_dep.pdf"
+        },
+        {
+          "name": "tacan rwy 26",
+          "url": "01 South Korea (ROK-US)/Gangneung AB (RKNN)/Gangneung AB (RKNN) - tacan_rwy_26.pdf"
+        }
+      ]
     }
   },
   {
@@ -433,7 +705,49 @@
       "ops": "235.100",
       "gnd": "274.800",
       "twr": "233.300",
-      "appdep": "225.100"
+      "appdep": "225.100",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK)_AGC.png"
+        },
+        {
+          "name": "APC RWY18L",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK)_APC_RWY18L.png"
+        },
+        {
+          "name": "APC RWY18R",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK)_APC_RWY18R.png"
+        },
+        {
+          "name": "APC RWY36L",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK)_APC_RWY36L.png"
+        },
+        {
+          "name": "APC RWY36R",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK)_APC_RWY36R.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK) - STAR.pdf"
+        },
+        {
+          "name": "VISUAL",
+          "url": "01 South Korea (ROK-US)/Gimhae Intl (RKPK)/Gimhae Intl (RKPK) - VISUAL.pdf"
+        }
+      ]
     }
   },
   {
@@ -533,7 +847,21 @@
       "ops": "",
       "gnd": "",
       "twr": "236.600",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Gumi Highway Strip/Gumi Highway Strip_AGC.png"
+        },
+        {
+          "name": "APC RWY09",
+          "url": "01 South Korea (ROK-US)/Gumi Highway Strip/Gumi Highway Strip_APC_RWY09.png"
+        },
+        {
+          "name": "APC RWY27",
+          "url": "01 South Korea (ROK-US)/Gumi Highway Strip/Gumi Highway Strip_APC_RWY27.png"
+        }
+      ]
     }
   },
   {
@@ -556,7 +884,41 @@
       "ops": "304.800",
       "gnd": "273.525",
       "twr": "292.300",
-      "appdep": "292.650"
+      "appdep": "292.650",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ADC.pdf"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 18 (110.3)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 36 (110.3)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 3
+        },
+        {
+          "name": "TACAN RWY 18 (112.8)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 5
+        },
+        {
+          "name": "TACAN RWY 36 (112.8)",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Gunsan AB (RKJK)/Gunsan AB (RKJK) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -579,7 +941,53 @@
       "ops": "234.700",
       "gnd": "275.800",
       "twr": "254.600",
-      "appdep": "268.000"
+      "appdep": "268.000",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_AGC.png"
+        },
+        {
+          "name": "APC RWY04L",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_APC_RWY04L.png"
+        },
+        {
+          "name": "APC RWY04R",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_APC_RWY04R.png"
+        },
+        {
+          "name": "APC RWY22L",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_APC_RWY22L.png"
+        },
+        {
+          "name": "APC RWY22R",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_APC_RWY22R.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ)_EOR.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ) - STAR.pdf"
+        },
+        {
+          "name": "VISUAL",
+          "url": "01 South Korea (ROK-US)/Gwangju AB (RKJJ)/Gwangju AB (RKJJ) - VISUAL.pdf"
+        }
+      ]
     }
   },
   {
@@ -625,7 +1033,21 @@
       "ops": "315.250",
       "gnd": "282.600",
       "twr": "280.400",
-      "appdep": "278.600"
+      "appdep": "278.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Haeju Airstrip/Haeju Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "03 North Korea (DPRK)/Haeju Airstrip/Haeju Airstrip_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "03 North Korea (DPRK)/Haeju Airstrip/Haeju Airstrip_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -648,7 +1070,29 @@
       "ops": "314.625",
       "gnd": "299.300",
       "twr": "357.650",
-      "appdep": "392.625"
+      "appdep": "392.625",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "02 Japan (JAPAN)/Hiroshima (RJOA)/Hiroshima (RJOA)_AGC.png"
+        },
+        {
+          "name": "APC RWY10",
+          "url": "02 Japan (JAPAN)/Hiroshima (RJOA)/Hiroshima (RJOA)_APC_RWY10.png"
+        },
+        {
+          "name": "APC RWY28",
+          "url": "02 Japan (JAPAN)/Hiroshima (RJOA)/Hiroshima (RJOA)_APC_RWY28.png"
+        },
+        {
+          "name": "ILS",
+          "url": "02 Japan (JAPAN)/Hiroshima (RJOA)/Hiroshima (RJOA) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "02 Japan (JAPAN)/Hiroshima (RJOA)/Hiroshima (RJOA) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -694,7 +1138,21 @@
       "ops": "362.525",
       "gnd": "338.400",
       "twr": "337.600",
-      "appdep": "335.200"
+      "appdep": "335.200",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Hwangju/Hwangju_AGC.png"
+        },
+        {
+          "name": "APC RWY13",
+          "url": "03 North Korea (DPRK)/Hwangju/Hwangju_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "03 North Korea (DPRK)/Hwangju/Hwangju_APC_RWY31.png"
+        }
+      ]
     }
   },
   {
@@ -717,7 +1175,21 @@
       "ops": "360.000",
       "gnd": "312.600",
       "twr": "368.500",
-      "appdep": "344.300"
+      "appdep": "344.300",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Hwangsuwon/Hwangsuwon_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "03 North Korea (DPRK)/Hwangsuwon/Hwangsuwon_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "03 North Korea (DPRK)/Hwangsuwon/Hwangsuwon_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -740,7 +1212,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Hyangsan Airstrip/Hyangsan Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY13",
+          "url": "03 North Korea (DPRK)/Hyangsan Airstrip/Hyangsan Airstrip_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "03 North Korea (DPRK)/Hyangsan Airstrip/Hyangsan Airstrip_APC_RWY31.png"
+        }
+      ]
     }
   },
   {
@@ -763,7 +1249,21 @@
       "ops": "298.200",
       "gnd": "241.900",
       "twr": "242.900",
-      "appdep": "230.500"
+      "appdep": "230.500",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Hyon-Ni/Hyon-Ni_AGC.png"
+        },
+        {
+          "name": "APC RWY02",
+          "url": "03 North Korea (DPRK)/Hyon-Ni/Hyon-Ni_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "03 North Korea (DPRK)/Hyon-Ni/Hyon-Ni_APC_RWY20.png"
+        }
+      ]
     }
   },
   {
@@ -871,7 +1371,49 @@
       "ops": "335.700",
       "gnd": "321.300",
       "twr": "299.750",
-      "appdep": "331.400"
+      "appdep": "331.400",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI)_AGC.png"
+        },
+        {
+          "name": "APC RWY01",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI)_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI)_APC_RWY19.png"
+        },
+        {
+          "name": "hi tacan rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - hi_tacan_rwy_02.pdf"
+        },
+        {
+          "name": "hi tacan y rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - hi_tacan_y_rwy_02.pdf"
+        },
+        {
+          "name": "ils rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - ils_rwy_02.pdf"
+        },
+        {
+          "name": "matsuyama se dep obstacle rnav",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - matsuyama_se_dep_obstacle_rnav.pdf"
+        },
+        {
+          "name": "rnav gps rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - rnav_gps_rwy_02.pdf"
+        },
+        {
+          "name": "tacan rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - tacan_rwy_02.pdf"
+        },
+        {
+          "name": "tacan z rwy 02",
+          "url": "02 Japan (JAPAN)/Iwakuni MCAS (RJOI)/Iwakuni MCAS (RJOI) - tacan_z_rwy_02.pdf"
+        }
+      ]
     }
   },
   {
@@ -917,7 +1459,21 @@
       "ops": "256.000",
       "gnd": "236.800",
       "twr": "225.625",
-      "appdep": "279.200"
+      "appdep": "279.200",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "02 Japan (JAPAN)/Iwami (RJOW)/Iwami (RJOW)_AGC.png"
+        },
+        {
+          "name": "APC RWY11",
+          "url": "02 Japan (JAPAN)/Iwami (RJOW)/Iwami (RJOW)_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "02 Japan (JAPAN)/Iwami (RJOW)/Iwami (RJOW)_APC_RWY29.png"
+        }
+      ]
     }
   },
   {
@@ -940,7 +1496,21 @@
       "ops": "300.600",
       "gnd": "240.600",
       "twr": "234.400",
-      "appdep": "228.900"
+      "appdep": "228.900",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Iwon/Iwon_AGC.png"
+        },
+        {
+          "name": "APC RWY11",
+          "url": "03 North Korea (DPRK)/Iwon/Iwon_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "03 North Korea (DPRK)/Iwon/Iwon_APC_RWY29.png"
+        }
+      ]
     }
   },
   {
@@ -986,7 +1556,39 @@
       "ops": "234.950",
       "gnd": "275.900",
       "twr": "230.150",
-      "appdep": "306.700"
+      "appdep": "306.700",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Jungwon/Jungwon_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 36R (111.3)",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - ilsdme_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36L",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36l.pdf",
+          "width": 551
+        },
+        {
+          "name": "TACAN RWY 36R",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - tacan_rwy_36r.pdf",
+          "width": 551
+        },
+        {
+          "name": "Jungwon 2 Departure",
+          "url": "01 South Korea (ROK-US)/Jungwon AB (RKTI)/Jungwon AB (RKTI) - jungwon_dep.pdf",
+          "width": 551
+        }
+      ]
     }
   },
   {
@@ -1009,7 +1611,21 @@
       "ops": "395.500",
       "gnd": "333.100",
       "twr": "350.000",
-      "appdep": "340.800"
+      "appdep": "340.800",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kaechon/Kaechon_AGC.png"
+        },
+        {
+          "name": "APC RWY05",
+          "url": "03 North Korea (DPRK)/Kaechon/Kaechon_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "03 North Korea (DPRK)/Kaechon/Kaechon_APC_RWY23.png"
+        }
+      ]
     }
   },
   {
@@ -1032,7 +1648,21 @@
       "ops": "",
       "gnd": "226.475",
       "twr": "226.500",
-      "appdep": "226.575"
+      "appdep": "226.575",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Kaiyuan-Tieling (ZYKT)/Kaiyuan-Tieling (ZYKT)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Kaiyuan-Tieling (ZYKT)/Kaiyuan-Tieling (ZYKT)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Kaiyuan-Tieling (ZYKT)/Kaiyuan-Tieling (ZYKT)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1055,7 +1685,29 @@
       "ops": "347.400",
       "gnd": "240.650",
       "twr": "244.400",
-      "appdep": "264.400"
+      "appdep": "264.400",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kalma (ZKWS)/Kalma (ZKWS)_AGC.png"
+        },
+        {
+          "name": "APC RWY16L",
+          "url": "03 North Korea (DPRK)/Kalma (ZKWS)/Kalma (ZKWS)_APC_RWY16L.png"
+        },
+        {
+          "name": "APC RWY16R",
+          "url": "03 North Korea (DPRK)/Kalma (ZKWS)/Kalma (ZKWS)_APC_RWY16R.png"
+        },
+        {
+          "name": "APC RWY34L",
+          "url": "03 North Korea (DPRK)/Kalma (ZKWS)/Kalma (ZKWS)_APC_RWY34L.png"
+        },
+        {
+          "name": "APC RWY34R",
+          "url": "03 North Korea (DPRK)/Kalma (ZKWS)/Kalma (ZKWS)_APC_RWY34R.png"
+        }
+      ]
     }
   },
   {
@@ -1078,7 +1730,21 @@
       "ops": "",
       "gnd": "",
       "twr": "231.400",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kangdong Airstrip/Kangdong Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "03 North Korea (DPRK)/Kangdong Airstrip/Kangdong Airstrip_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "03 North Korea (DPRK)/Kangdong Airstrip/Kangdong Airstrip_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1101,7 +1767,21 @@
       "ops": "",
       "gnd": "",
       "twr": "231.400",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kilchu Airstrip/Kilchu Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "03 North Korea (DPRK)/Kilchu Airstrip/Kilchu Airstrip_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "03 North Korea (DPRK)/Kilchu Airstrip/Kilchu Airstrip_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1124,7 +1804,21 @@
       "ops": "314.800",
       "gnd": "320.200",
       "twr": "318.200",
-      "appdep": "319.200"
+      "appdep": "319.200",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Koksan/Koksan_AGC.png"
+        },
+        {
+          "name": "APC RWY07",
+          "url": "03 North Korea (DPRK)/Koksan/Koksan_APC_RWY07.png"
+        },
+        {
+          "name": "APC RWY25",
+          "url": "03 North Korea (DPRK)/Koksan/Koksan_APC_RWY25.png"
+        }
+      ]
     }
   },
   {
@@ -1170,7 +1864,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kuktong/Kuktong_AGC.png"
+        },
+        {
+          "name": "APC RWY10",
+          "url": "03 North Korea (DPRK)/Kuktong/Kuktong_APC_RWY10.png"
+        },
+        {
+          "name": "APC RWY28",
+          "url": "03 North Korea (DPRK)/Kuktong/Kuktong_APC_RWY28.png"
+        }
+      ]
     }
   },
   {
@@ -1216,7 +1924,21 @@
       "ops": "320.900",
       "gnd": "350.200",
       "twr": "388.700",
-      "appdep": "380.600"
+      "appdep": "380.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kuum-Ni/Kuum-Ni_AGC.png"
+        },
+        {
+          "name": "APC RWY06",
+          "url": "03 North Korea (DPRK)/Kuum-Ni/Kuum-Ni_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "03 North Korea (DPRK)/Kuum-Ni/Kuum-Ni_APC_RWY24.png"
+        }
+      ]
     }
   },
   {
@@ -1239,7 +1961,21 @@
       "ops": "368.450",
       "gnd": "350.000",
       "twr": "349.400",
-      "appdep": "349.600"
+      "appdep": "349.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kwail/Kwail_AGC.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "03 North Korea (DPRK)/Kwail/Kwail_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "03 North Korea (DPRK)/Kwail/Kwail_APC_RWY33.png"
+        }
+      ]
     }
   },
   {
@@ -1262,7 +1998,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Kwaksan/Kwaksan_AGC.png"
+        },
+        {
+          "name": "APC RWY04",
+          "url": "03 North Korea (DPRK)/Kwaksan/Kwaksan_APC_RWY04.png"
+        },
+        {
+          "name": "APC RWY22",
+          "url": "03 North Korea (DPRK)/Kwaksan/Kwaksan_APC_RWY22.png"
+        }
+      ]
     }
   },
   {
@@ -1285,7 +2035,21 @@
       "ops": "",
       "gnd": "226.600",
       "twr": "226.675",
-      "appdep": "226.700"
+      "appdep": "226.700",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Laoohutun (ZYLN)/Laoohutun (ZYLN)_AGC.png"
+        },
+        {
+          "name": "APC RWY06",
+          "url": "04 China (PRC)/Laoohutun (ZYLN)/Laoohutun (ZYLN)_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "04 China (PRC)/Laoohutun (ZYLN)/Laoohutun (ZYLN)_APC_RWY24.png"
+        }
+      ]
     }
   },
   {
@@ -1308,7 +2072,21 @@
       "ops": "",
       "gnd": "226.800",
       "twr": "226.875",
-      "appdep": "226.900"
+      "appdep": "226.900",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Liaoyang  (ZYLY)/Liaoyang  (ZYLY)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Liaoyang  (ZYLY)/Liaoyang  (ZYLY)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Liaoyang  (ZYLY)/Liaoyang  (ZYLY)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1331,7 +2109,21 @@
       "ops": "326.700",
       "gnd": "262.650",
       "twr": "242.400",
-      "appdep": "262.400"
+      "appdep": "262.400",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Manpo/Manpo_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "03 North Korea (DPRK)/Manpo/Manpo_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "03 North Korea (DPRK)/Manpo/Manpo_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1377,7 +2169,21 @@
       "ops": "290.500",
       "gnd": "225.100",
       "twr": "225.300",
-      "appdep": "225.200"
+      "appdep": "225.200",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Mirim/Mirim_AGC.png"
+        },
+        {
+          "name": "APC RWY10",
+          "url": "03 North Korea (DPRK)/Mirim/Mirim_APC_RWY10.png"
+        },
+        {
+          "name": "APC RWY28",
+          "url": "03 North Korea (DPRK)/Mirim/Mirim_APC_RWY28.png"
+        }
+      ]
     }
   },
   {
@@ -1450,7 +2256,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Nuchon-ni/Nuchon-ni_AGC.png"
+        },
+        {
+          "name": "APC RWY11",
+          "url": "03 North Korea (DPRK)/Nuchon-ni/Nuchon-ni_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "03 North Korea (DPRK)/Nuchon-ni/Nuchon-ni_APC_RWY29.png"
+        }
+      ]
     }
   },
   {
@@ -1473,7 +2293,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Okpyongni Highwaystrip/Okpyongni Highwaystrip_AGC.png"
+        },
+        {
+          "name": "APC RWY16",
+          "url": "03 North Korea (DPRK)/Okpyongni Highwaystrip/Okpyongni Highwaystrip_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "03 North Korea (DPRK)/Okpyongni Highwaystrip/Okpyongni Highwaystrip_APC_RWY34.png"
+        }
+      ]
     }
   },
   {
@@ -1496,7 +2330,21 @@
       "ops": "314.800",
       "gnd": "300.600",
       "twr": "302.400",
-      "appdep": "301.700"
+      "appdep": "301.700",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Onchon/Onchon_AGC.png"
+        },
+        {
+          "name": "APC RWY01",
+          "url": "03 North Korea (DPRK)/Onchon/Onchon_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "03 North Korea (DPRK)/Onchon/Onchon_APC_RWY19.png"
+        }
+      ]
     }
   },
   {
@@ -1519,7 +2367,21 @@
       "ops": "304.600",
       "gnd": "263.100",
       "twr": "264.000",
-      "appdep": "244.300"
+      "appdep": "244.300",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Orang/Orang_AGC.png"
+        },
+        {
+          "name": "APC RWY04",
+          "url": "03 North Korea (DPRK)/Orang/Orang_APC_RWY04.png"
+        },
+        {
+          "name": "APC RWY22",
+          "url": "03 North Korea (DPRK)/Orang/Orang_APC_RWY22.png"
+        }
+      ]
     }
   },
   {
@@ -1542,7 +2404,49 @@
       "ops": "272.700",
       "gnd": "253.700",
       "twr": "308.800",
-      "appdep": "306.300"
+      "appdep": "306.300",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "https://cdn.falcon-bms.com/maps/01_KTO/charts/01 South Korea/Osan/Osan_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 09L (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 27R (111.3)",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - ils_or_locdme_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 09L",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_09l.pdf",
+          "width": 551
+        },
+        {
+          "name": "RNAV RWY 27R",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - rnav_gps_rwy_27r.pdf",
+          "width": 551
+        },
+        {
+          "name": "DRAGGIN 8 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - draggin_dep.pdf",
+          "width": 551
+        },
+        {
+          "name": "MUSTANG 4 Departure",
+          "url": "01 South Korea (ROK-US)/Osan AB (RKSO)/Osan AB (RKSO) - mustang_dep.pdf",
+          "width": 551
+        }
+      ]
     }
   },
   {
@@ -1565,7 +2469,21 @@
       "ops": "360.200",
       "gnd": "271.600",
       "twr": "270.800",
-      "appdep": "268.600"
+      "appdep": "268.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Panghyon/Panghyon_AGC.png"
+        },
+        {
+          "name": "APC RWY13",
+          "url": "03 North Korea (DPRK)/Panghyon/Panghyon_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "03 North Korea (DPRK)/Panghyon/Panghyon_APC_RWY31.png"
+        }
+      ]
     }
   },
   {
@@ -1588,7 +2506,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Panghyon Highwaystrip South/Panghyon Highwaystrip South_AGC.png"
+        },
+        {
+          "name": "APC RWY12",
+          "url": "03 North Korea (DPRK)/Panghyon Highwaystrip South/Panghyon Highwaystrip South_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "03 North Korea (DPRK)/Panghyon Highwaystrip South/Panghyon Highwaystrip South_APC_RWY30.png"
+        }
+      ]
     }
   },
   {
@@ -1634,7 +2566,33 @@
       "ops": "317.375",
       "gnd": "275.400",
       "twr": "236.600",
-      "appdep": "232.400"
+      "appdep": "232.400",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ADC.pdf",
+          "width": 860,
+          "height": 600
+        },
+        {
+          "name": "ILS RWY 10 (110.9)",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf"
+        },
+        {
+          "name": "TACAN RWY 10",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 3
+        },
+        {
+          "name": "TACAN RWY 28",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - ILS.pdf",
+          "page": 9
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Pohang AB (RKTH)/Pohang AB (RKTH) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1657,7 +2615,21 @@
       "ops": "382.500",
       "gnd": "265.500",
       "twr": "264.900",
-      "appdep": "265.100"
+      "appdep": "265.100",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Pukchang-up/Pukchang-up_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "03 North Korea (DPRK)/Pukchang-up/Pukchang-up_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "03 North Korea (DPRK)/Pukchang-up/Pukchang-up_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -1680,7 +2652,21 @@
       "ops": "",
       "gnd": "227.200",
       "twr": "227.250",
-      "appdep": "227.300"
+      "appdep": "227.300",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Pulandian (ZYPD)/Pulandian (ZYPD)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Pulandian (ZYPD)/Pulandian (ZYPD)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Pulandian (ZYPD)/Pulandian (ZYPD)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -1703,7 +2689,26 @@
       "ops": "294.100",
       "gnd": "229.700",
       "twr": "257.800",
-      "appdep": "363.100"
+      "appdep": "363.100",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Pyeongtaek/Pyeongtaek_Airport.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 32 (108.75)",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - ils_or_loc_rwy_32.pdf"
+        },
+        {
+          "name": "DVOR RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - dvor_rwy_32.pdf"
+        },
+        {
+          "name": "RNAV RWY 32",
+          "url": "01 South Korea (ROK-US)/Pyeongtaek AAF (RKSG)/Pyeongtaek AAF (RKSG) - rnav_gps_rwy_32.pdf"
+        }
+      ]
     }
   },
   {
@@ -1726,7 +2731,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Pyongyang Elite Airstrip/Pyongyang Elite Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY17",
+          "url": "03 North Korea (DPRK)/Pyongyang Elite Airstrip/Pyongyang Elite Airstrip_APC_RWY17.png"
+        },
+        {
+          "name": "APC RWY35",
+          "url": "03 North Korea (DPRK)/Pyongyang Elite Airstrip/Pyongyang Elite Airstrip_APC_RWY35.png"
+        }
+      ]
     }
   },
   {
@@ -1749,7 +2768,45 @@
       "ops": "225.475",
       "gnd": "275.800",
       "twr": "305.400",
-      "appdep": "317.425"
+      "appdep": "317.425",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ADC.pdf"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 06L (111.5)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 24R (108.1)",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 17
+        },
+        {
+          "name": "TACAN RWY 06L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 5
+        },
+        {
+          "name": "TACAN RWY 24L",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - ILS.pdf",
+          "page": 29
+        },
+        {
+          "name": "Standard Arrivals",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - STAR.pdf"
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Sacheon AB (RKPS)/Sacheon AB (RKPS) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1795,7 +2852,21 @@
       "ops": "318.500",
       "gnd": "298.100",
       "twr": "299.100",
-      "appdep": "300.250"
+      "appdep": "300.250",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Samjiyon (ZKSE)/Samjiyon (ZKSE)_AGC.png"
+        },
+        {
+          "name": "APC RWY07",
+          "url": "03 North Korea (DPRK)/Samjiyon (ZKSE)/Samjiyon (ZKSE)_APC_RWY07.png"
+        },
+        {
+          "name": "APC RWY25",
+          "url": "03 North Korea (DPRK)/Samjiyon (ZKSE)/Samjiyon (ZKSE)_APC_RWY25.png"
+        }
+      ]
     }
   },
   {
@@ -1818,7 +2889,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Sangwon Highwaystrip/Sangwon Highwaystrip_AGC.png"
+        },
+        {
+          "name": "APC RWY16",
+          "url": "03 North Korea (DPRK)/Sangwon Highwaystrip/Sangwon Highwaystrip_APC_RWY16.png"
+        },
+        {
+          "name": "APC RWY34",
+          "url": "03 North Korea (DPRK)/Sangwon Highwaystrip/Sangwon Highwaystrip_APC_RWY34.png"
+        }
+      ]
     }
   },
   {
@@ -1841,7 +2926,21 @@
       "ops": "",
       "gnd": "227.500",
       "twr": "227.600",
-      "appdep": "227.725"
+      "appdep": "227.725",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Sanphuzen Liyoufangcun (ZYPZ)/Sanphuzen Liyoufangcun (ZYPZ)_AGC.png"
+        },
+        {
+          "name": "APC RWY05",
+          "url": "04 China (PRC)/Sanphuzen Liyoufangcun (ZYPZ)/Sanphuzen Liyoufangcun (ZYPZ)_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "04 China (PRC)/Sanphuzen Liyoufangcun (ZYPZ)/Sanphuzen Liyoufangcun (ZYPZ)_APC_RWY23.png"
+        }
+      ]
     }
   },
   {
@@ -1864,7 +2963,38 @@
       "ops": "318.100",
       "gnd": "275.800",
       "twr": "353.100",
-      "appdep": "253.950"
+      "appdep": "253.950",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea/Seosan/Seosan_Airport.png"
+        },
+        {
+          "name": "EOR Procedure Chart",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP)_EOR.png",
+          "width": 551
+        },
+        {
+          "name": "ILS RWY 03R (111.5)",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_03r.pdf"
+        },
+        {
+          "name": "ILS RWY 21L (110.1)",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - ilsdme_or_locdme_rwy_21l.pdf"
+        },
+        {
+          "name": "HI-TACAN RWY 03L",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03l.pdf"
+        },
+        {
+          "name": "HI-TACAN RWY 03R",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_tacan_rwy_03r.pdf"
+        },
+        {
+          "name": "HI-ILS RWY 03R",
+          "url": "01 South Korea (ROK-US)/Seosan AB (RKTP)/Seosan AB (RKTP) - hi_ils_or_locdme_rwy_3r.pdf"
+        }
+      ]
     }
   },
   {
@@ -1887,7 +3017,36 @@
       "ops": "225.775",
       "gnd": "276.200",
       "twr": "236.600",
-      "appdep": "363.800"
+      "appdep": "363.800",
+      "charts": [
+        {
+          "name": "Airport Diagram",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ADC.pdf"
+        },
+        {
+          "name": "ILS RWY 20 (110.9)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf"
+        },
+        {
+          "name": "ILS RWY 19 (108.95)",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 7
+        },
+        {
+          "name": "TACAN RWY 19",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 37
+        },
+        {
+          "name": "TACAN RWY 20",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - ILS.pdf",
+          "page": 41
+        },
+        {
+          "name": "Standard Departures",
+          "url": "01 South Korea (ROK-US)/Seoul AB (RKSM)/Seoul AB (RKSM) - SID.pdf"
+        }
+      ]
     }
   },
   {
@@ -1933,7 +3092,21 @@
       "ops": "",
       "gnd": "227.850",
       "twr": "227.875",
-      "appdep": "227.900"
+      "appdep": "227.900",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Shenyang Beiling (ZYBG)/Shenyang Beiling (ZYBG)_AGC.png"
+        },
+        {
+          "name": "APC RWY02",
+          "url": "04 China (PRC)/Shenyang Beiling (ZYBG)/Shenyang Beiling (ZYBG)_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "04 China (PRC)/Shenyang Beiling (ZYBG)/Shenyang Beiling (ZYBG)_APC_RWY20.png"
+        }
+      ]
     }
   },
   {
@@ -1956,7 +3129,21 @@
       "ops": "",
       "gnd": "227.950",
       "twr": "228.025",
-      "appdep": "228.075"
+      "appdep": "228.075",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Shenyang Dongta (ZYYY)/Shenyang Dongta (ZYYY)_AGC.png"
+        },
+        {
+          "name": "APC RWY06",
+          "url": "04 China (PRC)/Shenyang Dongta (ZYYY)/Shenyang Dongta (ZYYY)_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "04 China (PRC)/Shenyang Dongta (ZYYY)/Shenyang Dongta (ZYYY)_APC_RWY24.png"
+        }
+      ]
     }
   },
   {
@@ -1979,7 +3166,21 @@
       "ops": "",
       "gnd": "228.100",
       "twr": "228.200",
-      "appdep": "228.250"
+      "appdep": "228.250",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Shenyang Yuhong (ZYSQ)/Shenyang Yuhong (ZYSQ)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Shenyang Yuhong (ZYSQ)/Shenyang Yuhong (ZYSQ)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Shenyang Yuhong (ZYSQ)/Shenyang Yuhong (ZYSQ)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -2002,7 +3203,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.800",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Singal Highway Strip/Singal Highway Strip_AGC.png"
+        },
+        {
+          "name": "APC RWY01",
+          "url": "01 South Korea (ROK-US)/Singal Highway Strip/Singal Highway Strip_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "01 South Korea (ROK-US)/Singal Highway Strip/Singal Highway Strip_APC_RWY19.png"
+        }
+      ]
     }
   },
   {
@@ -2048,7 +3263,21 @@
       "ops": "362.150",
       "gnd": "340.300",
       "twr": "343.800",
-      "appdep": "342.600"
+      "appdep": "342.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Sondok/Sondok_AGC.png"
+        },
+        {
+          "name": "APC RWY02",
+          "url": "03 North Korea (DPRK)/Sondok/Sondok_APC_RWY02.png"
+        },
+        {
+          "name": "APC RWY20",
+          "url": "03 North Korea (DPRK)/Sondok/Sondok_APC_RWY20.png"
+        }
+      ]
     }
   },
   {
@@ -2094,7 +3323,21 @@
       "ops": "",
       "gnd": "",
       "twr": "",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Songwhan Highway Strip/Songwhan Highway Strip_AGC.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "01 South Korea (ROK-US)/Songwhan Highway Strip/Songwhan Highway Strip_APC_RWY19.png"
+        },
+        {
+          "name": "APC RWY36",
+          "url": "01 South Korea (ROK-US)/Songwhan Highway Strip/Songwhan Highway Strip_APC_RWY36.png"
+        }
+      ]
     }
   },
   {
@@ -2117,7 +3360,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Sugamni/Sugamni_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "03 North Korea (DPRK)/Sugamni/Sugamni_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "03 North Korea (DPRK)/Sugamni/Sugamni_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -2140,7 +3397,29 @@
       "ops": "320.425",
       "gnd": "262.500",
       "twr": "264.000",
-      "appdep": "265.000"
+      "appdep": "265.000",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Sunan Intl (ZKPY)/Sunan Intl (ZKPY)_AGC.png"
+        },
+        {
+          "name": "APC RWY01",
+          "url": "03 North Korea (DPRK)/Sunan Intl (ZKPY)/Sunan Intl (ZKPY)_APC_RWY01.png"
+        },
+        {
+          "name": "APC RWY17",
+          "url": "03 North Korea (DPRK)/Sunan Intl (ZKPY)/Sunan Intl (ZKPY)_APC_RWY17.png"
+        },
+        {
+          "name": "APC RWY19",
+          "url": "03 North Korea (DPRK)/Sunan Intl (ZKPY)/Sunan Intl (ZKPY)_APC_RWY19.png"
+        },
+        {
+          "name": "APC RWY35",
+          "url": "03 North Korea (DPRK)/Sunan Intl (ZKPY)/Sunan Intl (ZKPY)_APC_RWY35.png"
+        }
+      ]
     }
   },
   {
@@ -2163,7 +3442,21 @@
       "ops": "360.100",
       "gnd": "256.200",
       "twr": "253.100",
-      "appdep": "254.800"
+      "appdep": "254.800",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Sunchon  (ZKSC)/Sunchon  (ZKSC)_AGC.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "03 North Korea (DPRK)/Sunchon  (ZKSC)/Sunchon  (ZKSC)_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "03 North Korea (DPRK)/Sunchon  (ZKSC)/Sunchon  (ZKSC)_APC_RWY33.png"
+        }
+      ]
     }
   },
   {
@@ -2209,7 +3502,57 @@
       "ops": "225.675",
       "gnd": "275.700",
       "twr": "366.000",
-      "appdep": "306.400"
+      "appdep": "306.400",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_AGC.png"
+        },
+        {
+          "name": "APC RWY15L",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_APC_RWY15L.png"
+        },
+        {
+          "name": "APC RWY15R",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_APC_RWY15R.png"
+        },
+        {
+          "name": "APC RWY33L",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_APC_RWY33L.png"
+        },
+        {
+          "name": "APC RWY33R",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_APC_RWY33R.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW)_EOR.png"
+        },
+        {
+          "name": "hi tacan rwy 33l",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - hi_tacan_rwy_33l.pdf"
+        },
+        {
+          "name": "ils rwy 33l",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - ils_rwy_33l.pdf"
+        },
+        {
+          "name": "loc dme rwy 33l",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - loc_dme_rwy_33l.pdf"
+        },
+        {
+          "name": "suwon 1 dep",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - suwon_1_dep.pdf"
+        },
+        {
+          "name": "suwon 8 dep",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - suwon_8_dep.pdf"
+        },
+        {
+          "name": "tacan rwy 33l",
+          "url": "01 South Korea (ROK-US)/Suwon AB (RKSW)/Suwon AB (RKSW) - tacan_rwy_33l.pdf"
+        }
+      ]
     }
   },
   {
@@ -2232,7 +3575,21 @@
       "ops": "392.100",
       "gnd": "260.400",
       "twr": "275.500",
-      "appdep": "268.900"
+      "appdep": "268.900",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Taechon/Taechon_AGC.png"
+        },
+        {
+          "name": "APC RWY12",
+          "url": "03 North Korea (DPRK)/Taechon/Taechon_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "03 North Korea (DPRK)/Taechon/Taechon_APC_RWY30.png"
+        }
+      ]
     }
   },
   {
@@ -2255,7 +3612,21 @@
       "ops": "330.450",
       "gnd": "290.300",
       "twr": "288.700",
-      "appdep": "284.700"
+      "appdep": "284.700",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Taetan/Taetan_AGC.png"
+        },
+        {
+          "name": "APC RWY10",
+          "url": "03 North Korea (DPRK)/Taetan/Taetan_APC_RWY10.png"
+        },
+        {
+          "name": "APC RWY28",
+          "url": "03 North Korea (DPRK)/Taetan/Taetan_APC_RWY28.png"
+        }
+      ]
     }
   },
   {
@@ -2278,7 +3649,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Tanchon Airstrip/Tanchon Airstrip_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "03 North Korea (DPRK)/Tanchon Airstrip/Tanchon Airstrip_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "03 North Korea (DPRK)/Tanchon Airstrip/Tanchon Airstrip_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -2301,7 +3686,21 @@
       "ops": "",
       "gnd": "228.350",
       "twr": "228.400",
-      "appdep": "228.475"
+      "appdep": "228.475",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Taoxian (ZYTX)/Taoxian (ZYTX)_AGC.png"
+        },
+        {
+          "name": "APC RWY06",
+          "url": "04 China (PRC)/Taoxian (ZYTX)/Taoxian (ZYTX)_APC_RWY06.png"
+        },
+        {
+          "name": "APC RWY24",
+          "url": "04 China (PRC)/Taoxian (ZYTX)/Taoxian (ZYTX)_APC_RWY24.png"
+        }
+      ]
     }
   },
   {
@@ -2324,7 +3723,21 @@
       "ops": "384.300",
       "gnd": "340.700",
       "twr": "324.800",
-      "appdep": "331.600"
+      "appdep": "331.600",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Toksan/Toksan_AGC.png"
+        },
+        {
+          "name": "APC RWY05",
+          "url": "03 North Korea (DPRK)/Toksan/Toksan_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "03 North Korea (DPRK)/Toksan/Toksan_APC_RWY23.png"
+        }
+      ]
     }
   },
   {
@@ -2347,7 +3760,21 @@
       "ops": "",
       "gnd": "228.525",
       "twr": "229.000",
-      "appdep": "229.050"
+      "appdep": "229.050",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Tonghua Sanyuanpu (ZYTN)/Tonghua Sanyuanpu (ZYTN)_AGC.png"
+        },
+        {
+          "name": "APC RWY05",
+          "url": "04 China (PRC)/Tonghua Sanyuanpu (ZYTN)/Tonghua Sanyuanpu (ZYTN)_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "04 China (PRC)/Tonghua Sanyuanpu (ZYTN)/Tonghua Sanyuanpu (ZYTN)_APC_RWY23.png"
+        }
+      ]
     }
   },
   {
@@ -2370,7 +3797,21 @@
       "ops": "",
       "gnd": "230.900",
       "twr": "231.900",
-      "appdep": "240.125"
+      "appdep": "240.125",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "02 Japan (JAPAN)/Tsushima (RJDT)/Tsushima (RJDT)_AGC.png"
+        },
+        {
+          "name": "APC RWY14",
+          "url": "02 Japan (JAPAN)/Tsushima (RJDT)/Tsushima (RJDT)_APC_RWY14.png"
+        },
+        {
+          "name": "APC RWY32",
+          "url": "02 Japan (JAPAN)/Tsushima (RJDT)/Tsushima (RJDT)_APC_RWY32.png"
+        }
+      ]
     }
   },
   {
@@ -2393,7 +3834,21 @@
       "ops": "337.100",
       "gnd": "370.600",
       "twr": "372.000",
-      "appdep": "372.550"
+      "appdep": "372.550",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Uiju (ZKUJ)/Uiju (ZKUJ)_AGC.png"
+        },
+        {
+          "name": "APC RWY05",
+          "url": "03 North Korea (DPRK)/Uiju (ZKUJ)/Uiju (ZKUJ)_APC_RWY05.png"
+        },
+        {
+          "name": "APC RWY23",
+          "url": "03 North Korea (DPRK)/Uiju (ZKUJ)/Uiju (ZKUJ)_APC_RWY23.png"
+        }
+      ]
     }
   },
   {
@@ -2439,7 +3894,21 @@
       "ops": "",
       "gnd": "229.100",
       "twr": "229.150",
-      "appdep": "229.250"
+      "appdep": "229.250",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Weihai Dashuibo (ZSWH)/Weihai Dashuibo (ZSWH)_AGC.png"
+        },
+        {
+          "name": "APC RWY03",
+          "url": "04 China (PRC)/Weihai Dashuibo (ZSWH)/Weihai Dashuibo (ZSWH)_APC_RWY03.png"
+        },
+        {
+          "name": "APC RWY21",
+          "url": "04 China (PRC)/Weihai Dashuibo (ZSWH)/Weihai Dashuibo (ZSWH)_APC_RWY21.png"
+        }
+      ]
     }
   },
   {
@@ -2485,7 +3954,37 @@
       "ops": "225.575",
       "gnd": "277.800",
       "twr": "265.500",
-      "appdep": "292.600"
+      "appdep": "292.600",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW)_AGC.png"
+        },
+        {
+          "name": "APC RWY04",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW)_APC_RWY04.png"
+        },
+        {
+          "name": "APC RWY22",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW)_APC_RWY22.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Wonju AB (RKNW)/Wonju AB (RKNW) - STAR.pdf"
+        }
+      ]
     }
   },
   {
@@ -2508,7 +4007,21 @@
       "ops": "295.375",
       "gnd": "265.800",
       "twr": "260.200",
-      "appdep": "323.750"
+      "appdep": "323.750",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "02 Japan (JAPAN)/Yamaguchi-Ube (RJDC)/Yamaguchi-Ube (RJDC)_AGC.png"
+        },
+        {
+          "name": "APC RWY07",
+          "url": "02 Japan (JAPAN)/Yamaguchi-Ube (RJDC)/Yamaguchi-Ube (RJDC)_APC_RWY07.png"
+        },
+        {
+          "name": "APC RWY25",
+          "url": "02 Japan (JAPAN)/Yamaguchi-Ube (RJDC)/Yamaguchi-Ube (RJDC)_APC_RWY25.png"
+        }
+      ]
     }
   },
   {
@@ -2554,7 +4067,41 @@
       "ops": "",
       "gnd": "280.125",
       "twr": "240.350",
-      "appdep": "241.600"
+      "appdep": "241.600",
+      "charts": [
+        {
+          "name": "ADC",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY) - ADC.pdf"
+        },
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY)_AGC.png"
+        },
+        {
+          "name": "APC RWY15",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY)_APC_RWY15.png"
+        },
+        {
+          "name": "APC RWY33",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY)_APC_RWY33.png"
+        },
+        {
+          "name": "ILS",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY) - ILS.pdf"
+        },
+        {
+          "name": "SID",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY) - SID.pdf"
+        },
+        {
+          "name": "STAR",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY) - STAR.pdf"
+        },
+        {
+          "name": "VISUAL",
+          "url": "01 South Korea (ROK-US)/Yangyang Intl (RKNY)/Yangyang Intl (RKNY) - VISUAL.pdf"
+        }
+      ]
     }
   },
   {
@@ -2600,7 +4147,21 @@
       "ops": "",
       "gnd": "229.300",
       "twr": "229.350",
-      "appdep": "229.525"
+      "appdep": "229.525",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Yanji (ZYYJ)/Yanji (ZYYJ)_AGC.png"
+        },
+        {
+          "name": "APC RWY09",
+          "url": "04 China (PRC)/Yanji (ZYYJ)/Yanji (ZYYJ)_APC_RWY09.png"
+        },
+        {
+          "name": "APC RWY27",
+          "url": "04 China (PRC)/Yanji (ZYYJ)/Yanji (ZYYJ)_APC_RWY27.png"
+        }
+      ]
     }
   },
   {
@@ -2623,7 +4184,49 @@
       "ops": "236.075",
       "gnd": "234.500",
       "twr": "269.500",
-      "appdep": "229.350"
+      "appdep": "229.350",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY)_AGC.png"
+        },
+        {
+          "name": "APC RWY10",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY)_APC_RWY10.png"
+        },
+        {
+          "name": "APC RWY28",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY)_APC_RWY28.png"
+        },
+        {
+          "name": "EOR",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY)_EOR.png"
+        },
+        {
+          "name": "bigob dep",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - bigob_dep.pdf"
+        },
+        {
+          "name": "elapi dep",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - elapi_dep.pdf"
+        },
+        {
+          "name": "hi tacan rwy 28",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - hi_tacan_rwy_28.pdf"
+        },
+        {
+          "name": "ilsdme rwy 28",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - ilsdme_rwy_28.pdf"
+        },
+        {
+          "name": "noname",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - .pdf"
+        },
+        {
+          "name": "tacan rwy 28",
+          "url": "01 South Korea (ROK-US)/Yecheon AB (RKTY)/Yecheon AB (RKTY) - tacan_rwy_28.pdf"
+        }
+      ]
     }
   },
   {
@@ -2669,7 +4272,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.800",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "01 South Korea (ROK-US)/Yeongju Highway Strip/Yeongju Highway Strip_AGC.png"
+        },
+        {
+          "name": "APC RWY12",
+          "url": "01 South Korea (ROK-US)/Yeongju Highway Strip/Yeongju Highway Strip_APC_RWY12.png"
+        },
+        {
+          "name": "APC RWY30",
+          "url": "01 South Korea (ROK-US)/Yeongju Highway Strip/Yeongju Highway Strip_APC_RWY30.png"
+        }
+      ]
     }
   },
   {
@@ -2715,7 +4332,21 @@
       "ops": "",
       "gnd": "229.575",
       "twr": "229.625",
-      "appdep": "229.800"
+      "appdep": "229.800",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "04 China (PRC)/Yingkou Langqi (ZYYK)/Yingkou Langqi (ZYYK)_AGC.png"
+        },
+        {
+          "name": "APC RWY04",
+          "url": "04 China (PRC)/Yingkou Langqi (ZYYK)/Yingkou Langqi (ZYYK)_APC_RWY04.png"
+        },
+        {
+          "name": "APC RWY22",
+          "url": "04 China (PRC)/Yingkou Langqi (ZYYK)/Yingkou Langqi (ZYYK)_APC_RWY22.png"
+        }
+      ]
     }
   },
   {
@@ -2738,7 +4369,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Yonghung Highwaystrip/Yonghung Highwaystrip_AGC.png"
+        },
+        {
+          "name": "APC RWY11",
+          "url": "03 North Korea (DPRK)/Yonghung Highwaystrip/Yonghung Highwaystrip_APC_RWY11.png"
+        },
+        {
+          "name": "APC RWY29",
+          "url": "03 North Korea (DPRK)/Yonghung Highwaystrip/Yonghung Highwaystrip_APC_RWY29.png"
+        }
+      ]
     }
   },
   {
@@ -2761,7 +4406,21 @@
       "ops": "",
       "gnd": "",
       "twr": "233.700",
-      "appdep": ""
+      "appdep": "",
+      "charts": [
+        {
+          "name": "AGC",
+          "url": "03 North Korea (DPRK)/Yonpo/Yonpo_AGC.png"
+        },
+        {
+          "name": "APC RWY13",
+          "url": "03 North Korea (DPRK)/Yonpo/Yonpo_APC_RWY13.png"
+        },
+        {
+          "name": "APC RWY31",
+          "url": "03 North Korea (DPRK)/Yonpo/Yonpo_APC_RWY31.png"
+        }
+      ]
     }
   }
 ]
