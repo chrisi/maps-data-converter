@@ -21,6 +21,10 @@ func main() {
 		if err != nil {
 			panic(err)
 		}
+		err = GenerateChartFiles("data/charts.json", "data/charts/")
+		if err != nil {
+			panic(err)
+		}
 		return
 	}
 

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "APC RWY06",
+    "url": "NATO/Rivolto/Rivolto_APC_RWY06.png"
+  },
+  {
+    "name": "APC RWY24",
+    "url": "NATO/Rivolto/Rivolto_APC_RWY24.png"
+  },
+  {
+    "name": "Airport",
+    "url": "NATO/Rivolto/Rivolto_Airport.png"
+  },
+  {
+    "name": "DEP CHI1C-D",
+    "url": "NATO/Rivolto/Rivolto_DEP_CHI1C-D.png"
+  },
+  {
+    "name": "DEP ISA1A-B",
+    "url": "NATO/Rivolto/Rivolto_DEP_ISA1A-B.png"
+  },
+  {
+    "name": "DEP ROSKA1C-D",
+    "url": "NATO/Rivolto/Rivolto_DEP_ROSKA1C-D.png"
+  },
+  {
+    "name": "TCN 06",
+    "url": "NATO/Rivolto/Rivolto_TCN_06.png"
+  }
+]
